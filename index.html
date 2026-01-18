@@ -5,16 +5,28 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>AI Intelligence Hub</title>
     <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.10.1/html2pdf.bundle.min.js"></script>
     <style>
         body { background-color: #0f172a; color: #f8fafc; }
-        .card { background: #1e293b; border: 1px solid #334155; transition: transform 0.2s; }
-        .card:hover { transform: translateY(-5px); border-color: #38bdf8; }
+        .card { background: #1e293b; border: 1px solid #334155; }
+        /* Special style for printing to make it look clean on paper */
+        @media print {
+            .no-print { display: none !important; }
+            body { background-color: white !important; color: black !important; }
+            .card { border: 1px solid #ccc !important; page-break-inside: avoid; }
+            h1, h2 { color: #0369a1 !important; }
+        }
     </style>
 </head>
 <body class="p-4 md:p-8">
-    <header class="max-w-6xl mx-auto mb-12 border-b border-slate-700 pb-6">
-        <h1 class="text-4xl font-bold text-sky-400">AI Intelligence Hub</h1>
-        <p class="text-slate-400 mt-2">Hybrid Human Strategy Dashboard • Daily Briefing</p>
+    <header class="max-w-6xl mx-auto mb-12 border-b border-slate-700 pb-6 flex justify-between items-end">
+        <div>
+            <h1 class="text-4xl font-bold text-sky-400">AI Intelligence Hub</h1>
+            <p class="text-slate-400 mt-2">Hybrid Human Strategy Dashboard • Daily Briefing</p>
+        </div>
+        <button id="downloadPdf" class="no-print bg-sky-600 hover:bg-sky-500 text-white font-bold py-2 px-4 rounded-lg transition">
+            Export to PDF
+        </button>
     </header>
 
     <main id="dashboard" class="max-w-6xl mx-auto grid grid-cols-1 md:grid-cols-3 gap-8">
@@ -26,14 +38,12 @@
             try {
                 const response = await fetch('archive.json');
                 const data = await response.json();
-                
-                // Get the most recent date
                 const dates = Object.keys(data).sort().reverse();
                 const latestDate = dates[0];
                 const latestData = data[latestDate];
 
                 const container = document.getElementById('dashboard');
-                container.innerHTML = ''; // Clear loading message
+                container.innerHTML = '';
 
                 for (const [section, items] of Object.entries(latestData)) {
                     let sectionHtml = `
@@ -41,7 +51,6 @@
                             <h2 class="text-xl font-semibold text-sky-300 uppercase tracking-widest border-l-4 border-sky-500 pl-3">${section}</h2>
                             <div class="space-y-4">
                     `;
-
                     items.forEach(item => {
                         sectionHtml += `
                             <div class="card p-5 rounded-xl shadow-lg">
@@ -50,13 +59,26 @@
                             </div>
                         `;
                     });
-
                     sectionHtml += `</div></div>`;
                     container.innerHTML += sectionHtml;
                 }
+
+                // 3. PDF Functionality
+                document.getElementById('downloadPdf').addEventListener('click', () => {
+                    const element = document.getElementById('dashboard');
+                    const opt = {
+                        margin: 0.5,
+                        filename: `AI-Briefing-${latestDate}.pdf`,
+                        image: { type: 'jpeg', quality: 0.98 },
+                        html2canvas: { scale: 2 },
+                        jsPDF: { unit: 'in', format: 'letter', orientation: 'portrait' }
+                    };
+                    // Generate and save the PDF
+                    html2pdf().set(opt).from(element).save();
+                });
+
             } catch (error) {
-                console.error('Error loading data:', error);
-                document.getElementById('dashboard').innerHTML = '<p class="col-span-3 text-red-400">Error loading intelligence feed. Please ensure the scraper has run successfully.</p>';
+                console.error('Error:', error);
             }
         }
         loadDashboard();
