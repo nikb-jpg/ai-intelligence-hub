@@ -55,5 +55,88 @@
                 "summary": "Qualcomm has announced the AI200 and AI250 accelerator solutions for data-centers, aiming to disrupt Nvidia\u2019s dominance in AI inference infrastructure and diversify beyond mobile chips...."
             }
         ]
+    },
+    "2026-01-19": {
+        "Research": [
+            {
+                "title": "Japanese AI Agent System on Human Papillomavirus Vaccination: System Design",
+                "link": "https://arxiv.org/abs/2601.10718",
+                "summary": "arXiv:2601.10718v1 Announce Type: new \nAbstract: Human papillomavirus (HPV) vaccine hesitancy poses significant public health challenges, particularly in Japan where proactive vaccination recommendati..."
+            },
+            {
+                "title": "Do You Trust Me? Cognitive-Affective Signatures of Trustworthiness in Large Language Models",
+                "link": "https://arxiv.org/abs/2601.10719",
+                "summary": "arXiv:2601.10719v1 Announce Type: new \nAbstract: Perceived trustworthiness underpins how users navigate online information, yet it remains unclear whether large language models (LLMs),increasingly emb..."
+            },
+            {
+                "title": "Building AI Agents to Improve Job Referral Requests to Strangers",
+                "link": "https://arxiv.org/abs/2601.10726",
+                "summary": "arXiv:2601.10726v1 Announce Type: new \nAbstract: This paper develops AI agents that help job seekers write effective requests for job referrals in a professional online community. The basic workflow c..."
+            },
+            {
+                "title": "ORBITFLOW: SLO-Aware Long-Context LLM Serving with Fine-Grained KV Cache Reconfiguration",
+                "link": "https://arxiv.org/abs/2601.10729",
+                "summary": "arXiv:2601.10729v1 Announce Type: new \nAbstract: Serving long-context LLMs is challenging because request lengths and batch composition vary during token generation, causing the memory footprint to fl..."
+            },
+            {
+                "title": "CTHA: Constrained Temporal Hierarchical Architecture for Stable Multi-Agent LLM Systems",
+                "link": "https://arxiv.org/abs/2601.10738",
+                "summary": "arXiv:2601.10738v1 Announce Type: new \nAbstract: Recently, multi-time-scale agent architectures have extended the ubiquitous single-loop paradigm by introducing temporal hierarchies with distinct cogn..."
+            }
+        ],
+        "Practitioner": [
+            {
+                "title": "We Stopped CI, Abandoned Code Review, and Embraced AI Pair Programming",
+                "link": "https://www.arcblock.io/blog/en/first-principles-of-ai-native-engineering",
+                "summary": "..."
+            },
+            {
+                "title": "Stop Bloating Your Claude.md: Progressive Disclosure for AI Coding Tools",
+                "link": "https://alexop.dev/posts/stop-bloating-your-claude-md-progressive-disclosure-ai-coding-tools/",
+                "summary": "..."
+            },
+            {
+                "title": "Show HN: RouterLab \u2013 open-source AI API with Swiss hosting",
+                "link": "https://routerlab.ch",
+                "summary": "..."
+            },
+            {
+                "title": "Making a label printer work under Linux using agentic AI",
+                "link": "https://sschueller.github.io/posts/making-a-label-printer-work-under-linux-using-agentic-ai/",
+                "summary": "..."
+            },
+            {
+                "title": "Show HN: NeuroReel \u2013 AI that generates viral TikTok/Reels slides from a topic",
+                "link": "https://news.ycombinator.com/item?id=46675765",
+                "summary": "..."
+            }
+        ],
+        "Prompting": [
+            {
+                "title": "With Gemini 3, Google Begins Rebuilding How Work Gets Done",
+                "link": "https://www.maginative.com/article/googles-gemini-3-is-here-heres-why-it-actually-matters/",
+                "summary": "..."
+            },
+            {
+                "title": "OpenAI Releases Open-Weight Safety Models That Rewrite Policy Rules on the Fly",
+                "link": "https://www.maginative.com/article/openai-releases-open-weight-safety-models-that-rewrite-policy-rules-on-the-fly/",
+                "summary": "OpenAI released gpt-oss-safeguard, open-weight reasoning models that let platforms define and update safety policies at inference time instead of retraining classifiers\u2014part of a broader push with non..."
+            },
+            {
+                "title": "OpenAI Completes Restructuring: Nonprofit \"Control\" with Unlimited Investor Returns",
+                "link": "https://www.maginative.com/article/openai-completes-restructuring-nonprofit-control-with-unlimited-investor-returns/",
+                "summary": "OpenAI completed a long-running recapitalization that puts a newly named OpenAI Foundation in control of a public-benefit for-profit arm\u2014while handing the nonprofit equity worth about $130B and commit..."
+            },
+            {
+                "title": "Thinking Machines Claims 30x Cost Cut for Training AI Models",
+                "link": "https://www.maginative.com/article/thinking-machines-claims-30x-cost-cut-for-training-ai-models/",
+                "summary": "Thinking Machines published a detailed recipe for \u201con-policy distillation,\u201d showing how per-token grading from a teacher model can push small students to strong math and assistant performance at a fra..."
+            },
+            {
+                "title": "Qualcomm Announces AI Inference Chips to Challenge NVIDIA",
+                "link": "https://www.maginative.com/article/qualcomm-announces-ai-inference-chips-to-challenge-nvidia/",
+                "summary": "Qualcomm has announced the AI200 and AI250 accelerator solutions for data-centers, aiming to disrupt Nvidia\u2019s dominance in AI inference infrastructure and diversify beyond mobile chips...."
+            }
+        ]
     }
 }
