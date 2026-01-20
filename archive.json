@@ -138,5 +138,62 @@
                 "summary": "Qualcomm has announced the AI200 and AI250 accelerator solutions for data-centers, aiming to disrupt Nvidia\u2019s dominance in AI inference infrastructure and diversify beyond mobile chips...."
             }
         ]
+    },
+    "2026-01-20": {
+        "Research": [],
+        "Practitioner": [
+            {
+                "title": "I used AI chatbots as a source of news and they were unreliable and erroneous",
+                "link": "https://theconversation.com/i-used-ai-chatbots-as-a-source-of-news-for-a-month-and-they-were-unreliable-and-erroneous-268251",
+                "summary": "..."
+            },
+            {
+                "title": "Show HN: Vibe Coding Entire Full-Stack Apps with AI",
+                "link": "https://www.subterranean.io/",
+                "summary": "..."
+            },
+            {
+                "title": "A nice implementation of AI summary \u2013 Spicy Takes",
+                "link": "https://benn.spicytakes.org/",
+                "summary": "..."
+            },
+            {
+                "title": "Zeiss, the company behind ASML optics, is also doing wildlife monitoring with AI [video]",
+                "link": "https://www.youtube.com/watch?v=7kKJOphMxUw",
+                "summary": "..."
+            },
+            {
+                "title": "Show HN: IncidentFox \u2013 open-source AI SRE with log sampling and RAPTOR retrieval",
+                "link": "https://github.com/incidentfox/incidentfox",
+                "summary": "..."
+            }
+        ],
+        "Prompting": [
+            {
+                "title": "With Gemini 3, Google Begins Rebuilding How Work Gets Done",
+                "link": "https://www.maginative.com/article/googles-gemini-3-is-here-heres-why-it-actually-matters/",
+                "summary": "..."
+            },
+            {
+                "title": "OpenAI Releases Open-Weight Safety Models That Rewrite Policy Rules on the Fly",
+                "link": "https://www.maginative.com/article/openai-releases-open-weight-safety-models-that-rewrite-policy-rules-on-the-fly/",
+                "summary": "OpenAI released gpt-oss-safeguard, open-weight reasoning models that let platforms define and update safety policies at inference time instead of retraining classifiers\u2014part of a broader push with non..."
+            },
+            {
+                "title": "OpenAI Completes Restructuring: Nonprofit \"Control\" with Unlimited Investor Returns",
+                "link": "https://www.maginative.com/article/openai-completes-restructuring-nonprofit-control-with-unlimited-investor-returns/",
+                "summary": "OpenAI completed a long-running recapitalization that puts a newly named OpenAI Foundation in control of a public-benefit for-profit arm\u2014while handing the nonprofit equity worth about $130B and commit..."
+            },
+            {
+                "title": "Thinking Machines Claims 30x Cost Cut for Training AI Models",
+                "link": "https://www.maginative.com/article/thinking-machines-claims-30x-cost-cut-for-training-ai-models/",
+                "summary": "Thinking Machines published a detailed recipe for \u201con-policy distillation,\u201d showing how per-token grading from a teacher model can push small students to strong math and assistant performance at a fra..."
+            },
+            {
+                "title": "Qualcomm Announces AI Inference Chips to Challenge NVIDIA",
+                "link": "https://www.maginative.com/article/qualcomm-announces-ai-inference-chips-to-challenge-nvidia/",
+                "summary": "Qualcomm has announced the AI200 and AI250 accelerator solutions for data-centers, aiming to disrupt Nvidia\u2019s dominance in AI inference infrastructure and diversify beyond mobile chips...."
+            }
+        ]
     }
 }
