@@ -195,5 +195,88 @@
                 "summary": "Qualcomm has announced the AI200 and AI250 accelerator solutions for data-centers, aiming to disrupt Nvidia\u2019s dominance in AI inference infrastructure and diversify beyond mobile chips...."
             }
         ]
+    },
+    "2026-01-21": {
+        "Research": [
+            {
+                "title": "MIMIC-RD: Can LLMs differentially diagnose rare diseases in real-world clinical settings?",
+                "link": "https://arxiv.org/abs/2601.11559",
+                "summary": "arXiv:2601.11559v1 Announce Type: new \nAbstract: Despite rare diseases affecting 1 in 10 Americans, their differential diagnosis remains challenging. Due to their impressive recall abilities, large la..."
+            },
+            {
+                "title": "A Mind Cannot Be Smeared Across Time",
+                "link": "https://arxiv.org/abs/2601.11620",
+                "summary": "arXiv:2601.11620v1 Announce Type: new \nAbstract: Whether machines can be conscious depends not only on what they compute, but \\emph{when} they compute it. Most deployed artificial systems realise thei..."
+            },
+            {
+                "title": "Dynamical Systems Analysis Reveals Functional Regimes in Large Language Models",
+                "link": "https://arxiv.org/abs/2601.11622",
+                "summary": "arXiv:2601.11622v1 Announce Type: new \nAbstract: Large language models perform text generation through high-dimensional internal dynamics, yet the temporal organisation of these dynamics remains poorl..."
+            },
+            {
+                "title": "Reasoning Stabilization Point: A Training-Time Signal for Stable Evidence and Shortcut Reliance",
+                "link": "https://arxiv.org/abs/2601.11625",
+                "summary": "arXiv:2601.11625v1 Announce Type: new \nAbstract: Fine-tuning pretrained language models can improve task performance while subtly altering the evidence a model relies on. We propose a training-time in..."
+            },
+            {
+                "title": "PRISM: Learning Design Knowledge from Data for Stylistic Design Improvement",
+                "link": "https://arxiv.org/abs/2601.11747",
+                "summary": "arXiv:2601.11747v1 Announce Type: new \nAbstract: Graphic design often involves exploring different stylistic directions, which can be time-consuming for non-experts. We address this problem of stylist..."
+            }
+        ],
+        "Practitioner": [
+            {
+                "title": "External AI Representations and Evidentiary Reconstructability",
+                "link": "https://www.aivojournal.org/external-ai-representations-and-evidentiary-reconstructability/",
+                "summary": "..."
+            },
+            {
+                "title": "I built a tool that forces 5 AI to debate and cross-check facts before answering",
+                "link": "https://github.com/KeaBase/kea-research",
+                "summary": "..."
+            },
+            {
+                "title": "Are 'toxic' personality traits useful test cases for AI or behavioral models?",
+                "link": "https://github.com/FlDanyT/ai-celebrity-models",
+                "summary": "..."
+            },
+            {
+                "title": "When I Talk to AI About My Feelings, I Don't Want a Therapy Ad",
+                "link": "https://www.theverge.com/news/864103/mixed-messaging",
+                "summary": "..."
+            },
+            {
+                "title": "Why Submit to AI in Production: Speaking as a Tool for Better Work",
+                "link": "https://www.r-bloggers.com/2026/01/why-submit-to-ai-in-production-speaking-as-a-tool-for-better-work/",
+                "summary": "..."
+            }
+        ],
+        "Prompting": [
+            {
+                "title": "With Gemini 3, Google Begins Rebuilding How Work Gets Done",
+                "link": "https://www.maginative.com/article/googles-gemini-3-is-here-heres-why-it-actually-matters/",
+                "summary": "..."
+            },
+            {
+                "title": "OpenAI Releases Open-Weight Safety Models That Rewrite Policy Rules on the Fly",
+                "link": "https://www.maginative.com/article/openai-releases-open-weight-safety-models-that-rewrite-policy-rules-on-the-fly/",
+                "summary": "OpenAI released gpt-oss-safeguard, open-weight reasoning models that let platforms define and update safety policies at inference time instead of retraining classifiers\u2014part of a broader push with non..."
+            },
+            {
+                "title": "OpenAI Completes Restructuring: Nonprofit \"Control\" with Unlimited Investor Returns",
+                "link": "https://www.maginative.com/article/openai-completes-restructuring-nonprofit-control-with-unlimited-investor-returns/",
+                "summary": "OpenAI completed a long-running recapitalization that puts a newly named OpenAI Foundation in control of a public-benefit for-profit arm\u2014while handing the nonprofit equity worth about $130B and commit..."
+            },
+            {
+                "title": "Thinking Machines Claims 30x Cost Cut for Training AI Models",
+                "link": "https://www.maginative.com/article/thinking-machines-claims-30x-cost-cut-for-training-ai-models/",
+                "summary": "Thinking Machines published a detailed recipe for \u201con-policy distillation,\u201d showing how per-token grading from a teacher model can push small students to strong math and assistant performance at a fra..."
+            },
+            {
+                "title": "Qualcomm Announces AI Inference Chips to Challenge NVIDIA",
+                "link": "https://www.maginative.com/article/qualcomm-announces-ai-inference-chips-to-challenge-nvidia/",
+                "summary": "Qualcomm has announced the AI200 and AI250 accelerator solutions for data-centers, aiming to disrupt Nvidia\u2019s dominance in AI inference infrastructure and diversify beyond mobile chips...."
+            }
+        ]
     }
 }
