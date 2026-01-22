@@ -278,5 +278,88 @@
                 "summary": "Qualcomm has announced the AI200 and AI250 accelerator solutions for data-centers, aiming to disrupt Nvidia\u2019s dominance in AI inference infrastructure and diversify beyond mobile chips...."
             }
         ]
+    },
+    "2026-01-22": {
+        "Research": [
+            {
+                "title": "The Ontological Neutrality Theorem: Why Neutral Ontological Substrates Must Be Pre-Causal and Pre-Normative",
+                "link": "https://arxiv.org/abs/2601.14271",
+                "summary": "arXiv:2601.14271v1 Announce Type: new \nAbstract: Modern data systems must support accountability across persistent legal, political, and analytic disagreement. This requirement imposes strict constrai..."
+            },
+            {
+                "title": "Epistemic Constitutionalism Or: how to avoid coherence bias",
+                "link": "https://arxiv.org/abs/2601.14295",
+                "summary": "arXiv:2601.14295v1 Announce Type: new \nAbstract: Large language models increasingly function as artificial reasoners: they evaluate arguments, assign credibility, and express confidence. Yet their bel..."
+            },
+            {
+                "title": "VisTIRA: Closing the Image-Text Modality Gap in Visual Math Reasoning via Structured Tool Integration",
+                "link": "https://arxiv.org/abs/2601.14440",
+                "summary": "arXiv:2601.14440v1 Announce Type: new \nAbstract: Vision-language models (VLMs) lag behind text-only language models on mathematical reasoning when the same problems are presented as images rather than..."
+            },
+            {
+                "title": "On the Generalization Gap in LLM Planning: Tests and Verifier-Reward RL",
+                "link": "https://arxiv.org/abs/2601.14456",
+                "summary": "arXiv:2601.14456v1 Announce Type: new \nAbstract: Recent work shows that fine-tuned Large Language Models (LLMs) can achieve high valid plan rates on PDDL planning tasks. However, it remains unclear wh..."
+            },
+            {
+                "title": "Scalable Knee-Point Guided Activity Group Selection in Multi-Tree Genetic Programming for Dynamic Multi-Mode Project Scheduling",
+                "link": "https://arxiv.org/abs/2601.14485",
+                "summary": "arXiv:2601.14485v1 Announce Type: new \nAbstract: The dynamic multi-mode resource-constrained project scheduling problem is a challenging scheduling problem that requires making decisions on both the e..."
+            }
+        ],
+        "Practitioner": [
+            {
+                "title": "AI SlopStop by Kagi",
+                "link": "https://help.kagi.com/kagi/features/slopstop.html",
+                "summary": "..."
+            },
+            {
+                "title": "AI Regulation: Fact or Fiction?",
+                "link": "https://www.aivojournal.org/ai-regulation-fact-and-fiction/",
+                "summary": "..."
+            },
+            {
+                "title": "AgentiCorp: AI Agents Orchestrator from Jordan Hubbard",
+                "link": "https://github.com/jordanhubbard/AgentiCorp",
+                "summary": "..."
+            },
+            {
+                "title": "Show HN: An accurate AI password guesser based on personal information",
+                "link": "https://github.com/Tzohar/PassLLM",
+                "summary": "..."
+            },
+            {
+                "title": "What Is DreamAct? Turning Reference Motion into Expressive AI Avatars",
+                "link": "https://www.dreamfaceapp.com/",
+                "summary": "..."
+            }
+        ],
+        "Prompting": [
+            {
+                "title": "With Gemini 3, Google Begins Rebuilding How Work Gets Done",
+                "link": "https://www.maginative.com/article/googles-gemini-3-is-here-heres-why-it-actually-matters/",
+                "summary": "..."
+            },
+            {
+                "title": "OpenAI Releases Open-Weight Safety Models That Rewrite Policy Rules on the Fly",
+                "link": "https://www.maginative.com/article/openai-releases-open-weight-safety-models-that-rewrite-policy-rules-on-the-fly/",
+                "summary": "OpenAI released gpt-oss-safeguard, open-weight reasoning models that let platforms define and update safety policies at inference time instead of retraining classifiers\u2014part of a broader push with non..."
+            },
+            {
+                "title": "OpenAI Completes Restructuring: Nonprofit \"Control\" with Unlimited Investor Returns",
+                "link": "https://www.maginative.com/article/openai-completes-restructuring-nonprofit-control-with-unlimited-investor-returns/",
+                "summary": "OpenAI completed a long-running recapitalization that puts a newly named OpenAI Foundation in control of a public-benefit for-profit arm\u2014while handing the nonprofit equity worth about $130B and commit..."
+            },
+            {
+                "title": "Thinking Machines Claims 30x Cost Cut for Training AI Models",
+                "link": "https://www.maginative.com/article/thinking-machines-claims-30x-cost-cut-for-training-ai-models/",
+                "summary": "Thinking Machines published a detailed recipe for \u201con-policy distillation,\u201d showing how per-token grading from a teacher model can push small students to strong math and assistant performance at a fra..."
+            },
+            {
+                "title": "Qualcomm Announces AI Inference Chips to Challenge NVIDIA",
+                "link": "https://www.maginative.com/article/qualcomm-announces-ai-inference-chips-to-challenge-nvidia/",
+                "summary": "Qualcomm has announced the AI200 and AI250 accelerator solutions for data-centers, aiming to disrupt Nvidia\u2019s dominance in AI inference infrastructure and diversify beyond mobile chips...."
+            }
+        ]
     }
 }
