@@ -361,5 +361,88 @@
                 "summary": "Qualcomm has announced the AI200 and AI250 accelerator solutions for data-centers, aiming to disrupt Nvidia\u2019s dominance in AI inference infrastructure and diversify beyond mobile chips...."
             }
         ]
+    },
+    "2026-01-23": {
+        "Research": [
+            {
+                "title": "Gated Sparse Attention: Combining Computational Efficiency with Training Stability for Long-Context Language Models",
+                "link": "https://arxiv.org/abs/2601.15305",
+                "summary": "arXiv:2601.15305v1 Announce Type: new \nAbstract: The computational burden of attention in long-context language models has motivated two largely independent lines of work: sparse attention mechanisms ..."
+            },
+            {
+                "title": "Uncovering Latent Bias in LLM-Based Emergency Department Triage Through Proxy Variables",
+                "link": "https://arxiv.org/abs/2601.15306",
+                "summary": "arXiv:2601.15306v1 Announce Type: new \nAbstract: Recent advances in large language models (LLMs) have enabled their integration into clinical decision-making; however, hidden biases against patients a..."
+            },
+            {
+                "title": "DeepSurvey-Bench: Evaluating Academic Value of Automatically Generated Scientific Survey",
+                "link": "https://arxiv.org/abs/2601.15307",
+                "summary": "arXiv:2601.15307v1 Announce Type: new \nAbstract: The rapid development of automated scientific survey generation technology has made it increasingly important to establish a comprehensive benchmark to..."
+            },
+            {
+                "title": "Aeon: High-Performance Neuro-Symbolic Memory Management for Long-Horizon LLM Agents",
+                "link": "https://arxiv.org/abs/2601.15311",
+                "summary": "arXiv:2601.15311v1 Announce Type: new \nAbstract: Large Language Models (LLMs) are fundamentally constrained by the quadratic computational cost of self-attention and the \"Lost in the Middle\" phenomeno..."
+            },
+            {
+                "title": "The Paradigm Shift: A Comprehensive Survey on Large Vision Language Models for Multimodal Fake News Detection",
+                "link": "https://arxiv.org/abs/2601.15316",
+                "summary": "arXiv:2601.15316v1 Announce Type: new \nAbstract: In recent years, the rapid evolution of large vision-language models (LVLMs) has driven a paradigm shift in multimodal fake news detection (MFND), tran..."
+            }
+        ],
+        "Practitioner": [
+            {
+                "title": "AI-exposed jobs deteriorated before ChatGPT",
+                "link": "https://arxiv.org/abs/2601.02554",
+                "summary": "..."
+            },
+            {
+                "title": "Towards Execution-Grounded Automated AI Research",
+                "link": "https://arxiv.org/abs/2601.14525",
+                "summary": "..."
+            },
+            {
+                "title": "We\u2019re all VCs now:The skills developers need in the AI era",
+                "link": "https://lerner.co.il/2026/01/21/were-all-vcs-now-the-skills-developers-need-in-the-ai-era/",
+                "summary": "..."
+            },
+            {
+                "title": "Clawdbot Showed Me What the Future of Personal AI Assistants Looks Like",
+                "link": "https://www.macstories.net/stories/clawdbot-showed-me-what-the-future-of-personal-ai-assistants-looks-like/",
+                "summary": "..."
+            },
+            {
+                "title": "Show HN: Tryveo4.io \u2013 Veo 4 focused AI video generation",
+                "link": "https://tryveo4.io/http:/localhost:3000",
+                "summary": "..."
+            }
+        ],
+        "Prompting": [
+            {
+                "title": "With Gemini 3, Google Begins Rebuilding How Work Gets Done",
+                "link": "https://www.maginative.com/article/googles-gemini-3-is-here-heres-why-it-actually-matters/",
+                "summary": "..."
+            },
+            {
+                "title": "OpenAI Releases Open-Weight Safety Models That Rewrite Policy Rules on the Fly",
+                "link": "https://www.maginative.com/article/openai-releases-open-weight-safety-models-that-rewrite-policy-rules-on-the-fly/",
+                "summary": "OpenAI released gpt-oss-safeguard, open-weight reasoning models that let platforms define and update safety policies at inference time instead of retraining classifiers\u2014part of a broader push with non..."
+            },
+            {
+                "title": "OpenAI Completes Restructuring: Nonprofit \"Control\" with Unlimited Investor Returns",
+                "link": "https://www.maginative.com/article/openai-completes-restructuring-nonprofit-control-with-unlimited-investor-returns/",
+                "summary": "OpenAI completed a long-running recapitalization that puts a newly named OpenAI Foundation in control of a public-benefit for-profit arm\u2014while handing the nonprofit equity worth about $130B and commit..."
+            },
+            {
+                "title": "Thinking Machines Claims 30x Cost Cut for Training AI Models",
+                "link": "https://www.maginative.com/article/thinking-machines-claims-30x-cost-cut-for-training-ai-models/",
+                "summary": "Thinking Machines published a detailed recipe for \u201con-policy distillation,\u201d showing how per-token grading from a teacher model can push small students to strong math and assistant performance at a fra..."
+            },
+            {
+                "title": "Qualcomm Announces AI Inference Chips to Challenge NVIDIA",
+                "link": "https://www.maginative.com/article/qualcomm-announces-ai-inference-chips-to-challenge-nvidia/",
+                "summary": "Qualcomm has announced the AI200 and AI250 accelerator solutions for data-centers, aiming to disrupt Nvidia\u2019s dominance in AI inference infrastructure and diversify beyond mobile chips...."
+            }
+        ]
     }
 }
