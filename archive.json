@@ -558,5 +558,88 @@
                 "summary": "Qualcomm has announced the AI200 and AI250 accelerator solutions for data-centers, aiming to disrupt Nvidia\u2019s dominance in AI inference infrastructure and diversify beyond mobile chips...."
             }
         ]
+    },
+    "2026-01-26": {
+        "Research": [
+            {
+                "title": "When Agents Fail to Act: A Diagnostic Framework for Tool Invocation Reliability in Multi-Agent LLM Systems",
+                "link": "https://arxiv.org/abs/2601.16280",
+                "summary": "arXiv:2601.16280v1 Announce Type: new \nAbstract: Multi-agent systems powered by large language models (LLMs) are transforming enterprise automation, yet systematic evaluation methodologies for assessi..."
+            },
+            {
+                "title": "SemanticALLI: Caching Reasoning, Not Just Responses, in Agentic Systems",
+                "link": "https://arxiv.org/abs/2601.16286",
+                "summary": "arXiv:2601.16286v1 Announce Type: new \nAbstract: Agentic AI pipelines suffer from a hidden inefficiency: they frequently reconstruct identical intermediate logic, such as metric normalization or chart..."
+            },
+            {
+                "title": "DSGym: A Holistic Framework for Evaluating and Training Data Science Agents",
+                "link": "https://arxiv.org/abs/2601.16344",
+                "summary": "arXiv:2601.16344v1 Announce Type: new \nAbstract: Data science agents promise to accelerate discovery and insight-generation by turning data into executable analyses and findings. Yet existing data sci..."
+            },
+            {
+                "title": "Doc2AHP: Inferring Structured Multi-Criteria Decision Models via Semantic Trees with LLMs",
+                "link": "https://arxiv.org/abs/2601.16479",
+                "summary": "arXiv:2601.16479v1 Announce Type: new \nAbstract: While Large Language Models (LLMs) demonstrate remarkable proficiency in semantic understanding, they often struggle to ensure structural consistency a..."
+            },
+            {
+                "title": "SycoEval-EM: Sycophancy Evaluation of Large Language Models in Simulated Clinical Encounters for Emergency Care",
+                "link": "https://arxiv.org/abs/2601.16529",
+                "summary": "arXiv:2601.16529v1 Announce Type: new \nAbstract: Large language models (LLMs) show promise in clinical decision support yet risk acquiescing to patient pressure for inappropriate care. We introduce Sy..."
+            }
+        ],
+        "Practitioner": [
+            {
+                "title": "Faster-Drying Paint and Better-Smelling Soap: AI Tries Product Development",
+                "link": "https://www.wsj.com/tech/ai/faster-drying-paint-and-better-smelling-soap-ai-tries-product-development-e7a544d7",
+                "summary": "..."
+            },
+            {
+                "title": "Find competitors or similar tools by 3 AI agents",
+                "link": "https://openagents.org/blog/posts/2026-01-10-walkthrough-creating-a-multi-agent-tool-with",
+                "summary": "..."
+            },
+            {
+                "title": "AI Job Cuts Are Landing Hardest in Britain, Morgan Stanley Says",
+                "link": "https://www.bloomberg.com/news/articles/2026-01-26/ai-job-cuts-are-landing-hardest-in-britain-morgan-stanley-says",
+                "summary": "..."
+            },
+            {
+                "title": "AI Bruises Britain",
+                "link": "https://www.bloomberg.com/news/newsletters/2026-01-26/ai-job-cuts-hit-britain-hardest-morgan-stanley-says",
+                "summary": "..."
+            },
+            {
+                "title": "AI hallucinates. How do you keep it from fucking up automations?",
+                "link": "https://news.ycombinator.com/item?id=46763092",
+                "summary": "..."
+            }
+        ],
+        "Prompting": [
+            {
+                "title": "With Gemini 3, Google Begins Rebuilding How Work Gets Done",
+                "link": "https://www.maginative.com/article/googles-gemini-3-is-here-heres-why-it-actually-matters/",
+                "summary": "..."
+            },
+            {
+                "title": "OpenAI Releases Open-Weight Safety Models That Rewrite Policy Rules on the Fly",
+                "link": "https://www.maginative.com/article/openai-releases-open-weight-safety-models-that-rewrite-policy-rules-on-the-fly/",
+                "summary": "OpenAI released gpt-oss-safeguard, open-weight reasoning models that let platforms define and update safety policies at inference time instead of retraining classifiers\u2014part of a broader push with non..."
+            },
+            {
+                "title": "OpenAI Completes Restructuring: Nonprofit \"Control\" with Unlimited Investor Returns",
+                "link": "https://www.maginative.com/article/openai-completes-restructuring-nonprofit-control-with-unlimited-investor-returns/",
+                "summary": "OpenAI completed a long-running recapitalization that puts a newly named OpenAI Foundation in control of a public-benefit for-profit arm\u2014while handing the nonprofit equity worth about $130B and commit..."
+            },
+            {
+                "title": "Thinking Machines Claims 30x Cost Cut for Training AI Models",
+                "link": "https://www.maginative.com/article/thinking-machines-claims-30x-cost-cut-for-training-ai-models/",
+                "summary": "Thinking Machines published a detailed recipe for \u201con-policy distillation,\u201d showing how per-token grading from a teacher model can push small students to strong math and assistant performance at a fra..."
+            },
+            {
+                "title": "Qualcomm Announces AI Inference Chips to Challenge NVIDIA",
+                "link": "https://www.maginative.com/article/qualcomm-announces-ai-inference-chips-to-challenge-nvidia/",
+                "summary": "Qualcomm has announced the AI200 and AI250 accelerator solutions for data-centers, aiming to disrupt Nvidia\u2019s dominance in AI inference infrastructure and diversify beyond mobile chips...."
+            }
+        ]
     }
 }
