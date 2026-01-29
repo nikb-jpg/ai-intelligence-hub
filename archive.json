@@ -755,5 +755,62 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-01-29": {
+        "Research": [
+            {
+                "title": "NeuroAI and Beyond",
+                "link": "https://arxiv.org/abs/2601.19955",
+                "summary": "arXiv:2601.19955v1 Announce Type: new \nAbstract: Neuroscience and Artificial Intelligence (AI) have made significant progress in the past few years but have only been loosely inter-connected. Based on..."
+            },
+            {
+                "title": "Teaching LLMs to Ask: Self-Querying Category-Theoretic Planning for Under-Specified Reasoning",
+                "link": "https://arxiv.org/abs/2601.20014",
+                "summary": "arXiv:2601.20014v1 Announce Type: new \nAbstract: Inference-time planning with large language models frequently breaks under partial observability: when task-critical preconditions are not specified at..."
+            },
+            {
+                "title": "Fuzzy Categorical Planning: Autonomous Goal Satisfaction with Graded Semantic Constraints",
+                "link": "https://arxiv.org/abs/2601.20021",
+                "summary": "arXiv:2601.20021v1 Announce Type: new \nAbstract: Natural-language planning often involves vague predicates (e.g., suitable substitute, stable enough) whose satisfaction is inherently graded. Existing ..."
+            },
+            {
+                "title": "Insight Agents: An LLM-Based Multi-Agent System for Data Insights",
+                "link": "https://arxiv.org/abs/2601.20048",
+                "summary": "arXiv:2601.20048v1 Announce Type: new \nAbstract: Today, E-commerce sellers face several key challenges, including difficulties in discovering and effectively utilizing available programs and tools, an..."
+            },
+            {
+                "title": "Should I Have Expressed a Different Intent? Counterfactual Generation for LLM-Based Autonomous Control",
+                "link": "https://arxiv.org/abs/2601.20090",
+                "summary": "arXiv:2601.20090v1 Announce Type: new \nAbstract: Large language model (LLM)-powered agents can translate high-level user intents into plans and actions in an environment. Yet after observing an outcom..."
+            }
+        ],
+        "Practitioner": [
+            {
+                "title": "Show HN: What if personal AI served society? A demo to counter polarization",
+                "link": "https://news.ycombinator.com/item?id=46808001",
+                "summary": "..."
+            },
+            {
+                "title": "Sam Altman's AI Combinator and AI Paul Graham",
+                "link": "https://www.latent.space/p/ainews-sam-altmans-ai-combinator",
+                "summary": "..."
+            },
+            {
+                "title": "News publishers limit Internet Archive access due to AI scraping concerns",
+                "link": "https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/",
+                "summary": "..."
+            },
+            {
+                "title": "Show HN: Post Tomato \u2013 simple social media publishing with AI",
+                "link": "https://posttomato.com",
+                "summary": "..."
+            },
+            {
+                "title": "Lessons from shutting down an AI Fashion Stylist app used by millions",
+                "link": "https://prtkagwl.substack.com/p/learnings-from-consumer-ai-fashion",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
