@@ -812,5 +812,62 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-01-30": {
+        "Research": [
+            {
+                "title": "NeuroAI and Beyond",
+                "link": "https://arxiv.org/abs/2601.19955",
+                "summary": "arXiv:2601.19955v1 Announce Type: new \nAbstract: Neuroscience and Artificial Intelligence (AI) have made significant progress in the past few years but have only been loosely inter-connected. Based on..."
+            },
+            {
+                "title": "Teaching LLMs to Ask: Self-Querying Category-Theoretic Planning for Under-Specified Reasoning",
+                "link": "https://arxiv.org/abs/2601.20014",
+                "summary": "arXiv:2601.20014v1 Announce Type: new \nAbstract: Inference-time planning with large language models frequently breaks under partial observability: when task-critical preconditions are not specified at..."
+            },
+            {
+                "title": "Fuzzy Categorical Planning: Autonomous Goal Satisfaction with Graded Semantic Constraints",
+                "link": "https://arxiv.org/abs/2601.20021",
+                "summary": "arXiv:2601.20021v1 Announce Type: new \nAbstract: Natural-language planning often involves vague predicates (e.g., suitable substitute, stable enough) whose satisfaction is inherently graded. Existing ..."
+            },
+            {
+                "title": "Insight Agents: An LLM-Based Multi-Agent System for Data Insights",
+                "link": "https://arxiv.org/abs/2601.20048",
+                "summary": "arXiv:2601.20048v1 Announce Type: new \nAbstract: Today, E-commerce sellers face several key challenges, including difficulties in discovering and effectively utilizing available programs and tools, an..."
+            },
+            {
+                "title": "Should I Have Expressed a Different Intent? Counterfactual Generation for LLM-Based Autonomous Control",
+                "link": "https://arxiv.org/abs/2601.20090",
+                "summary": "arXiv:2601.20090v2 Announce Type: new \nAbstract: Large language model (LLM)-powered agents can translate high-level user intents into plans and actions in an environment. Yet after observing an outcom..."
+            }
+        ],
+        "Practitioner": [
+            {
+                "title": "How the NoteGPT AI Essay Writer Transforms Your Academic Workflow",
+                "link": "https://notegpt.io/ai-essay-writer",
+                "summary": "..."
+            },
+            {
+                "title": "Show HN: Indx.sh \u2013 Directory of AI coding rules, MCP servers, and tool",
+                "link": "https://indx.sh",
+                "summary": "..."
+            },
+            {
+                "title": "FFmpeg is not happy with AI generated patches sent by AMD",
+                "link": "https://twitter.com/FFmpeg/status/2016981960015437994",
+                "summary": "..."
+            },
+            {
+                "title": "Ask HN: AI progress feels unusually fast- where do you think this is heading?",
+                "link": "https://news.ycombinator.com/item?id=46822260",
+                "summary": "..."
+            },
+            {
+                "title": "The Connection Machine CM-1 \"Feynman\" T-shirt",
+                "link": "https://tamikothiel.com/cm/cm-tshirt.html",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
