@@ -869,5 +869,36 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-01-31": {
+        "Research": [],
+        "Practitioner": [
+            {
+                "title": "AI Impacts Skill Formation",
+                "link": "https://old.reddit.com/r/programming/comments/1qqxvlw/anthropic_ai_assisted_coding_doesnt_show/",
+                "summary": "..."
+            },
+            {
+                "title": "When External Parties Ask About AI Influence",
+                "link": "https://www.aivojournal.org/when-external-parties-ask-about-ai-influence/",
+                "summary": "..."
+            },
+            {
+                "title": "Show HN: EditorWatch \u2013 Detect AI cheating by analyzing how students write code",
+                "link": "https://github.com/Vic-Nas/EditorWatch",
+                "summary": "..."
+            },
+            {
+                "title": "Show HN: Oyster Bot \u2013 AI assistant for your phone, powered by Claude Code",
+                "link": "https://github.com/TimFinnigan/oyster-bot",
+                "summary": "..."
+            },
+            {
+                "title": "AI isn't making you faster. It's making you forgetful",
+                "link": "https://jpcaparas.medium.com/ai-isnt-making-you-faster-it-s-making-you-forgetful-2d1ce729e321",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
