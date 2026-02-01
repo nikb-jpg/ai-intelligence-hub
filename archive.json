@@ -900,5 +900,36 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-02-01": {
+        "Research": [],
+        "Practitioner": [
+            {
+                "title": "China's genius plan to win the AI race is paying off",
+                "link": "https://www.ft.com/content/68f60392-88bf-419c-96c7-c3d580ec9d97",
+                "summary": "..."
+            },
+            {
+                "title": "AI Churches and Botnet Architecture: A Risk Assessment",
+                "link": "https://maciejjankowski.com/2026/02/01/ai-churches-botnet-architecture/",
+                "summary": "..."
+            },
+            {
+                "title": "The Machine as Manager",
+                "link": "https://bravenewteams.substack.com/p/the-machine-as-manager",
+                "summary": "..."
+            },
+            {
+                "title": "Show HN: MoPeD \u2013 High-performance workspace with integrated AI",
+                "link": "https://moped.base44.app",
+                "summary": "..."
+            },
+            {
+                "title": "The AI Memory Solution We All Need (No, It's Not OpenClaw)",
+                "link": "https://chrislema.com/the-ai-memory-solution-we-all-need-no-its-not-openclaw/",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
