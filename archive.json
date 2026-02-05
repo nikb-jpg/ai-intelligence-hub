@@ -1102,5 +1102,62 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-02-05": {
+        "Research": [
+            {
+                "title": "Knowledge Model Prompting Increases LLM Performance on Planning Tasks",
+                "link": "https://arxiv.org/abs/2602.03900",
+                "summary": "arXiv:2602.03900v1 Announce Type: new \nAbstract: Large Language Models (LLM) can struggle with reasoning ability and planning tasks. Many prompting techniques have been developed to assist with LLM re..."
+            },
+            {
+                "title": "Enhancing Mathematical Problem Solving in LLMs through Execution-Driven Reasoning Augmentation",
+                "link": "https://arxiv.org/abs/2602.03950",
+                "summary": "arXiv:2602.03950v1 Announce Type: new \nAbstract: Mathematical problem solving is a fundamental benchmark for assessing the reasoning capabilities of artificial intelligence and a gateway to applicatio..."
+            },
+            {
+                "title": "AgentArk: Distilling Multi-Agent Intelligence into a Single LLM Agent",
+                "link": "https://arxiv.org/abs/2602.03955",
+                "summary": "arXiv:2602.03955v1 Announce Type: new \nAbstract: While large language model (LLM) multi-agent systems achieve superior reasoning performance through iterative debate, practical deployment is limited b..."
+            },
+            {
+                "title": "Active Epistemic Control for Query-Efficient Verified Planning",
+                "link": "https://arxiv.org/abs/2602.03974",
+                "summary": "arXiv:2602.03974v1 Announce Type: new \nAbstract: Planning in interactive environments is challenging under partial observability: task-critical preconditions (e.g., object locations or container state..."
+            },
+            {
+                "title": "Adaptive Test-Time Compute Allocation via Learned Heuristics over Categorical Structure",
+                "link": "https://arxiv.org/abs/2602.03975",
+                "summary": "arXiv:2602.03975v1 Announce Type: new \nAbstract: Test-time computation has become a primary driver of progress in large language model (LLM) reasoning, but it is increasingly bottlenecked by expensive..."
+            }
+        ],
+        "Practitioner": [
+            {
+                "title": "AI is taking devs' jobs. Yes, **BUT",
+                "link": "https://news.ycombinator.com/item?id=46897828",
+                "summary": "..."
+            },
+            {
+                "title": "CodeShield AI \u2013 Open-source security scanner (24% cheaper than GitGuardian)",
+                "link": "https://lydiamorgan85.github.io/codeshield-ai/",
+                "summary": "..."
+            },
+            {
+                "title": "What we've been getting wrong about AI's truth crisis",
+                "link": "https://www.technologyreview.com/2026/02/02/1132068/what-weve-been-getting-wrong-about-ais-truth-crisis/",
+                "summary": "..."
+            },
+            {
+                "title": "AWS intruder pulled off AI-assisted cloud break-in in 8 mins",
+                "link": "https://www.theregister.com/2026/02/04/aws_cloud_breakin_ai_assist/",
+                "summary": "..."
+            },
+            {
+                "title": "Your phone edits all your photos with AI\u2013is it changing your view of reality?",
+                "link": "https://www.bbc.com/future/article/20260203-the-ai-that-quietly-edits-all-of-your-photos",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
