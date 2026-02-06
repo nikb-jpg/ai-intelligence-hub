@@ -1159,5 +1159,62 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-02-06": {
+        "Research": [
+            {
+                "title": "Knowledge Model Prompting Increases LLM Performance on Planning Tasks",
+                "link": "https://arxiv.org/abs/2602.03900",
+                "summary": "arXiv:2602.03900v1 Announce Type: new \nAbstract: Large Language Models (LLM) can struggle with reasoning ability and planning tasks. Many prompting techniques have been developed to assist with LLM re..."
+            },
+            {
+                "title": "Enhancing Mathematical Problem Solving in LLMs through Execution-Driven Reasoning Augmentation",
+                "link": "https://arxiv.org/abs/2602.03950",
+                "summary": "arXiv:2602.03950v1 Announce Type: new \nAbstract: Mathematical problem solving is a fundamental benchmark for assessing the reasoning capabilities of artificial intelligence and a gateway to applicatio..."
+            },
+            {
+                "title": "AgentArk: Distilling Multi-Agent Intelligence into a Single LLM Agent",
+                "link": "https://arxiv.org/abs/2602.03955",
+                "summary": "arXiv:2602.03955v1 Announce Type: new \nAbstract: While large language model (LLM) multi-agent systems achieve superior reasoning performance through iterative debate, practical deployment is limited b..."
+            },
+            {
+                "title": "Active Epistemic Control for Query-Efficient Verified Planning",
+                "link": "https://arxiv.org/abs/2602.03974",
+                "summary": "arXiv:2602.03974v1 Announce Type: new \nAbstract: Planning in interactive environments is challenging under partial observability: task-critical preconditions (e.g., object locations or container state..."
+            },
+            {
+                "title": "Adaptive Test-Time Compute Allocation via Learned Heuristics over Categorical Structure",
+                "link": "https://arxiv.org/abs/2602.03975",
+                "summary": "arXiv:2602.03975v1 Announce Type: new \nAbstract: Test-time computation has become a primary driver of progress in large language model (LLM) reasoning, but it is increasingly bottlenecked by expensive..."
+            }
+        ],
+        "Practitioner": [
+            {
+                "title": "A new bill in New York would require disclaimers on AI-generated news content",
+                "link": "https://www.niemanlab.org/2026/02/a-new-bill-in-new-york-would-require-disclaimers-on-ai-generated-news-content/",
+                "summary": "..."
+            },
+            {
+                "title": "Show HN: Emotion as cognitive infrastructure in AI, not just output",
+                "link": "https://twitter.com/NexAIOS/status/2019352896840851834",
+                "summary": "..."
+            },
+            {
+                "title": "Show HN: ThumbNew \u2013 A fast AI thumbnail generator for creators",
+                "link": "https://thumbnew.netlify.app",
+                "summary": "..."
+            },
+            {
+                "title": "Cop Transforms into Frog, According to AI-Generated Police Report",
+                "link": "https://www.forbes.com/sites/larsdaniel/2026/01/04/cop-transforms-into-frog-according-to-ai-generated-police-report/",
+                "summary": "..."
+            },
+            {
+                "title": "Lessons from securing AI systems at runtime (agents, MCPs, LLMs)",
+                "link": "https://news.ycombinator.com/item?id=46910753",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
