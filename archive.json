@@ -1273,5 +1273,36 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-02-08": {
+        "Research": [],
+        "Practitioner": [
+            {
+                "title": "Show HN: WeaveMind \u2013 AI Workflows with human-in-the-loop",
+                "link": "https://weavemind.ai",
+                "summary": "..."
+            },
+            {
+                "title": "Show HN: Seedream 5.0: free AI image generator that claims strong text rendering",
+                "link": "https://seedream5ai.org",
+                "summary": "..."
+            },
+            {
+                "title": "We are not scared of AI, we are scared of irrelevance",
+                "link": "https://adlrocha.substack.com/p/adlrocha-we-are-not-scared-of-ai",
+                "summary": "..."
+            },
+            {
+                "title": "Show HN: Kybera \u2013 Agentic Smart Wallet with AI Osint and Reputation Tracking",
+                "link": "https://kybera.xyz",
+                "summary": "..."
+            },
+            {
+                "title": "Matchlock: Linux-based sandboxing for AI agents",
+                "link": "https://github.com/jingkaihe/matchlock",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
