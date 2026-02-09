@@ -1304,5 +1304,62 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-02-09": {
+        "Research": [
+            {
+                "title": "Jackpot: Optimal Budgeted Rejection Sampling for Extreme Actor-Policy Mismatch Reinforcement Learning",
+                "link": "https://arxiv.org/abs/2602.06107",
+                "summary": "arXiv:2602.06107v1 Announce Type: new \nAbstract: Reinforcement learning (RL) for large language models (LLMs) remains expensive, particularly because the rollout is expensive. Decoupling rollout gener..."
+            },
+            {
+                "title": "Large Language Model Reasoning Failures",
+                "link": "https://arxiv.org/abs/2602.06176",
+                "summary": "arXiv:2602.06176v1 Announce Type: new \nAbstract: Large Language Models (LLMs) have exhibited remarkable reasoning capabilities, achieving impressive results across a wide range of tasks. Despite these..."
+            },
+            {
+                "title": "Do It for HER: First-Order Temporal Logic Reward Specification in Reinforcement Learning (Extended Version)",
+                "link": "https://arxiv.org/abs/2602.06227",
+                "summary": "arXiv:2602.06227v1 Announce Type: new \nAbstract: In this work, we propose a novel framework for the logical specification of non-Markovian rewards in Markov Decision Processes (MDPs) with large state ..."
+            },
+            {
+                "title": "Do LLMs Act Like Rational Agents? Measuring Belief Coherence in Probabilistic Decision Making",
+                "link": "https://arxiv.org/abs/2602.06286",
+                "summary": "arXiv:2602.06286v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly deployed as agents in high-stakes domains where optimal actions depend on both uncertainty about the worl..."
+            },
+            {
+                "title": "Exposing Weaknesses of Large Reasoning Models through Graph Algorithm Problems",
+                "link": "https://arxiv.org/abs/2602.06319",
+                "summary": "arXiv:2602.06319v1 Announce Type: new \nAbstract: Large Reasoning Models (LRMs) have advanced rapidly; however, existing benchmarks in mathematics, code, and common-sense reasoning remain limited. They..."
+            }
+        ],
+        "Practitioner": [
+            {
+                "title": "FLUX.2 Klein \u2013 Fastest AI Image Generator \u2013 Free to Try",
+                "link": "https://flux2-klein.org/",
+                "summary": "..."
+            },
+            {
+                "title": "Making AI sustainable by design is key to greener future - World Economic Forum",
+                "link": "https://www.weforum.org/stories/2026/02/designing-sustainable-ai-better-future/",
+                "summary": "..."
+            },
+            {
+                "title": "Show HN: I built an invoicing SaaS with AI-generated invoice templates",
+                "link": "https://www.invocrea.com/en",
+                "summary": "..."
+            },
+            {
+                "title": "Open-source EU AI Act compliance middleware",
+                "link": "https://medium.com/@sagargr111/eu-ai-act-compliance-for-enterprise-ai-systems-what-your-engineering-team-needs-to-build-a4656c917977",
+                "summary": "..."
+            },
+            {
+                "title": "Corning Invented a New Fiber-Optic Cable for AI and Landed a $6B Meta Deal [video]",
+                "link": "https://www.youtube.com/watch?v=Y3KLbc5DlRs",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
