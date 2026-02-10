@@ -1361,5 +1361,62 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-02-10": {
+        "Research": [
+            {
+                "title": "LLM-FSM: Scaling Large Language Models for Finite-State Reasoning in RTL Code Generation",
+                "link": "https://arxiv.org/abs/2602.07032",
+                "summary": "arXiv:2602.07032v1 Announce Type: new \nAbstract: Finite-state reasoning, the ability to understand and implement state-dependent behavior, is central to hardware design. In this paper, we present LLM-..."
+            },
+            {
+                "title": "ST-Raptor: An Agentic System for Semi-Structured Table QA",
+                "link": "https://arxiv.org/abs/2602.07034",
+                "summary": "arXiv:2602.07034v1 Announce Type: new \nAbstract: Semi-structured table question answering (QA) is a challenging task that requires (1) precise extraction of cell contents and positions and (2) accurat..."
+            },
+            {
+                "title": "DLLM-Searcher: Adapting Diffusion Large Language Model for Search Agents",
+                "link": "https://arxiv.org/abs/2602.07035",
+                "summary": "arXiv:2602.07035v1 Announce Type: new \nAbstract: Recently, Diffusion Large Language Models (dLLMs) have demonstrated unique efficiency advantages, enabled by their inherently parallel decoding mechani..."
+            },
+            {
+                "title": "Aster: Autonomous Scientific Discovery over 20x Faster Than Existing Methods",
+                "link": "https://arxiv.org/abs/2602.07040",
+                "summary": "arXiv:2602.07040v1 Announce Type: new \nAbstract: We introduce Aster, an AI agent for autonomous scientific discovery capable of operating over 20 times faster than existing frameworks. Given a task, a..."
+            },
+            {
+                "title": "Theory of Space: Can Foundation Models Construct Spatial Beliefs through Active Exploration?",
+                "link": "https://arxiv.org/abs/2602.07055",
+                "summary": "arXiv:2602.07055v1 Announce Type: new \nAbstract: Spatial embodied intelligence requires agents to act to acquire information under partial observability. While multimodal foundation models excel at pa..."
+            }
+        ],
+        "Practitioner": [
+            {
+                "title": "ClickHouse AI Policy",
+                "link": "https://github.com/ClickHouse/ClickHouse/blob/master/AI_POLICY.md",
+                "summary": "..."
+            },
+            {
+                "title": "Man vs. AI \u2013 Building a Slack Bot",
+                "link": "https://siivikko.fi/blog/man-vs-ai-building-a-slack-bot/",
+                "summary": "..."
+            },
+            {
+                "title": "Seedance 2 AI Video \u2013 Generate Videos with Audio Sync",
+                "link": "https://seedance2.app",
+                "summary": "..."
+            },
+            {
+                "title": "Show HN: Hire a 24/7 AI Employee for $5k/Year",
+                "link": "https://www.hangryfeed.com/ai-employees",
+                "summary": "..."
+            },
+            {
+                "title": "Grindr trials premium $500 per month plan to become 'AI-first' app",
+                "link": "https://www.thepinknews.com/2026/02/09/grindr-trials-premium-500-per-month-plan-to-become-ai-first-app/",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
