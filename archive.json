@@ -1532,5 +1532,62 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-02-13": {
+        "Research": [
+            {
+                "title": "Explaining AI Without Code: A User Study on Explainable AI",
+                "link": "https://arxiv.org/abs/2602.11159",
+                "summary": "arXiv:2602.11159v1 Announce Type: new \nAbstract: The increasing use of Machine Learning (ML) in sensitive domains such as healthcare, finance, and public policy has raised concerns about the transpare..."
+            },
+            {
+                "title": "Latent Generative Solvers for Generalizable Long-Term Physics Simulation",
+                "link": "https://arxiv.org/abs/2602.11229",
+                "summary": "arXiv:2602.11229v1 Announce Type: new \nAbstract: We study long-horizon surrogate simulation across heterogeneous PDE systems. We introduce Latent Generative Solvers (LGS), a two-stage framework that (..."
+            },
+            {
+                "title": "On Decision-Valued Maps and Representational Dependence",
+                "link": "https://arxiv.org/abs/2602.11295",
+                "summary": "arXiv:2602.11295v1 Announce Type: new \nAbstract: A computational engine applied to different representations of the same data can produce different discrete outcomes, with some representations preserv..."
+            },
+            {
+                "title": "Voxtral Realtime",
+                "link": "https://arxiv.org/abs/2602.11298",
+                "summary": "arXiv:2602.11298v1 Announce Type: new \nAbstract: We introduce Voxtral Realtime, a natively streaming automatic speech recognition model that matches offline transcription quality at sub-second latency..."
+            },
+            {
+                "title": "The PBSAI Governance Ecosystem: A Multi-Agent AI Reference Architecture for Securing Enterprise AI Estates",
+                "link": "https://arxiv.org/abs/2602.11301",
+                "summary": "arXiv:2602.11301v1 Announce Type: new \nAbstract: Enterprises are rapidly deploying large language models, retrieval augmented generation pipelines, and tool using agents into production, often on shar..."
+            }
+        ],
+        "Practitioner": [
+            {
+                "title": "Show HN: AI-Powered Adaptive Financial Education",
+                "link": "https://twitter.com/i/status/2021137649294029288",
+                "summary": "..."
+            },
+            {
+                "title": "Copyright office will not find human authorship where AI program generates works",
+                "link": "https://www.congress.gov/crs_external_products/LSB/PDF/LSB10922/LSB10922.8.pdf#page=3",
+                "summary": "..."
+            },
+            {
+                "title": "Anthropic to donate $20M to group backing AI regulation",
+                "link": "https://www.reuters.com/legal/government/anthropic-donate-20-million-us-political-group-backing-ai-regulation-2026-02-12/",
+                "summary": "..."
+            },
+            {
+                "title": "AI trends in 2026 will likely be about copilot tools, not automation agents",
+                "link": "https://news.ycombinator.com/item?id=47000769",
+                "summary": "..."
+            },
+            {
+                "title": "AI uncovers solutions to Erd\u0151s problems, moving closer to transforming math",
+                "link": "https://www.scientificamerican.com/article/ai-uncovers-solutions-to-erdos-problems-moving-closer-to-transforming-math/",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
