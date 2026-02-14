@@ -1589,5 +1589,36 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-02-14": {
+        "Research": [],
+        "Practitioner": [
+            {
+                "title": "AI Agent Lands PRs in Major OSS Projects",
+                "link": "https://socket.dev/blog/ai-agent-lands-prs-in-major-oss-projects-targets-maintainers-via-cold-outreach",
+                "summary": "..."
+            },
+            {
+                "title": "Ads are coming to AI, but not to Claude [video]",
+                "link": "https://www.youtube.com/watch?v=FBSam25u8O4",
+                "summary": "..."
+            },
+            {
+                "title": "AI usage in popular open source projects",
+                "link": "https://tirkarthi.github.io/programming/2026/02/13/genai-oss.html",
+                "summary": "..."
+            },
+            {
+                "title": "Show HN: Schedule posts to social media with AI Agent CLI",
+                "link": "https://github.com/gitroomhq/postiz-agent",
+                "summary": "..."
+            },
+            {
+                "title": "Show HN: A playable toy model of frontier AI lab capex decisions",
+                "link": "https://darios-dilemma.up.railway.app/",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
