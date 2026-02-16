@@ -1625,5 +1625,62 @@
         "Research": [],
         "Practitioner": [],
         "Prompting": []
+    },
+    "2026-02-16": {
+        "Research": [
+            {
+                "title": "GT-HarmBench: Benchmarking AI Safety Risks Through the Lens of Game Theory",
+                "link": "https://arxiv.org/abs/2602.12316",
+                "summary": "arXiv:2602.12316v1 Announce Type: new \nAbstract: Frontier AI systems are increasingly capable and deployed in high-stakes multi-agent environments. However, existing AI safety benchmarks largely evalu..."
+            },
+            {
+                "title": "A Theoretical Framework for Adaptive Utility-Weighted Benchmarking",
+                "link": "https://arxiv.org/abs/2602.12356",
+                "summary": "arXiv:2602.12356v1 Announce Type: new \nAbstract: Benchmarking has long served as a foundational practice in machine learning and, increasingly, in modern AI systems such as large language models, wher..."
+            },
+            {
+                "title": "Evolving Beyond Snapshots: Harmonizing Structure and Sequence via Entity State Tuning for Temporal Knowledge Graph Forecasting",
+                "link": "https://arxiv.org/abs/2602.12389",
+                "summary": "arXiv:2602.12389v1 Announce Type: new \nAbstract: Temporal knowledge graph (TKG) forecasting requires predicting future facts by jointly modeling structural dependencies within each snapshot and tempor..."
+            },
+            {
+                "title": "Intent-Driven Smart Manufacturing Integrating Knowledge Graphs and Large Language Models",
+                "link": "https://arxiv.org/abs/2602.12419",
+                "summary": "arXiv:2602.12419v1 Announce Type: new \nAbstract: The increasing complexity of smart manufacturing environments demands interfaces that can translate high-level human intents into machine-executable ac..."
+            },
+            {
+                "title": "Scaling Web Agent Training through Automatic Data Generation and Fine-grained Evaluation",
+                "link": "https://arxiv.org/abs/2602.12544",
+                "summary": "arXiv:2602.12544v1 Announce Type: new \nAbstract: We present a scalable pipeline for automatically generating high-quality training data for web agents. In particular, a major challenge in identifying ..."
+            }
+        ],
+        "Practitioner": [
+            {
+                "title": "KPMG partner fined over using Al to pass AI test",
+                "link": "https://www.ft.com/content/c30ded60-bece-45e0-981d-653e1e3e9818",
+                "summary": "..."
+            },
+            {
+                "title": "I made Hacker News for Openclaws (AI agents)",
+                "link": "https://clawnewz.com",
+                "summary": "..."
+            },
+            {
+                "title": "Seedance 2's AI RipOffs to Be Halted After Legal Threats from Big Studios",
+                "link": "https://deadline.com/2026/02/bytedance-halt-seedance-legal-threats-disney-paramount-1236725770/",
+                "summary": "..."
+            },
+            {
+                "title": "AI Fails at 96% of (General Work) Jobs (New Study)",
+                "link": "https://www.youtube.com/watch?v=z3kaLM8Oj4o",
+                "summary": "..."
+            },
+            {
+                "title": "A reinforcement learning agent that learns to play Kung Fu Master",
+                "link": "https://shantanugoel.com/2026/02/15/teach-machines-kungfu/",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
