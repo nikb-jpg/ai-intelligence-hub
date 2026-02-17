@@ -1682,5 +1682,62 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-02-17": {
+        "Research": [
+            {
+                "title": "Agentic AI for Commercial Insurance Underwriting with Adversarial Self-Critique",
+                "link": "https://arxiv.org/abs/2602.13213",
+                "summary": "arXiv:2602.13213v1 Announce Type: new \nAbstract: Commercial insurance underwriting is a labor-intensive process that requires manual review of extensive documentation to assess risk and determine poli..."
+            },
+            {
+                "title": "BotzoneBench: Scalable LLM Evaluation via Graded AI Anchors",
+                "link": "https://arxiv.org/abs/2602.13214",
+                "summary": "arXiv:2602.13214v1 Announce Type: new \nAbstract: Large Language Models (LLMs) are increasingly deployed in interactive environments requiring strategic decision-making, yet systematic evaluation of th..."
+            },
+            {
+                "title": "When to Think Fast and Slow? AMOR: Entropy-Based Metacognitive Gate for Dynamic SSM-Attention Switching",
+                "link": "https://arxiv.org/abs/2602.13215",
+                "summary": "arXiv:2602.13215v1 Announce Type: new \nAbstract: Transformers allocate uniform computation to every position, regardless of difficulty. State Space Models (SSMs) offer efficient alternatives but strug..."
+            },
+            {
+                "title": "VeRA: Verified Reasoning Data Augmentation at Scale",
+                "link": "https://arxiv.org/abs/2602.13217",
+                "summary": "arXiv:2602.13217v1 Announce Type: new \nAbstract: The main issue with most evaluation schemes today is their \"static\" nature: the same problems are reused repeatedly, allowing for memorization, format ..."
+            },
+            {
+                "title": "Scaling the Scaling Logic: Agentic Meta-Synthesis of Logic Reasoning",
+                "link": "https://arxiv.org/abs/2602.13218",
+                "summary": "arXiv:2602.13218v1 Announce Type: new \nAbstract: Scaling verifiable training signals remains a key bottleneck for Reinforcement Learning from Verifiable Rewards (RLVR). Logical reasoning is a natural ..."
+            }
+        ],
+        "Practitioner": [
+            {
+                "title": "Local AI Assistant for Linux That Runs Commands",
+                "link": "https://github.com/zkzkGamal/zkzkAgent",
+                "summary": "..."
+            },
+            {
+                "title": "HN is an echo chamber of AI wrappers. Moving to Slashdot",
+                "link": "https://news.ycombinator.com/item?id=47044810",
+                "summary": "..."
+            },
+            {
+                "title": "AI is destroying open source, and it's not even good yet",
+                "link": "https://www.youtube.com/watch?v=bZJ7A1QoUEI",
+                "summary": "..."
+            },
+            {
+                "title": "Why AI writing is so generic, boring, and dangerous: Semantic ablation",
+                "link": "https://www.theregister.com/2026/02/16/semantic_ablation_ai_writing/",
+                "summary": "..."
+            },
+            {
+                "title": "Apax pulls out of Pinewood Technologies takeover after AI scare",
+                "link": "https://www.thetimes.com/business/companies-markets/article/apax-pinewood-technologies-bid-ai-fqql85jzz",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
