@@ -1739,5 +1739,62 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-02-18": {
+        "Research": [
+            {
+                "title": "Attention-gated U-Net model for semantic segmentation of brain tumors and feature extraction for survival prognosis",
+                "link": "https://arxiv.org/abs/2602.15067",
+                "summary": "arXiv:2602.15067v1 Announce Type: new \nAbstract: Gliomas, among the most common primary brain tumors, vary widely in aggressiveness, prognosis, and histology, making treatment challenging due to compl..."
+            },
+            {
+                "title": "ResearchGym: Evaluating Language Model Agents on Real-World AI Research",
+                "link": "https://arxiv.org/abs/2602.15112",
+                "summary": "arXiv:2602.15112v1 Announce Type: new \nAbstract: We introduce ResearchGym, a benchmark and execution environment for evaluating AI agents on end-to-end research. To instantiate this, we repurpose five..."
+            },
+            {
+                "title": "Protecting Language Models Against Unauthorized Distillation through Trace Rewriting",
+                "link": "https://arxiv.org/abs/2602.15143",
+                "summary": "arXiv:2602.15143v1 Announce Type: new \nAbstract: Knowledge distillation is a widely adopted technique for transferring capabilities from LLMs to smaller, more efficient student models. However, unauth..."
+            },
+            {
+                "title": "Panini: Continual Learning in Token Space via Structured Memory",
+                "link": "https://arxiv.org/abs/2602.15156",
+                "summary": "arXiv:2602.15156v1 Announce Type: new \nAbstract: Language models are increasingly used to reason over content they were not trained on, such as new documents, evolving knowledge, and user-specific dat..."
+            },
+            {
+                "title": "da Costa and Tarski meet Goguen and Carnap: a novel approach for ontological heterogeneity based on consequence systems",
+                "link": "https://arxiv.org/abs/2602.15158",
+                "summary": "arXiv:2602.15158v1 Announce Type: new \nAbstract: This paper presents a novel approach for ontological heterogeneity that draws heavily from Carnapian-Goguenism, as presented by Kutz, Mossakowski and L..."
+            }
+        ],
+        "Practitioner": [
+            {
+                "title": "Ask HN: How are indie AI app builders monetizing in 2026 without killing UX?",
+                "link": "https://news.ycombinator.com/item?id=47058667",
+                "summary": "..."
+            },
+            {
+                "title": "Ask HN: Any AI / Agent power users out there? Do you have any tips?",
+                "link": "https://news.ycombinator.com/item?id=47058199",
+                "summary": "..."
+            },
+            {
+                "title": "Show HN: OpenClaw \u2013 Open-source personal AI agent that lives on your machine",
+                "link": "https://github.com/openclaw/openclaw",
+                "summary": "..."
+            },
+            {
+                "title": "Babel \u2013 Captchas for AI",
+                "link": "https://babel.vercel.app/",
+                "summary": "..."
+            },
+            {
+                "title": "The AI War Is Over. Google Won",
+                "link": "https://www.youtube.com/watch?v=hcE0NPYlo1w",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
