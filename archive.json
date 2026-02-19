@@ -1796,5 +1796,62 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-02-19": {
+        "Research": [
+            {
+                "title": "Towards Efficient Constraint Handling in Neural Solvers for Routing Problems",
+                "link": "https://arxiv.org/abs/2602.16012",
+                "summary": "arXiv:2602.16012v1 Announce Type: new \nAbstract: Neural solvers have achieved impressive progress in addressing simple routing problems, particularly excelling in computational efficiency. However, th..."
+            },
+            {
+                "title": "Optimization Instability in Autonomous Agentic Workflows for Clinical Symptom Detection",
+                "link": "https://arxiv.org/abs/2602.16037",
+                "summary": "arXiv:2602.16037v1 Announce Type: new \nAbstract: Autonomous agentic workflows that iteratively refine their own behavior hold considerable promise, yet their failure modes remain poorly characterized...."
+            },
+            {
+                "title": "How Uncertain Is the Grade? A Benchmark of Uncertainty Metrics for LLM-Based Automatic Assessment",
+                "link": "https://arxiv.org/abs/2602.16039",
+                "summary": "arXiv:2602.16039v1 Announce Type: new \nAbstract: The rapid rise of large language models (LLMs) is reshaping the landscape of automatic assessment in education. While these systems demonstrate substan..."
+            },
+            {
+                "title": "Evidence-Grounded Subspecialty Reasoning: Evaluating a Curated Clinical Intelligence Layer on the 2025 Endocrinology Board-Style Examination",
+                "link": "https://arxiv.org/abs/2602.16050",
+                "summary": "arXiv:2602.16050v1 Announce Type: new \nAbstract: Background: Large language models have demonstrated strong performance on general medical examinations, but subspecialty clinical reasoning remains cha..."
+            },
+            {
+                "title": "Improving Interactive In-Context Learning from Natural Language Feedback",
+                "link": "https://arxiv.org/abs/2602.16066",
+                "summary": "arXiv:2602.16066v1 Announce Type: new \nAbstract: Adapting one's thought process based on corrective feedback is an essential ability in human learning, particularly in collaborative settings. In contr..."
+            }
+        ],
+        "Practitioner": [
+            {
+                "title": "Every AI app builder outputs React Native. I chose real Swift instead",
+                "link": "https://news.ycombinator.com/item?id=47071286",
+                "summary": "..."
+            },
+            {
+                "title": "After AI, there is no product",
+                "link": "https://sidu.in/essays/after-ai-there-is-no-product.html",
+                "summary": "..."
+            },
+            {
+                "title": "Will AI kill Software businesses?",
+                "link": "https://news.ycombinator.com/item?id=47071205",
+                "summary": "..."
+            },
+            {
+                "title": "Microsoft 365 Copilot for Android or iOS auto-sends files to AI and OneDrive",
+                "link": "https://www.windowslatest.com/2026/02/18/microsoft-365-copilot-for-android-or-ios-auto-sends-files-to-ai-onedrive-before-you-even-realise-it-instead-of-opening-normally/",
+                "summary": "..."
+            },
+            {
+                "title": "Show HN: Kore \u2013 local AI memory layer with Ebbinghaus forgetting curve",
+                "link": "https://github.com/auriti-web-design/kore-memory",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
