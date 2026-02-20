@@ -1853,5 +1853,62 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-02-20": {
+        "Research": [
+            {
+                "title": "AIdentifyAGE Ontology for Decision Support in Forensic Dental Age Assessment",
+                "link": "https://arxiv.org/abs/2602.16714",
+                "summary": "arXiv:2602.16714v1 Announce Type: new \nAbstract: Age assessment is crucial in forensic and judicial decision-making, particularly in cases involving undocumented individuals and unaccompanied minors, ..."
+            },
+            {
+                "title": "Retrieval Augmented (Knowledge Graph), and Large Language Model-Driven Design Structure Matrix (DSM) Generation of Cyber-Physical Systems",
+                "link": "https://arxiv.org/abs/2602.16715",
+                "summary": "arXiv:2602.16715v1 Announce Type: new \nAbstract: We explore the potential of Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and Graph-based RAG (GraphRAG) for generating Design St..."
+            },
+            {
+                "title": "Contextuality from Single-State Representations: An Information-Theoretic Principle for Adaptive Intelligence",
+                "link": "https://arxiv.org/abs/2602.16716",
+                "summary": "arXiv:2602.16716v1 Announce Type: new \nAbstract: Adaptive systems often operate across multiple contexts while reusing a fixed internal state space due to constraints on memory, representation, or phy..."
+            },
+            {
+                "title": "Mobility-Aware Cache Framework for Scalable LLM-Based Human Mobility Simulation",
+                "link": "https://arxiv.org/abs/2602.16727",
+                "summary": "arXiv:2602.16727v1 Announce Type: new \nAbstract: Large-scale human mobility simulation is critical for applications such as urban planning, epidemiology, and transportation analysis. Recent works trea..."
+            },
+            {
+                "title": "When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation",
+                "link": "https://arxiv.org/abs/2602.16763",
+                "summary": "arXiv:2602.16763v1 Announce Type: new \nAbstract: Artificial Intelligence (AI) benchmarks play a central role in measuring progress in model development and guiding deployment decisions. However, many ..."
+            }
+        ],
+        "Practitioner": [
+            {
+                "title": "Ask HN: Is it worth learning Vim in 2026?",
+                "link": "https://news.ycombinator.com/item?id=47085255",
+                "summary": "..."
+            },
+            {
+                "title": "Accenture links staff's AI use to promotion",
+                "link": "https://www.thetimes.com/business/technology/article/accenture-ai-data-promotion-fvpjc2vkr",
+                "summary": "..."
+            },
+            {
+                "title": "AI Desktop Agent over VNC \u2013 your AI connects to your desktop like a remote user",
+                "link": "https://github.com/AmrDab/clawd-cursor",
+                "summary": "..."
+            },
+            {
+                "title": "CSS Agent Garden \u2013 AI agents style one HTML page via MCP",
+                "link": "https://css-agent-garden.fly.dev/",
+                "summary": "..."
+            },
+            {
+                "title": "We built a desktop AI agent that runs commands locally",
+                "link": "https://desktopcommander.app/",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
