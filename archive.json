@@ -1910,5 +1910,36 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-02-21": {
+        "Research": [],
+        "Practitioner": [
+            {
+                "title": "AI uBlock Blacklist",
+                "link": "https://github.com/alvi-se/ai-ublock-blacklist",
+                "summary": "..."
+            },
+            {
+                "title": "Show HN: Using classic dev books to guide AI agents",
+                "link": "https://news.ycombinator.com/item?id=47098555",
+                "summary": "..."
+            },
+            {
+                "title": "Looking for technical co-founder to build AI-powered stack migration platform",
+                "link": "https://news.ycombinator.com/item?id=47098387",
+                "summary": "..."
+            },
+            {
+                "title": "Show HN: HN Showcase \u2013 I rebuilt my 2011 Show HN gallery with AI curation",
+                "link": "https://hnshowcase.com",
+                "summary": "..."
+            },
+            {
+                "title": "Librsvg got its first AI slop pull request",
+                "link": "https://viruta.org/librsvg-ai-slop.html",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
