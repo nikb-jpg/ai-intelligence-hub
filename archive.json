@@ -1941,5 +1941,36 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-02-22": {
+        "Research": [],
+        "Practitioner": [
+            {
+                "title": "Correcting the Financial Times Report about AWS, Kiro, and AI",
+                "link": "https://www.aboutamazon.com/news/aws/aws-service-outage-ai-bot-kiro",
+                "summary": "..."
+            },
+            {
+                "title": "I Got Pwned by a Malicious AI Plugin: A Technical Breakdown",
+                "link": "https://news.ycombinator.com/item?id=47109114",
+                "summary": "..."
+            },
+            {
+                "title": "Show HN: LawClaw \u2013 Constitutional governance for AI agents (MIT)",
+                "link": "https://news.ycombinator.com/item?id=47109076",
+                "summary": "..."
+            },
+            {
+                "title": "'Training a Human Takes 20 Years of Food': Sam Altman on How Much Power AI Uses",
+                "link": "https://www.news18.com/world/training-a-human-takes-20-years-of-food-sam-altman-on-how-much-power-ai-consumes-ws-kl-9922309.html",
+                "summary": "..."
+            },
+            {
+                "title": "AI Tools: Slowing Down Developers Instead of Speeding Them Up \u2013 Here's Why",
+                "link": "https://medium.com/@riturajpokhriyal/why-ai-coding-tools-are-making-you-slower-and-what-actually-works-c18f432e470b",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
