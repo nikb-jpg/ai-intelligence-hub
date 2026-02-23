@@ -1972,5 +1972,62 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-02-23": {
+        "Research": [
+            {
+                "title": "Epistemic Traps: Rational Misalignment Driven by Model Misspecification",
+                "link": "https://arxiv.org/abs/2602.17676",
+                "summary": "arXiv:2602.17676v1 Announce Type: new \nAbstract: The rapid deployment of Large Language Models and AI agents across critical societal and technical domains is hindered by persistent behavioral patholo..."
+            },
+            {
+                "title": "Ontology-Guided Neuro-Symbolic Inference: Grounding Language Models with Mathematical Domain Knowledge",
+                "link": "https://arxiv.org/abs/2602.17826",
+                "summary": "arXiv:2602.17826v1 Announce Type: new \nAbstract: Language models exhibit fundamental limitations -- hallucination, brittleness, and lack of formal grounding -- that are particularly problematic in hig..."
+            },
+            {
+                "title": "The Token Games: Evaluating Language Model Reasoning with Puzzle Duels",
+                "link": "https://arxiv.org/abs/2602.17831",
+                "summary": "arXiv:2602.17831v1 Announce Type: new \nAbstract: Evaluating the reasoning capabilities of Large Language Models is increasingly challenging as models improve. Human curation of hard questions is highl..."
+            },
+            {
+                "title": "El Agente Gr\\'afico: Structured Execution Graphs for Scientific Agents",
+                "link": "https://arxiv.org/abs/2602.17902",
+                "summary": "arXiv:2602.17902v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly used to automate scientific workflows, yet their integration with heterogeneous computational tools remai..."
+            },
+            {
+                "title": "Alignment in Time: Peak-Aware Orchestration for Long-Horizon Agentic Systems",
+                "link": "https://arxiv.org/abs/2602.17910",
+                "summary": "arXiv:2602.17910v1 Announce Type: new \nAbstract: Traditional AI alignment primarily focuses on individual model outputs; however, autonomous agents in long-horizon workflows require sustained reliabil..."
+            }
+        ],
+        "Practitioner": [
+            {
+                "title": "A tool to tell you what LLMs can run on your machine",
+                "link": "https://github.com/AlexsJones/llmfit",
+                "summary": "..."
+            },
+            {
+                "title": "We hid backdoors in ~40MB binaries and asked AI + Ghidra to find them",
+                "link": "https://quesma.com/blog/introducing-binaryaudit/",
+                "summary": "..."
+            },
+            {
+                "title": "Show HN: The only CLI your AI agent will need",
+                "link": "https://github.com/brwse/earl",
+                "summary": "..."
+            },
+            {
+                "title": "FORTHought: Self hosted AI stack for physics labs (and more) built on OpenWebUI",
+                "link": "https://github.com/MariosAdamidis/FORTHought",
+                "summary": "..."
+            },
+            {
+                "title": "Observations from Building with AI Agents",
+                "link": "https://tomtunguz.com/9-observations-using-ai-agents/",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
