@@ -2029,5 +2029,62 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-02-24": {
+        "Research": [
+            {
+                "title": "On the Dynamics of Observation and Semantics",
+                "link": "https://arxiv.org/abs/2602.18494",
+                "summary": "arXiv:2602.18494v1 Announce Type: new \nAbstract: A dominant paradigm in visual intelligence treats semantics as a static property of latent representations, assuming that meaning can be discovered thr..."
+            },
+            {
+                "title": "Hierarchical Reward Design from Language: Enhancing Alignment of Agent Behavior with Human Specifications",
+                "link": "https://arxiv.org/abs/2602.18582",
+                "summary": "arXiv:2602.18582v1 Announce Type: new \nAbstract: When training artificial intelligence (AI) to perform tasks, humans often care not only about whether a task is completed but also how it is performed...."
+            },
+            {
+                "title": "Feedback-based Automated Verification in Vibe Coding of CAS Adaptation Built on Constraint Logic",
+                "link": "https://arxiv.org/abs/2602.18607",
+                "summary": "arXiv:2602.18607v1 Announce Type: new \nAbstract: In CAS adaptation, a challenge is to define the dynamic architecture of the system and changes in its behavior. Implementation-wise, this is projected ..."
+            },
+            {
+                "title": "Decoding ML Decision: An Agentic Reasoning Framework for Large-Scale Ranking System",
+                "link": "https://arxiv.org/abs/2602.18640",
+                "summary": "arXiv:2602.18640v1 Announce Type: new \nAbstract: Modern large-scale ranking systems operate within a sophisticated landscape of competing objectives, operational constraints, and evolving product requ..."
+            },
+            {
+                "title": "Spilled Energy in Large Language Models",
+                "link": "https://arxiv.org/abs/2602.18671",
+                "summary": "arXiv:2602.18671v1 Announce Type: new \nAbstract: We reinterpret the final Large Language Model (LLM) softmax classifier as an Energy-Based Model (EBM), decomposing the sequence-to-sequence probability..."
+            }
+        ],
+        "Practitioner": [
+            {
+                "title": "New Microsoft gaming chief has \"no tolerance for bad AI\"",
+                "link": "https://arstechnica.com/gaming/2026/02/new-microsoft-gaming-chief-has-no-tolerance-for-bad-ai/",
+                "summary": "..."
+            },
+            {
+                "title": "Taking Action Against AI Harms",
+                "link": "https://www.anildash.com/2026/02/23/taking-action-ai-harms/",
+                "summary": "..."
+            },
+            {
+                "title": "HPC-AI explains embodied AI",
+                "link": "https://www.hpc-ai.com/blog/Embodied-AI-Explained",
+                "summary": "..."
+            },
+            {
+                "title": "The \"AI Existential Risk\" Industrial Complex",
+                "link": "https://www.aipanic.news/p/the-ai-existential-risk-industrial",
+                "summary": "..."
+            },
+            {
+                "title": "Next-Markdown-mirror \u2013 make Next.js pages readable to AI (Markdown and llms.txt)",
+                "link": "https://github.com/JakubKontra/next-markdown-mirror",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
