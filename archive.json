@@ -2086,5 +2086,62 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-02-25": {
+        "Research": [
+            {
+                "title": "Multilevel Determinants of Overweight and Obesity Among U.S. Children Aged 10-17: Comparative Evaluation of Statistical and Machine Learning Approaches Using the 2021 National Survey of Children's Health",
+                "link": "https://arxiv.org/abs/2602.20303",
+                "summary": "arXiv:2602.20303v1 Announce Type: new \nAbstract: Background: Childhood and adolescent overweight and obesity remain major public health concerns in the United States and are shaped by behavioral, hous..."
+            },
+            {
+                "title": "An artificial intelligence framework for end-to-end rare disease phenotyping from clinical notes using large language models",
+                "link": "https://arxiv.org/abs/2602.20324",
+                "summary": "arXiv:2602.20324v1 Announce Type: new \nAbstract: Phenotyping is fundamental to rare disease diagnosis, but manual curation of structured phenotypes from clinical notes is labor-intensive and difficult..."
+            },
+            {
+                "title": "DMCD: Semantic-Statistical Framework for Causal Discovery",
+                "link": "https://arxiv.org/abs/2602.20333",
+                "summary": "arXiv:2602.20333v1 Announce Type: new \nAbstract: We present DMCD (DataMap Causal Discovery), a two-phase causal discovery framework that integrates LLM-based semantic drafting from variable metadata w..."
+            },
+            {
+                "title": "Diffusion Modulation via Environment Mechanism Modeling for Planning",
+                "link": "https://arxiv.org/abs/2602.20422",
+                "summary": "arXiv:2602.20422v1 Announce Type: new \nAbstract: Diffusion models have shown promising capabilities in trajectory generation for planning in offline reinforcement learning (RL). However, conventional ..."
+            },
+            {
+                "title": "Implicit Intelligence -- Evaluating Agents on What Users Don't Say",
+                "link": "https://arxiv.org/abs/2602.20424",
+                "summary": "arXiv:2602.20424v1 Announce Type: new \nAbstract: Real-world requests to AI agents are fundamentally underspecified. Natural human communication relies on shared context and unstated constraints that s..."
+            }
+        ],
+        "Practitioner": [
+            {
+                "title": "Amazon would rather blame its own engineers than its AI",
+                "link": "https://www.theregister.com/2026/02/24/amazon_blame_human_not_ai/",
+                "summary": "..."
+            },
+            {
+                "title": "FinCrew: Multi-Agent AI Financial Intelligence",
+                "link": "https://news.ycombinator.com/item?id=47148718",
+                "summary": "..."
+            },
+            {
+                "title": "Pentagon sets Friday deadline for Anthropic to abandon ethics rules for AI",
+                "link": "https://www.politico.com/news/2026/02/24/hegseth-sets-friday-deadline-for-anthropic-to-drop-its-ai-red-lines-00795641",
+                "summary": "..."
+            },
+            {
+                "title": "AMD and Meta strike $100B AI deal that includes 10% stock deal",
+                "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/amd-meta-100-billion-deal",
+                "summary": "..."
+            },
+            {
+                "title": "ShipGrowth \u2013 Discover, Compare and Submit Best AI Tools",
+                "link": "https://shipgrowth.dev",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
