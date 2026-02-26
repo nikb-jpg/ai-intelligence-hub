@@ -2143,5 +2143,62 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-02-26": {
+        "Research": [
+            {
+                "title": "A Dynamic Survey of Soft Set Theory and Its Extensions",
+                "link": "https://arxiv.org/abs/2602.21268",
+                "summary": "arXiv:2602.21268v1 Announce Type: new \nAbstract: Soft set theory provides a direct framework for parameterized decision modeling by assigning to each attribute (parameter) a subset of a given universe..."
+            },
+            {
+                "title": "A Hierarchical Multi-Agent System for Autonomous Discovery in Geoscientific Data Archives",
+                "link": "https://arxiv.org/abs/2602.21351",
+                "summary": "arXiv:2602.21351v1 Announce Type: new \nAbstract: The rapid accumulation of Earth science data has created a significant scalability challenge; while repositories like PANGAEA host vast collections of ..."
+            },
+            {
+                "title": "Beyond Refusal: Probing the Limits of Agentic Self-Correction for Semantic Sensitive Information",
+                "link": "https://arxiv.org/abs/2602.21496",
+                "summary": "arXiv:2602.21496v1 Announce Type: new \nAbstract: While defenses for structured PII are mature, Large Language Models (LLMs) pose a new threat: Semantic Sensitive Information (SemSI), where models infe..."
+            },
+            {
+                "title": "ARLArena: A Unified Framework for Stable Agentic Reinforcement Learning",
+                "link": "https://arxiv.org/abs/2602.21534",
+                "summary": "arXiv:2602.21534v1 Announce Type: new \nAbstract: Agentic reinforcement learning (ARL) has rapidly gained attention as a promising paradigm for training agents to solve complex, multi-step interactive ..."
+            },
+            {
+                "title": "Power and Limitations of Aggregation in Compound AI Systems",
+                "link": "https://arxiv.org/abs/2602.21556",
+                "summary": "arXiv:2602.21556v1 Announce Type: new \nAbstract: When designing compound AI systems, a common approach is to query multiple copies of the same model and aggregate the responses to produce a synthesize..."
+            }
+        ],
+        "Practitioner": [
+            {
+                "title": "Advertise to AI Agents with Prompt Injection",
+                "link": "https://claw-guard.org/adnet/",
+                "summary": "..."
+            },
+            {
+                "title": "The Agentic Data Organization: How AI Is Reshaping the Enterprise Data Function",
+                "link": "https://abensrhir.com/posts/how-ai-will-reshape-the-enterprise-data-function-by-2028/",
+                "summary": "..."
+            },
+            {
+                "title": "Show HN: Mneme\u2013Persistent memory for AI agents without vector search or RAG",
+                "link": "https://github.com/CVPaul/mneme",
+                "summary": "..."
+            },
+            {
+                "title": "US threatens Anthropic with deadline in dispute on AI safeguards",
+                "link": "https://www.bbc.co.uk/news/articles/cjrq1vwe73po",
+                "summary": "..."
+            },
+            {
+                "title": "\"AI raises the quality of tuning beyond what most of us can achieve manually\"",
+                "link": "https://medium.com/@fransverduynlunel/a-fluitje-van-een-cent-my-experience-automating-postgres-performance-tuning-9d816a9ab96d",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
