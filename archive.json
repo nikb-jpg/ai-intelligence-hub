@@ -2314,5 +2314,36 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-03-01": {
+        "Research": [],
+        "Practitioner": [
+            {
+                "title": "Apple Eats AI for Breakfast [video]",
+                "link": "https://www.youtube.com/watch?v=9VZaI44odyg",
+                "summary": "..."
+            },
+            {
+                "title": "Finding value with AI and Industry 5.0 transformation",
+                "link": "https://www.technologyreview.com/2026/02/26/1133707/finding-value-with-ai-and-industry-5-0-transformation/",
+                "summary": "..."
+            },
+            {
+                "title": "Show HN: Ghostty Pane Splitter \u2013 Split terminal panes for AI coding agents",
+                "link": "https://github.com/rikeda71/ghostty-pane-splitter",
+                "summary": "..."
+            },
+            {
+                "title": "I built an AI tool that designs kitchen layouts",
+                "link": "https://aikitchendesign.io/",
+                "summary": "..."
+            },
+            {
+                "title": "10-202: Introduction to Modern AI (CMU)",
+                "link": "https://modernaicourse.org",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
