@@ -2345,5 +2345,62 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-03-02": {
+        "Research": [
+            {
+                "title": "HumanMCP: A Human-Like Query Dataset for Evaluating MCP Tool Retrieval Performance",
+                "link": "https://arxiv.org/abs/2602.23367",
+                "summary": "arXiv:2602.23367v1 Announce Type: new \nAbstract: Model Context Protocol (MCP) servers contain a collection of thousands of open-source standardized tools, linking LLMs to external systems; however, ex..."
+            },
+            {
+                "title": "An Agentic LLM Framework for Adverse Media Screening in AML Compliance",
+                "link": "https://arxiv.org/abs/2602.23373",
+                "summary": "arXiv:2602.23373v1 Announce Type: new \nAbstract: Adverse media screening is a critical component of anti-money laundering (AML) and know-your-customer (KYC) compliance processes in financial instituti..."
+            },
+            {
+                "title": "Causal Identification from Counterfactual Data: Completeness and Bounding Results",
+                "link": "https://arxiv.org/abs/2602.23541",
+                "summary": "arXiv:2602.23541v1 Announce Type: new \nAbstract: Previous work establishing completeness results for $\\textit{counterfactual identification}$ has been circumscribed to the setting where the input data..."
+            },
+            {
+                "title": "Planning under Distribution Shifts with Causal POMDPs",
+                "link": "https://arxiv.org/abs/2602.23545",
+                "summary": "arXiv:2602.23545v1 Announce Type: new \nAbstract: In the real world, planning is often challenged by distribution shifts. As such, a model of the environment obtained under one set of conditions may no..."
+            },
+            {
+                "title": "Construct, Merge, Solve & Adapt with Reinforcement Learning for the min-max Multiple Traveling Salesman Problem",
+                "link": "https://arxiv.org/abs/2602.23579",
+                "summary": "arXiv:2602.23579v1 Announce Type: new \nAbstract: The Multiple Traveling Salesman Problem (mTSP) extends the Traveling Salesman Problem to m tours that start and end at a common depot and jointly visit..."
+            }
+        ],
+        "Practitioner": [
+            {
+                "title": "Gram: A Zed fork without all the AI",
+                "link": "https://gram.liten.app/",
+                "summary": "..."
+            },
+            {
+                "title": "Ryzen AI Pro 400 Series Desktop CPUs for AI-Focused Computing",
+                "link": "https://www.phoronix.com/news/Ryzen-AI-PRO-400-Desktop-CPUs",
+                "summary": "..."
+            },
+            {
+                "title": "Show HN: OpenBets \u2013 AI agents build souls through prediction bets",
+                "link": "https://openbets.bot",
+                "summary": "..."
+            },
+            {
+                "title": "The AI ROI Gap",
+                "link": "https://www.samratjha.com/blog/enterprise-ai-roi/",
+                "summary": "..."
+            },
+            {
+                "title": "Show HN: Instant file upload and URL for AI agents",
+                "link": "https://upfile.sh/",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
