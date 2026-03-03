@@ -2402,5 +2402,62 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-03-03": {
+        "Research": [
+            {
+                "title": "Multi-Sourced, Multi-Agent Evidence Retrieval for Fact-Checking",
+                "link": "https://arxiv.org/abs/2603.00267",
+                "summary": "arXiv:2603.00267v1 Announce Type: new \nAbstract: Misinformation spreading over the Internet poses a significant threat to both societies and individuals, necessitating robust and scalable fact-checkin..."
+            },
+            {
+                "title": "TraderBench: How Robust Are AI Agents in Adversarial Capital Markets?",
+                "link": "https://arxiv.org/abs/2603.00285",
+                "summary": "arXiv:2603.00285v1 Announce Type: new \nAbstract: Evaluating AI agents in finance faces two key challenges: static benchmarks require costly expert annotation yet miss the dynamic decision-making centr..."
+            },
+            {
+                "title": "DIG to Heal: Scaling General-purpose Agent Collaboration via Explainable Dynamic Decision Paths",
+                "link": "https://arxiv.org/abs/2603.00309",
+                "summary": "arXiv:2603.00309v1 Announce Type: new \nAbstract: The increasingly popular agentic AI paradigm promises to harness the power of multiple, general-purpose large language model (LLM) agents to collaborat..."
+            },
+            {
+                "title": "How Well Do Multimodal Models Reason on ECG Signals?",
+                "link": "https://arxiv.org/abs/2603.00312",
+                "summary": "arXiv:2603.00312v1 Announce Type: new \nAbstract: While multimodal large language models offer a promising solution to the \"black box\" nature of health AI by generating interpretable reasoning traces, ..."
+            },
+            {
+                "title": "EmCoop: A Framework and Benchmark for Embodied Cooperation Among LLM Agents",
+                "link": "https://arxiv.org/abs/2603.00349",
+                "summary": "arXiv:2603.00349v1 Announce Type: new \nAbstract: Real-world scenarios increasingly require multiple embodied agents to collaborate in dynamic environments under embodied constraints, as many tasks exc..."
+            }
+        ],
+        "Practitioner": [
+            {
+                "title": "Deterministic and AI-agent broker import to prevent portfolio data corruption",
+                "link": "https://www.portfolio-terminal.com/demo",
+                "summary": "..."
+            },
+            {
+                "title": "Show HN: Stop letting AI agents hallucinate. Review plans in Markdown first",
+                "link": "https://github.com/yeominux/md-feedback",
+                "summary": "..."
+            },
+            {
+                "title": "MyFitnessPal has acquired Cal AI, the viral calorie app built by teens",
+                "link": "https://techcrunch.com/2026/03/02/myfitnesspal-has-acquired-cal-ai-the-viral-calorie-app-built-by-teens/",
+                "summary": "..."
+            },
+            {
+                "title": "Show HN: Rriftt_ai.h \u2013 A bare-metal, dependency-free C23 tensor engine",
+                "link": "https://github.com/Rriftt/rriftt_ai.h",
+                "summary": "..."
+            },
+            {
+                "title": "Iran war heralds era of AI-powered bombing quicker than 'speed of thought'",
+                "link": "https://www.theguardian.com/technology/2026/mar/03/iran-war-heralds-era-of-ai-powered-bombing-quicker-than-speed-of-thought",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
