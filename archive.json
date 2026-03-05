@@ -2516,5 +2516,36 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-03-05": {
+        "Research": [
+            {
+                "title": "Asymmetric Goal Drift in Coding Agents Under Value Conflict",
+                "link": "https://arxiv.org/abs/2603.03456",
+                "summary": "arXiv:2603.03456v1 Announce Type: new \nAbstract: Agentic coding agents are increasingly deployed autonomously, at scale, and over long-context horizons. Throughout an agent's lifetime, it must navigat..."
+            },
+            {
+                "title": "Build, Judge, Optimize: A Blueprint for Continuous Improvement of Multi-Agent Consumer Assistants",
+                "link": "https://arxiv.org/abs/2603.03565",
+                "summary": "arXiv:2603.03565v1 Announce Type: new \nAbstract: Conversational shopping assistants (CSAs) represent a compelling application of agentic AI, but moving from prototype to production reveals two underex..."
+            },
+            {
+                "title": "Mozi: Governed Autonomy for Drug Discovery LLM Agents",
+                "link": "https://arxiv.org/abs/2603.03655",
+                "summary": "arXiv:2603.03655v1 Announce Type: new \nAbstract: Tool-augmented large language model (LLM) agents promise to unify scientific reasoning with computation, yet their deployment in high-stakes domains li..."
+            },
+            {
+                "title": "MAGE: Meta-Reinforcement Learning for Language Agents toward Strategic Exploration and Exploitation",
+                "link": "https://arxiv.org/abs/2603.03680",
+                "summary": "arXiv:2603.03680v1 Announce Type: new \nAbstract: Large Language Model (LLM) agents have demonstrated remarkable proficiency in learned tasks, yet they often struggle to adapt to non-stationary environ..."
+            },
+            {
+                "title": "AI4S-SDS: A Neuro-Symbolic Solvent Design System via Sparse MCTS and Differentiable Physics Alignment",
+                "link": "https://arxiv.org/abs/2603.03686",
+                "summary": "arXiv:2603.03686v1 Announce Type: new \nAbstract: Automated design of chemical formulations is a cornerstone of materials science, yet it requires navigating a high-dimensional combinatorial space invo..."
+            }
+        ],
+        "Practitioner": [],
+        "Prompting": []
     }
 }
