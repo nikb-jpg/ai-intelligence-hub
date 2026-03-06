@@ -2547,5 +2547,62 @@
         ],
         "Practitioner": [],
         "Prompting": []
+    },
+    "2026-03-06": {
+        "Research": [
+            {
+                "title": "SkillNet: Create, Evaluate, and Connect AI Skills",
+                "link": "https://arxiv.org/abs/2603.04448",
+                "summary": "arXiv:2603.04448v1 Announce Type: new \nAbstract: Current AI agents can flexibly invoke tools and execute complex tasks, yet their long-term advancement is hindered by the lack of systematic accumulati..."
+            },
+            {
+                "title": "Capability Thresholds and Manufacturing Topology: How Embodied Intelligence Triggers Phase Transitions in Economic Geography",
+                "link": "https://arxiv.org/abs/2603.04457",
+                "summary": "arXiv:2603.04457v1 Announce Type: new \nAbstract: The fundamental topology of manufacturing has not undergone a paradigm-level transformation since Henry Ford's moving assembly line in 1913. Every majo..."
+            },
+            {
+                "title": "Progressive Refinement Regulation for Accelerating Diffusion Language Model Decoding",
+                "link": "https://arxiv.org/abs/2603.04514",
+                "summary": "arXiv:2603.04514v1 Announce Type: new \nAbstract: Diffusion language models generate text through iterative denoising under a uniform refinement rule applied to all tokens. However, tokens stabilize at..."
+            },
+            {
+                "title": "Discovering mathematical concepts through a multi-agent system",
+                "link": "https://arxiv.org/abs/2603.04528",
+                "summary": "arXiv:2603.04528v1 Announce Type: new \nAbstract: Mathematical concepts emerge through an interplay of processes, including experimentation, efforts at proof, and counterexamples. In this paper, we pre..."
+            },
+            {
+                "title": "Adaptive Memory Admission Control for LLM Agents",
+                "link": "https://arxiv.org/abs/2603.04549",
+                "summary": "arXiv:2603.04549v1 Announce Type: new \nAbstract: LLM-based agents increasingly rely on long-term memory to support multi-session reasoning and interaction, yet current systems provide little control o..."
+            }
+        ],
+        "Practitioner": [
+            {
+                "title": "Show HN: Introducing Kite AI Agent: Conversational Operations for Kubernetes",
+                "link": "https://github.com/kite-org/kite/discussions/409",
+                "summary": "..."
+            },
+            {
+                "title": "Online harassment is entering its AI era",
+                "link": "https://www.technologyreview.com/2026/03/05/1133962/online-harassment-is-entering-its-ai-era/",
+                "summary": "..."
+            },
+            {
+                "title": "Show HN: Claude Code for iPad \u2013 Agentic AI coding tool with file ops, Git, shell",
+                "link": "https://news.ycombinator.com/item?id=47272260",
+                "summary": "..."
+            },
+            {
+                "title": "Show HN: Koshei AI \u2013 a voice-native AI language university (A1 to D2)",
+                "link": "https://github.com/Bugsbuny24/Koshe-Al-",
+                "summary": "..."
+            },
+            {
+                "title": "Kuberna Labs: AI's Economic Engine",
+                "link": "https://github.com/kawacukennedy/kuberna-labs",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
