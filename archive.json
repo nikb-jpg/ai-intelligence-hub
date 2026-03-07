@@ -2604,5 +2604,36 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-03-07": {
+        "Research": [],
+        "Practitioner": [
+            {
+                "title": "Show HN: Git-lanes \u2013 Parallel isolation for AI coding agents using Git worktrees",
+                "link": "https://github.com/bugrax/git-lanes",
+                "summary": "..."
+            },
+            {
+                "title": "Ask HN: Best way to implement logging and audit trails for AI apps?",
+                "link": "https://news.ycombinator.com/item?id=47285609",
+                "summary": "..."
+            },
+            {
+                "title": "Is The Pentagon allowed to surveil Americans with AI?",
+                "link": "https://www.technologyreview.com/2026/03/06/1134012/is-the-pentagon-allowed-to-surveil-americans-with-ai/",
+                "summary": "..."
+            },
+            {
+                "title": "Valve says it still plans to ship the Steam Machine in 2026",
+                "link": "https://store.steampowered.com/news/group/4145017/view/528746884222682052",
+                "summary": "..."
+            },
+            {
+                "title": "EnterpriseBench: CoreCraft \u2013 Measuring AI Agents in Chaotic RL Environments",
+                "link": "https://surgehq.ai/blog/enterprisebench-corecraft",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
