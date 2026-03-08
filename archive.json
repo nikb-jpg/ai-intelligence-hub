@@ -2635,5 +2635,36 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-03-08": {
+        "Research": [],
+        "Practitioner": [
+            {
+                "title": "Show HN: MindPlexa \u2013 Open-source AI-powered infinite canvas: Next.js, React Flow",
+                "link": "https://github.com/jayasth/MindPlexa",
+                "summary": "..."
+            },
+            {
+                "title": "New Research Reassesses the Value of Agents.md Files for AI Coding",
+                "link": "https://www.infoq.com/news/2026/03/agents-context-file-value-review/",
+                "summary": "..."
+            },
+            {
+                "title": "Show HN: TracePact \u2013 Catch tool-call regressions in AI agents before prod",
+                "link": "https://github.com/dcdeve/tracepact",
+                "summary": "..."
+            },
+            {
+                "title": "Add llms.txt and fix robots.txt for AI agent discoverability",
+                "link": "https://news.ycombinator.com/item?id=47295320",
+                "summary": "..."
+            },
+            {
+                "title": "Need Help: Promoting indie AI image edit platform VAKPixel",
+                "link": "https://news.ycombinator.com/item?id=47295288",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
