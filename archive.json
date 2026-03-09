@@ -2666,5 +2666,36 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-03-09": {
+        "Research": [
+            {
+                "title": "RoboLayout: Differentiable 3D Scene Generation for Embodied Agents",
+                "link": "https://arxiv.org/abs/2603.05522",
+                "summary": "arXiv:2603.05522v1 Announce Type: new \nAbstract: Recent advances in vision language models (VLMs) have shown strong potential for spatial reasoning and 3D scene layout generation from open-ended langu..."
+            },
+            {
+                "title": "Real-Time AI Service Economy: A Framework for Agentic Computing Across the Continuum",
+                "link": "https://arxiv.org/abs/2603.05614",
+                "summary": "arXiv:2603.05614v1 Announce Type: new \nAbstract: Real-time AI services increasingly operate across the device-edge-cloud continuum, where autonomous AI agents generate latency-sensitive workloads, orc..."
+            },
+            {
+                "title": "Reasoning Models Struggle to Control their Chains of Thought",
+                "link": "https://arxiv.org/abs/2603.05706",
+                "summary": "arXiv:2603.05706v1 Announce Type: new \nAbstract: Chain-of-thought (CoT) monitoring is a promising tool for detecting misbehaviors and understanding the motivations of modern reasoning models. However,..."
+            },
+            {
+                "title": "Evolving Medical Imaging Agents via Experience-driven Self-skill Discovery",
+                "link": "https://arxiv.org/abs/2603.05860",
+                "summary": "arXiv:2603.05860v1 Announce Type: new \nAbstract: Clinical image interpretation is inherently multi-step and tool-centric: clinicians iteratively combine visual evidence with patient context, quantify ..."
+            },
+            {
+                "title": "The World Won't Stay Still: Programmable Evolution for Agent Benchmarks",
+                "link": "https://arxiv.org/abs/2603.05910",
+                "summary": "arXiv:2603.05910v1 Announce Type: new \nAbstract: LLM-powered agents fulfill user requests by interacting with environments, querying data, and invoking tools in a multi-turn process. Yet, most existin..."
+            }
+        ],
+        "Practitioner": [],
+        "Prompting": []
     }
 }
