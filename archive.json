@@ -2697,5 +2697,62 @@
         ],
         "Practitioner": [],
         "Prompting": []
+    },
+    "2026-03-10": {
+        "Research": [
+            {
+                "title": "Autonomous AI Agents for Option Hedging: Enhancing Financial Stability through Shortfall Aware Reinforcement Learning",
+                "link": "https://arxiv.org/abs/2603.06587",
+                "summary": "arXiv:2603.06587v1 Announce Type: new \nAbstract: The deployment of autonomous AI agents in derivatives markets has widened a practical gap between static model calibration and realized hedging outcome..."
+            },
+            {
+                "title": "Scaling Strategy, Not Compute: A Stand-Alone, Open-Source StarCraft II Benchmark for Accessible Reinforcement Learning Research",
+                "link": "https://arxiv.org/abs/2603.06608",
+                "summary": "arXiv:2603.06608v1 Announce Type: new \nAbstract: The research community lacks a middle ground between StarCraft IIs full game and its mini-games. The full-games sprawling state-action space renders re..."
+            },
+            {
+                "title": "MultiGen: Level-Design for Editable Multiplayer Worlds in Diffusion Game Engines",
+                "link": "https://arxiv.org/abs/2603.06679",
+                "summary": "arXiv:2603.06679v1 Announce Type: new \nAbstract: Video world models have shown immense promise for interactive simulation and entertainment, but current systems still struggle with two important aspec..."
+            },
+            {
+                "title": "Best-of-Tails: Bridging Optimism and Pessimism in Inference-Time Alignment",
+                "link": "https://arxiv.org/abs/2603.06797",
+                "summary": "arXiv:2603.06797v1 Announce Type: new \nAbstract: Inference-time alignment effectively steers large language models (LLMs) by generating multiple candidates from a reference model and selecting among t..."
+            },
+            {
+                "title": "Breaking the Martingale Curse: Multi-Agent Debate via Asymmetric Cognitive Potential Energy",
+                "link": "https://arxiv.org/abs/2603.06801",
+                "summary": "arXiv:2603.06801v1 Announce Type: new \nAbstract: Multi-Agent Debate (MAD) has emerged as a promising paradigm for enhancing large language model reasoning. However, recent work reveals a limitation:st..."
+            }
+        ],
+        "Practitioner": [
+            {
+                "title": "New Study Finds 'AI Brain Fry' Hitting Workers \u2013 Marketing and HR Top the List",
+                "link": "https://www.capitalaidaily.com/new-study-finds-ai-brain-fry-hitting-workers-marketing-and-hr-top-the-list/",
+                "summary": "..."
+            },
+            {
+                "title": "I built a public AI chat on my personal site, this is what I learned",
+                "link": "https://github.com/renatoworks/ai-security",
+                "summary": "..."
+            },
+            {
+                "title": "NemoClaw: Nvidia Is Planning to Launch an Open-Source AI Agent Platform",
+                "link": "https://www.wired.com/story/nvidia-planning-ai-agent-platform-launch-open-source/",
+                "summary": "..."
+            },
+            {
+                "title": "The Download: murky AI surveillance laws, and the White House cracks down on de",
+                "link": "https://www.technologyreview.com/2026/03/09/1134050/the-download-ai-surveillance-laws-white-house-cracks-down-defiant-labs/",
+                "summary": "..."
+            },
+            {
+                "title": "AI on a Budget: Recompiling Llama.cpp for Qwen3.5 Inference on an HP Z440",
+                "link": "https://jeanbaptistefleury.neocities.org/importance_of_inference_engines",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
