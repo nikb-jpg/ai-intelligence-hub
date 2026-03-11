@@ -2754,5 +2754,62 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-03-11": {
+        "Research": [
+            {
+                "title": "MASEval: Extending Multi-Agent Evaluation from Models to Systems",
+                "link": "https://arxiv.org/abs/2603.08835",
+                "summary": "arXiv:2603.08835v1 Announce Type: new \nAbstract: The rapid adoption of LLM-based agentic systems has produced a rich ecosystem of frameworks (smolagents, LangGraph, AutoGen, CAMEL, LlamaIndex, i.a.). ..."
+            },
+            {
+                "title": "LDP: An Identity-Aware Protocol for Multi-Agent LLM Systems",
+                "link": "https://arxiv.org/abs/2603.08852",
+                "summary": "arXiv:2603.08852v1 Announce Type: new \nAbstract: As multi-agent AI systems grow in complexity, the protocols connecting them constrain their capabilities. Current protocols such as A2A and MCP do not ..."
+            },
+            {
+                "title": "Quantifying the Accuracy and Cost Impact of Design Decisions in Budget-Constrained Agentic LLM Search",
+                "link": "https://arxiv.org/abs/2603.08877",
+                "summary": "arXiv:2603.08877v1 Announce Type: new \nAbstract: Agentic Retrieval-Augmented Generation (RAG) systems combine iterative search, planning prompts, and retrieval backends, but deployed settings impose e..."
+            },
+            {
+                "title": "Interpretable Markov-Based Spatiotemporal Risk Surfaces for Missing-Child Search Planning with Reinforcement Learning and LLM-Based Quality Assurance",
+                "link": "https://arxiv.org/abs/2603.08933",
+                "summary": "arXiv:2603.08933v1 Announce Type: new \nAbstract: The first 72 hours of a missing-child investigation are critical for successful recovery. However, law enforcement agencies often face fragmented, unst..."
+            },
+            {
+                "title": "AgentOS: From Application Silos to a Natural Language-Driven Data Ecosystem",
+                "link": "https://arxiv.org/abs/2603.08938",
+                "summary": "arXiv:2603.08938v1 Announce Type: new \nAbstract: The rapid emergence of open-source, locally hosted intelligent agents marks a critical inflection point in human-computer interaction. Systems such as ..."
+            }
+        ],
+        "Practitioner": [
+            {
+                "title": "Why does AI tell you to use Terminal so much?",
+                "link": "https://eclecticlight.co/2026/03/11/why-does-ai-tell-you-to-use-terminal-so-much/",
+                "summary": "..."
+            },
+            {
+                "title": "NovAI Coder \u2013 Free Copilot Alternative Using Chinese AI Models",
+                "link": "https://github.com/494900759-star/novai-coder",
+                "summary": "..."
+            },
+            {
+                "title": "Volo Data \u2013 Chat with your database using AI",
+                "link": "https://github.com/keminze/volo-data",
+                "summary": "..."
+            },
+            {
+                "title": "The Download: AI's role in the Iran war, and an escalating legal fight",
+                "link": "https://www.technologyreview.com/2026/03/10/1134077/the-download-ai-iran-war-theater-anthropic-sues-us/",
+                "summary": "..."
+            },
+            {
+                "title": "The State of AI in the Enterprise 2026",
+                "link": "https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/content/state-of-ai-in-the-enterprise.html",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
