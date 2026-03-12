@@ -2811,5 +2811,62 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-03-12": {
+        "Research": [
+            {
+                "title": "Agentic Control Center for Data Product Optimization",
+                "link": "https://arxiv.org/abs/2603.10133",
+                "summary": "arXiv:2603.10133v1 Announce Type: new \nAbstract: Data products enable end users to gain greater insights about their data by providing supporting assets, such as example question-SQL pairs which can b..."
+            },
+            {
+                "title": "Hybrid Self-evolving Structured Memory for GUI Agents",
+                "link": "https://arxiv.org/abs/2603.10291",
+                "summary": "arXiv:2603.10291v1 Announce Type: new \nAbstract: The remarkable progress of vision-language models (VLMs) has enabled GUI agents to interact with computers in a human-like manner. Yet real-world compu..."
+            },
+            {
+                "title": "HEAL: Hindsight Entropy-Assisted Learning for Reasoning Distillation",
+                "link": "https://arxiv.org/abs/2603.10359",
+                "summary": "arXiv:2603.10359v1 Announce Type: new \nAbstract: Distilling reasoning capabilities from Large Reasoning Models (LRMs) into smaller models is typically constrained by the limitation of rejection sampli..."
+            },
+            {
+                "title": "Beyond Scalars: Evaluating and Understanding LLM Reasoning via Geometric Progress and Stability",
+                "link": "https://arxiv.org/abs/2603.10384",
+                "summary": "arXiv:2603.10384v1 Announce Type: new \nAbstract: Evaluating LLM reliability via scalar probabilities often fails to capture the structural dynamics of reasoning. We introduce TRACED, a framework that ..."
+            },
+            {
+                "title": "Verbalizing LLM's Higher-order Uncertainty via Imprecise Probabilities",
+                "link": "https://arxiv.org/abs/2603.10396",
+                "summary": "arXiv:2603.10396v1 Announce Type: new \nAbstract: Despite the growing demand for eliciting uncertainty from large language models (LLMs), empirical evidence suggests that LLM behavior is not always ade..."
+            }
+        ],
+        "Practitioner": [
+            {
+                "title": "Heinzel: AI-powered sysadmin ruleset. Now supports OpenCode and Ollama models",
+                "link": "https://github.com/wintermeyer/heinzel",
+                "summary": "..."
+            },
+            {
+                "title": "Show HN: Guardio \u2013 control your AI Agent",
+                "link": "https://github.com/radoslaw-sz/guardio",
+                "summary": "..."
+            },
+            {
+                "title": "Show HN: AI-powered one-click translator for Pok\u00e9mon GBA ROM hacks",
+                "link": "https://github.com/Olcmyk/Meowth-GBA-Translator",
+                "summary": "..."
+            },
+            {
+                "title": "Dutch ISP forwarded customers' personal data to American AI company for years",
+                "link": "https://nltimes.nl/2026/03/11/odido-routers-forwarded-customers-personal-data-american-ai-company-years",
+                "summary": "..."
+            },
+            {
+                "title": "Shadow AI and the Compliance Gap That Won't Close Itself",
+                "link": "https://pablooliva.de/the-closing-window/shadow-ai-and-the-compliance-gap-that-wont-close-itself/",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
