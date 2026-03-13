@@ -2868,5 +2868,62 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-03-13": {
+        "Research": [
+            {
+                "title": "DIVE: Scaling Diversity in Agentic Task Synthesis for Generalizable Tool Use",
+                "link": "https://arxiv.org/abs/2603.11076",
+                "summary": "arXiv:2603.11076v1 Announce Type: new \nAbstract: Recent work synthesizes agentic tasks for post-training tool-using LLMs, yet robust generalization under shifts in tasks and toolsets remains an open c..."
+            },
+            {
+                "title": "A Survey of Reasoning in Autonomous Driving Systems: Open Challenges and Emerging Paradigms",
+                "link": "https://arxiv.org/abs/2603.11093",
+                "summary": "arXiv:2603.11093v1 Announce Type: new \nAbstract: The development of high-level autonomous driving (AD) is shifting from perception-centric limitations to a more fundamental bottleneck, namely, a defic..."
+            },
+            {
+                "title": "PACED: Distillation at the Frontier of Student Competence",
+                "link": "https://arxiv.org/abs/2603.11178",
+                "summary": "arXiv:2603.11178v1 Announce Type: new \nAbstract: Standard LLM distillation wastes compute on two fronts: problems the student has already mastered (near-zero gradients) and problems far beyond its rea..."
+            },
+            {
+                "title": "Measuring AI Agents' Progress on Multi-Step Cyber Attack Scenarios",
+                "link": "https://arxiv.org/abs/2603.11214",
+                "summary": "arXiv:2603.11214v1 Announce Type: new \nAbstract: We evaluate the autonomous cyber-attack capabilities of frontier AI models on two purpose-built cyber ranges-a 32-step corporate network attack and a 7..."
+            },
+            {
+                "title": "Reversible Lifelong Model Editing via Semantic Routing-Based LoRA",
+                "link": "https://arxiv.org/abs/2603.11239",
+                "summary": "arXiv:2603.11239v1 Announce Type: new \nAbstract: The dynamic evolution of real-world necessitates model editing within Large Language Models. While existing methods explore modular isolation or parame..."
+            }
+        ],
+        "Practitioner": [
+            {
+                "title": "Ask Maps and Immersive Navigation: New AI Features in Google Maps",
+                "link": "https://blog.google/products-and-platforms/products/maps/ask-maps-immersive-navigation/",
+                "summary": "..."
+            },
+            {
+                "title": "A defense official reveals how AI chatbots could be used for targeting decisions",
+                "link": "https://www.technologyreview.com/2026/03/12/1134243/defense-official-military-use-ai-chatbots-targeting-decisions/",
+                "summary": "..."
+            },
+            {
+                "title": "Lenovo ThinkStation PGX Review: The Nvidia GB10 128GB AI Workstation",
+                "link": "https://www.servethehome.com/lenovo-thinkstation-pgx-review-the-nvidia-gb10-128gb-ai-workstation-goes-corporate/",
+                "summary": "..."
+            },
+            {
+                "title": "What if compiler errors were an API? (AI-native language demo)",
+                "link": "https://asciinema.org/a/834560",
+                "summary": "..."
+            },
+            {
+                "title": "Show HN: ROI-first AI automation framework for B2B companies",
+                "link": "https://roihacking.ai/",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
