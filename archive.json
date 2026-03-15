@@ -2930,5 +2930,36 @@
         "Research": [],
         "Practitioner": [],
         "Prompting": []
+    },
+    "2026-03-15": {
+        "Research": [],
+        "Practitioner": [
+            {
+                "title": "Virtual AI Team Instead of OpenClaw",
+                "link": "https://timdietrich.me/blog/virtual-ai-team-instead-of-openclaw/",
+                "summary": "..."
+            },
+            {
+                "title": "You Need Deterministic Gates for Probabilistic AI Agents",
+                "link": "https://www.appsoftware.com/blog/you-need-probabilistic-gates-for-deterministic-ai-agents",
+                "summary": "..."
+            },
+            {
+                "title": "The Appalling Stupidity of Spotify's AI DJ",
+                "link": "https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html",
+                "summary": "..."
+            },
+            {
+                "title": "Way of the Future \u2013 Religious organization dedicated to the worship of AI",
+                "link": "https://en.wikipedia.org/wiki/Way_of_the_Future",
+                "summary": "..."
+            },
+            {
+                "title": "Ask HN: Founder is claiming my 2-year RAG architecture as his AI's Featured Work",
+                "link": "https://news.ycombinator.com/item?id=47385213",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
