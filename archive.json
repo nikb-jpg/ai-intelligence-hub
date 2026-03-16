@@ -2961,5 +2961,62 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-03-16": {
+        "Research": [
+            {
+                "title": "Context-Enriched Natural Language Descriptions of Vessel Trajectories",
+                "link": "https://arxiv.org/abs/2603.12287",
+                "summary": "arXiv:2603.12287v1 Announce Type: new \nAbstract: We address the problem of transforming raw vessel trajectory data collected from AIS into structured and semantically enriched representations interpre..."
+            },
+            {
+                "title": "Efficient Reasoning with Balanced Thinking",
+                "link": "https://arxiv.org/abs/2603.12372",
+                "summary": "arXiv:2603.12372v1 Announce Type: new \nAbstract: Large Reasoning Models (LRMs) have shown remarkable reasoning capabilities, yet they often suffer from overthinking, expending redundant computational ..."
+            },
+            {
+                "title": "Generating Expressive and Customizable Evals for Timeseries Data Analysis Agents with AgentFuel",
+                "link": "https://arxiv.org/abs/2603.12483",
+                "summary": "arXiv:2603.12483v1 Announce Type: new \nAbstract: Across many domains (e.g., IoT, observability, telecommunications, cybersecurity), there is an emerging adoption of conversational data analysis agents..."
+            },
+            {
+                "title": "AI Planning Framework for LLM-Based Web Agents",
+                "link": "https://arxiv.org/abs/2603.12710",
+                "summary": "arXiv:2603.12710v1 Announce Type: new \nAbstract: Developing autonomous agents for web-based tasks is a core challenge in AI. While Large Language Model (LLM) agents can interpret complex user requests..."
+            },
+            {
+                "title": "On Using Machine Learning to Early Detect Catastrophic Failures in Marine Diesel Engines",
+                "link": "https://arxiv.org/abs/2603.12733",
+                "summary": "arXiv:2603.12733v1 Announce Type: new \nAbstract: Catastrophic failures of marine engines imply severe loss of functionality and destroy or damage the systems irreversibly. Being sudden and often unpre..."
+            }
+        ],
+        "Practitioner": [
+            {
+                "title": "Show HN: Vizit \u2013 Generate and organise visualizations from Jira using AI agents",
+                "link": "https://github.com/reposquirrel/Vizit",
+                "summary": "..."
+            },
+            {
+                "title": "Code on the Fastest Largest AI Chip Ever Built",
+                "link": "https://www.jackpearce.co.uk/notes/gpt-5-3-codex-spark-wse3-real-time-coding/",
+                "summary": "..."
+            },
+            {
+                "title": "Pok\u00e9mon Go Players Trained 30B Image AI Map",
+                "link": "https://twitter.com/markgadala/status/2033230495283351624",
+                "summary": "..."
+            },
+            {
+                "title": "Show HN: Shard \u2013 Stop watching one AI agent code for 45 min. Run four at once",
+                "link": "https://github.com/nihalgunu/Shard",
+                "summary": "..."
+            },
+            {
+                "title": "A curated list of AI slops",
+                "link": "https://github.com/yikerman/awesome-ai-slop",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
