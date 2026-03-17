@@ -3018,5 +3018,62 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-03-17": {
+        "Research": [
+            {
+                "title": "Human Attribution of Causality to AI Across Agency, Misuse, and Misalignment",
+                "link": "https://arxiv.org/abs/2603.13236",
+                "summary": "arXiv:2603.13236v1 Announce Type: new \nAbstract: AI-related incidents are becoming increasingly frequent and severe, ranging from safety failures to misuse by malicious actors. In such complex situati..."
+            },
+            {
+                "title": "A Dual-Path Generative Framework for Zero-Day Fraud Detection in Banking Systems",
+                "link": "https://arxiv.org/abs/2603.13237",
+                "summary": "arXiv:2603.13237v1 Announce Type: new \nAbstract: High-frequency banking environments face a critical trade-off between low-latency fraud detection and the regulatory explainability demanded by GDPR. T..."
+            },
+            {
+                "title": "Benchmarking Zero-Shot Reasoning Approaches for Error Detection in Solidity Smart Contracts",
+                "link": "https://arxiv.org/abs/2603.13239",
+                "summary": "arXiv:2603.13239v1 Announce Type: new \nAbstract: Smart contracts play a central role in blockchain systems by encoding financial and operational logic. Still, their susceptibility to subtle security f..."
+            },
+            {
+                "title": "Think First, Diffuse Fast: Improving Diffusion Language Model Reasoning via Autoregressive Plan Conditioning",
+                "link": "https://arxiv.org/abs/2603.13243",
+                "summary": "arXiv:2603.13243v1 Announce Type: new \nAbstract: Diffusion large language models (dLLMs) generate text via iterative denoising but consistently underperform on multi-step reasoning. We hypothesize thi..."
+            },
+            {
+                "title": "Automating Document Intelligence in Statutory City Planning",
+                "link": "https://arxiv.org/abs/2603.13245",
+                "summary": "arXiv:2603.13245v1 Announce Type: new \nAbstract: UK planning authorities face a legislative conflict between the Planning Act, which mandates public access to application documents, and the Data Prote..."
+            }
+        ],
+        "Practitioner": [
+            {
+                "title": "TransDuck \u2013 add free AI translations to your vibe-coded apps",
+                "link": "https://github.com/timnilson/transduck/",
+                "summary": "..."
+            },
+            {
+                "title": "Nurturing agentic AI beyond the toddler stage",
+                "link": "https://www.technologyreview.com/2026/03/16/1133979/nurturing-agentic-ai-beyond-the-toddler-stage/",
+                "summary": "..."
+            },
+            {
+                "title": "40k-line AI platform built solo with Rails, self-hosted GPU, and an agent",
+                "link": "https://austn.net/blog/building-an-ai-native-web-platform",
+                "summary": "..."
+            },
+            {
+                "title": "China is running multiple AI races",
+                "link": "https://www.brookings.edu/articles/china-is-running-multiple-ai-races/",
+                "summary": "..."
+            },
+            {
+                "title": "Clawforge SaaS Starter: OpenClaw and Nvidia Starter for Local AI SaaS Workflows",
+                "link": "https://github.com/autopilotaitech/clawforge-saas-starter",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
