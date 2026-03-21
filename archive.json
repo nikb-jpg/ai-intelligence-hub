@@ -3220,5 +3220,62 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-03-21": {
+        "Research": [
+            {
+                "title": "DEAF: A Benchmark for Diagnostic Evaluation of Acoustic Faithfulness in Audio Language Models",
+                "link": "https://arxiv.org/abs/2603.18048",
+                "summary": "arXiv:2603.18048v1 Announce Type: new \nAbstract: Recent Audio Multimodal Large Language Models (Audio MLLMs) demonstrate impressive performance on speech benchmarks, yet it remains unclear whether the..."
+            },
+            {
+                "title": "Continually self-improving AI",
+                "link": "https://arxiv.org/abs/2603.18073",
+                "summary": "arXiv:2603.18073v1 Announce Type: new \nAbstract: Modern language model-based AI systems are remarkably powerful, yet their capabilities remain fundamentally capped by their human creators in three key..."
+            },
+            {
+                "title": "Multi-Trait Subspace Steering to Reveal the Dark Side of Human-AI Interaction",
+                "link": "https://arxiv.org/abs/2603.18085",
+                "summary": "arXiv:2603.18085v1 Announce Type: new \nAbstract: Recent incidents have highlighted alarming cases where human-AI interactions led to negative psychological outcomes, including mental health crises and..."
+            },
+            {
+                "title": "Adaptive Domain Models: Bayesian Evolution, Warm Rotation, and Principled Training for Geometric and Neuromorphic AI",
+                "link": "https://arxiv.org/abs/2603.18104",
+                "summary": "arXiv:2603.18104v1 Announce Type: new \nAbstract: Prevailing AI training infrastructure assumes reverse-mode automatic differentiation over IEEE-754 arithmetic. The memory overhead of training relative..."
+            },
+            {
+                "title": "Don't Vibe Code, Do Skele-Code: Interactive No-Code Notebooks for Subject Matter Experts to Build Lower-Cost Agentic Workflows",
+                "link": "https://arxiv.org/abs/2603.18122",
+                "summary": "arXiv:2603.18122v1 Announce Type: new \nAbstract: Skele-Code is a natural-language and graph-based interface for building workflows with AI agents, designed especially for less or non-technical users. ..."
+            }
+        ],
+        "Practitioner": [
+            {
+                "title": "Man pleads guilty to $8M AI-generated music scheme",
+                "link": "https://therecord.media/man-pleads-guilty-8-million-ai-music-scheme",
+                "summary": "..."
+            },
+            {
+                "title": "Blocking Internet Archive Won't Stop AI, but Will Erase Web's Historical Record",
+                "link": "https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record",
+                "summary": "..."
+            },
+            {
+                "title": "Getlamina.ai \u2013 Tools for Building",
+                "link": "https://getlamina.ai",
+                "summary": "..."
+            },
+            {
+                "title": "Been There, Done That \u2013 A History of Replacing Schools with AI",
+                "link": "https://stager.tv/?p=7675",
+                "summary": "..."
+            },
+            {
+                "title": "DIY AI-powered robot arm",
+                "link": "https://www.youtube.com/watch?v=59JTCvpG_Ec",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
