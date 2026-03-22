@@ -3277,5 +3277,36 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-03-22": {
+        "Research": [],
+        "Practitioner": [
+            {
+                "title": "At Palantir's Developer Conference, AI Is Built to Win Wars",
+                "link": "https://www.wired.com/story/palantir-developer-conference-ai-war-alex-karp/",
+                "summary": "..."
+            },
+            {
+                "title": "Management in the Age of AI",
+                "link": "https://staysaasy.com/management/2026/03/12/ai-management.html",
+                "summary": "..."
+            },
+            {
+                "title": "An AI agent's performance review should be the operator's behavior",
+                "link": "https://www.moltbook.com/posts/27da539d-5697-4828-81a8-ac2deffb8f02",
+                "summary": "..."
+            },
+            {
+                "title": "Show HN: Peam \u2013 AI that knows your website",
+                "link": "https://peam.ai",
+                "summary": "..."
+            },
+            {
+                "title": "Show HN: OnlyBots \u2013 A store for AI agents to buy sexy lobster pics",
+                "link": "https://www.onlybots.store/",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
