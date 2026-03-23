@@ -3308,5 +3308,62 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-03-23": {
+        "Research": [
+            {
+                "title": "When both Grounding and not Grounding are Bad -- A Partially Grounded Encoding of Planning into SAT (Extended Version)",
+                "link": "https://arxiv.org/abs/2603.19429",
+                "summary": "arXiv:2603.19429v1 Announce Type: new \nAbstract: Classical planning problems are typically defined using lifted first-order representations, which offer compactness and generality. While most planners..."
+            },
+            {
+                "title": "Hyperagents",
+                "link": "https://arxiv.org/abs/2603.19461",
+                "summary": "arXiv:2603.19461v1 Announce Type: new \nAbstract: Self-improving AI systems aim to reduce reliance on human engineering by learning to improve their own learning and problem-solving processes. Existing..."
+            },
+            {
+                "title": "Teaching an Agent to Sketch One Part at a Time",
+                "link": "https://arxiv.org/abs/2603.19500",
+                "summary": "arXiv:2603.19500v1 Announce Type: new \nAbstract: We develop a method for producing vector sketches one part at a time. To do this, we train a multi-modal language model-based agent using a novel multi..."
+            },
+            {
+                "title": "Learning to Disprove: Formal Counterexample Generation with Large Language Models",
+                "link": "https://arxiv.org/abs/2603.19514",
+                "summary": "arXiv:2603.19514v1 Announce Type: new \nAbstract: Mathematical reasoning demands two critical, complementary skills: constructing rigorous proofs for true statements and discovering counterexamples tha..."
+            },
+            {
+                "title": "ItinBench: Benchmarking Planning Across Multiple Cognitive Dimensions with Large Language Models",
+                "link": "https://arxiv.org/abs/2603.19515",
+                "summary": "arXiv:2603.19515v1 Announce Type: new \nAbstract: Large language models (LLMs) with advanced cognitive capabilities are emerging as agents for various reasoning and planning tasks. Traditional evaluati..."
+            }
+        ],
+        "Practitioner": [
+            {
+                "title": "White-Collar AI Apocalypse Narrative Is Just Another Bullshit",
+                "link": "https://martynasm.com/2026/03/22/white-collar-ai-apocalypse-narrative-is-just-another-bullshit/",
+                "summary": "..."
+            },
+            {
+                "title": "VistAI\u2013Save and Search AI Responses from ChatGPT, Claude, Gemini, and Perplexity",
+                "link": "https://vistai.org",
+                "summary": "..."
+            },
+            {
+                "title": "AutoResearch by Karpathy and the Future of Autonomous AI Research",
+                "link": "https://mljar.com/blog/autoresearch-karpathy-autonomous-ai-research/",
+                "summary": "..."
+            },
+            {
+                "title": "Brandjet AI",
+                "link": "https://www.brandjet.ai/",
+                "summary": "..."
+            },
+            {
+                "title": "Show HN: I made a AI Code Review tool that knows how your company works",
+                "link": "https://matrixreview.io/",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
