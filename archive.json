@@ -3365,5 +3365,62 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-03-24": {
+        "Research": [
+            {
+                "title": "AgenticGEO: A Self-Evolving Agentic System for Generative Engine Optimization",
+                "link": "https://arxiv.org/abs/2603.20213",
+                "summary": "arXiv:2603.20213v1 Announce Type: new \nAbstract: Generative search engines represent a transition from traditional ranking-based retrieval to Large Language Model (LLM)-based synthesis, transforming o..."
+            },
+            {
+                "title": "ProMAS: Proactive Error Forecasting for Multi-Agent Systems Using Markov Transition Dynamics",
+                "link": "https://arxiv.org/abs/2603.20260",
+                "summary": "arXiv:2603.20260v1 Announce Type: new \nAbstract: The integration of Large Language Models into Multi-Agent Systems (MAS) has enabled the so-lution of complex, long-horizon tasks through collaborative ..."
+            },
+            {
+                "title": "Domain-Specialized Tree of Thought through Plug-and-Play Predictors",
+                "link": "https://arxiv.org/abs/2603.20267",
+                "summary": "arXiv:2603.20267v1 Announce Type: new \nAbstract: While Large Language Models (LLMs) have advanced complex reasoning, prominent methods like the Tree of Thoughts (ToT) framework face a critical trade-o..."
+            },
+            {
+                "title": "FactorSmith: Agentic Simulation Generation via Markov Decision Process Decomposition with Planner-Designer-Critic Refinement",
+                "link": "https://arxiv.org/abs/2603.20270",
+                "summary": "arXiv:2603.20270v1 Announce Type: new \nAbstract: Generating executable simulations from natural language specifications remains a challenging problem due to the limited reasoning capacity of large lan..."
+            },
+            {
+                "title": "Me, Myself, and $\\pi$ : Evaluating and Explaining LLM Introspection",
+                "link": "https://arxiv.org/abs/2603.20276",
+                "summary": "arXiv:2603.20276v1 Announce Type: new \nAbstract: A hallmark of human intelligence is Introspection-the ability to assess and reason about one's own cognitive processes. Introspection has emerged as a ..."
+            }
+        ],
+        "Practitioner": [
+            {
+                "title": "The Homework Machine",
+                "link": "https://insightfultroll.com/blog/2025/12/30/homework-machine/",
+                "summary": "..."
+            },
+            {
+                "title": "Modular 26.2: Image Generation and Upgraded AI Coding with Mojo",
+                "link": "https://www.modular.com/blog/modular-26-2-state-of-the-art-image-generation-and-upgraded-ai-coding-with-mojo",
+                "summary": "..."
+            },
+            {
+                "title": "A simple feed to keep up with AI drops",
+                "link": "https://www.a2i.now/",
+                "summary": "..."
+            },
+            {
+                "title": "AI Proteomics Competition 2026 \u2013 $13K Prize, Internships and Compute Support",
+                "link": "https://www.bohrium.com/competitions/9813928053?tab=introduce",
+                "summary": "..."
+            },
+            {
+                "title": "Show HN: ProofShot \u2013 Give AI coding agents eyes to verify the UI they build",
+                "link": "https://proofshot.argil.io/",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
