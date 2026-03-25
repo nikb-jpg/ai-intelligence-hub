@@ -3422,5 +3422,62 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-03-25": {
+        "Research": [
+            {
+                "title": "Memory Bear AI Memory Science Engine for Multimodal Affective Intelligence: A Technical Report",
+                "link": "https://arxiv.org/abs/2603.22306",
+                "summary": "arXiv:2603.22306v1 Announce Type: new \nAbstract: Affective judgment in real interaction is rarely a purely local prediction problem. Emotional meaning often depends on prior trajectory, accumulated co..."
+            },
+            {
+                "title": "The Efficiency Attenuation Phenomenon: A Computational Challenge to the Language of Thought Hypothesis",
+                "link": "https://arxiv.org/abs/2603.22312",
+                "summary": "arXiv:2603.22312v1 Announce Type: new \nAbstract: This paper computationally investigates whether thought requires a language-like format, as posited by the Language of Thought (LoT) hypothesis. We int..."
+            },
+            {
+                "title": "Dynamic Fusion-Aware Graph Convolutional Neural Network for Multimodal Emotion Recognition in Conversations",
+                "link": "https://arxiv.org/abs/2603.22345",
+                "summary": "arXiv:2603.22345v1 Announce Type: new \nAbstract: Multimodal emotion recognition in conversations (MERC) aims to identify and understand the emotions expressed by speakers during utterance interaction ..."
+            },
+            {
+                "title": "Intelligence Inertia: Physical Principles and Applications",
+                "link": "https://arxiv.org/abs/2603.22347",
+                "summary": "arXiv:2603.22347v1 Announce Type: new \nAbstract: While Landauer's principle establishes the fundamental thermodynamic floor for information erasure and Fisher Information provides a metric for local c..."
+            },
+            {
+                "title": "Session Risk Memory (SRM): Temporal Authorization for Deterministic Pre-Execution Safety Gates",
+                "link": "https://arxiv.org/abs/2603.22350",
+                "summary": "arXiv:2603.22350v1 Announce Type: new \nAbstract: Deterministic pre-execution safety gates evaluate whether individual agent actions are compatible with their assigned roles. While effective at per-act..."
+            }
+        ],
+        "Practitioner": [
+            {
+                "title": "Vibe physics: The AI grad student",
+                "link": "https://www.anthropic.com/research/vibe-physics",
+                "summary": "..."
+            },
+            {
+                "title": "Litmus \u2013 Flight recorder for AI agents (record and replay any LLM execution)",
+                "link": "https://github.com/rylinjames/litmus",
+                "summary": "..."
+            },
+            {
+                "title": "We're all VCs now: The skills developers need in the AI era",
+                "link": "https://lerner.co.il/2026/01/21/were-all-vcs-now-the-skills-developers-need-in-the-ai-era/",
+                "summary": "..."
+            },
+            {
+                "title": "AI requirements could drive an increase in smartphone storage capacity by 2026",
+                "link": "https://9to5mac.com/2026/03/23/report-ai-requirements-could-push-higher-smartphone-storage-in-2026-amid-supply-constraints/",
+                "summary": "..."
+            },
+            {
+                "title": "Show HN: Clampd \u2013 Your AI agent can DROP TABLE. We block it in <10ms",
+                "link": "https://clampd.dev",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
