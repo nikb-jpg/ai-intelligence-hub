@@ -3536,5 +3536,62 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-03-27": {
+        "Research": [
+            {
+                "title": "PLDR-LLMs Reason At Self-Organized Criticality",
+                "link": "https://arxiv.org/abs/2603.23539",
+                "summary": "arXiv:2603.23539v1 Announce Type: new \nAbstract: We show that PLDR-LLMs pretrained at self-organized criticality exhibit reasoning at inference time. The characteristics of PLDR-LLM deductive outputs ..."
+            },
+            {
+                "title": "Environment Maps: Structured Environmental Representations for Long-Horizon Agents",
+                "link": "https://arxiv.org/abs/2603.23610",
+                "summary": "arXiv:2603.23610v2 Announce Type: new \nAbstract: Although large language models (LLMs) have advanced rapidly, robust automation of complex software workflows remains an open problem. In long-horizon s..."
+            },
+            {
+                "title": "Evaluating a Multi-Agent Voice-Enabled Smart Speaker for Care Homes: A Safety-Focused Framework",
+                "link": "https://arxiv.org/abs/2603.23625",
+                "summary": "arXiv:2603.23625v1 Announce Type: new \nAbstract: Artificial intelligence (AI) is increasingly being explored in health and social care to reduce administrative workload and allow staff to spend more t..."
+            },
+            {
+                "title": "Can LLM Agents Be CFOs? A Benchmark for Resource Allocation in Dynamic Enterprise Environments",
+                "link": "https://arxiv.org/abs/2603.23638",
+                "summary": "arXiv:2603.23638v1 Announce Type: new \nAbstract: Large language models (LLMs) have enabled agentic systems that can reason, plan, and act across complex tasks, but it remains unclear whether they can ..."
+            },
+            {
+                "title": "GTO Wizard Benchmark",
+                "link": "https://arxiv.org/abs/2603.23660",
+                "summary": "arXiv:2603.23660v1 Announce Type: new \nAbstract: We introduce GTO Wizard Benchmark, a public API and standardized evaluation framework for benchmarking algorithms in Heads-Up No-Limit Texas Hold'em (H..."
+            }
+        ],
+        "Practitioner": [
+            {
+                "title": "AI bug reports went from junk to legit overnight, says Linux kernel czar",
+                "link": "https://www.theregister.com/2026/03/26/greg_kroahhartman_ai_kernel/",
+                "summary": "..."
+            },
+            {
+                "title": "Show HN: Clipboard-MCP \u2013 System clipboard access for AI assistants",
+                "link": "https://github.com/mnardit/clipboard-mcp",
+                "summary": "..."
+            },
+            {
+                "title": "GitHub hits CTRL-Z, decides it will train its AI with user data after all",
+                "link": "https://www.theregister.com/2026/03/26/github_ai_training_policy_changes/",
+                "summary": "..."
+            },
+            {
+                "title": "How Well Does My AI Agent Know Me?",
+                "link": "https://hexaco-agent.vercel.app/",
+                "summary": "..."
+            },
+            {
+                "title": "A Shakeup Is Coming for the Nation-State: AI and drones may shift basis of power",
+                "link": "https://www.thenewatlantis.com/publications/a-shakeup-is-coming-for-the-nation-state",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
