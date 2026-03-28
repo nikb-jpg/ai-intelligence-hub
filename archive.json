@@ -3593,5 +3593,36 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-03-28": {
+        "Research": [],
+        "Practitioner": [
+            {
+                "title": "Adults Lose Skills to AI. Children Never Build Them",
+                "link": "https://www.psychologytoday.com/us/blog/the-algorithmic-mind/202603/adults-lose-skills-to-ai-children-never-build-them",
+                "summary": "..."
+            },
+            {
+                "title": "CERN uses tiny AI models burned into silicon for real-time LHC data filtering",
+                "link": "https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering",
+                "summary": "..."
+            },
+            {
+                "title": "AI Research Is Getting Harder to Separate from Geopolitics",
+                "link": "https://www.wired.com/story/made-in-china-ai-research-is-starting-to-split-along-geopolitical-lines/",
+                "summary": "..."
+            },
+            {
+                "title": "CSS Refactoring with an AI Safety Net",
+                "link": "https://danielabaron.me/blog/css-refactoring-with-an-ai-safety-net/",
+                "summary": "..."
+            },
+            {
+                "title": "Show HN: Layer \u2013 Hide your personal AI files from Git without touching gitignore",
+                "link": "https://crates.io/crates/git-layer",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
