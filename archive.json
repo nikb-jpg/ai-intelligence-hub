@@ -3629,5 +3629,36 @@
         "Research": [],
         "Practitioner": [],
         "Prompting": []
+    },
+    "2026-03-30": {
+        "Research": [
+            {
+                "title": "BeSafe-Bench: Unveiling Behavioral Safety Risks of Situated Agents in Functional Environments",
+                "link": "https://arxiv.org/abs/2603.25747",
+                "summary": "arXiv:2603.25747v1 Announce Type: new \nAbstract: The rapid evolution of Large Multimodal Models (LMMs) has enabled agents to perform complex digital and physical tasks, yet their deployment as autonom..."
+            },
+            {
+                "title": "AutoB2G: A Large Language Model-Driven Agentic Framework For Automated Building-Grid Co-Simulation",
+                "link": "https://arxiv.org/abs/2603.26005",
+                "summary": "arXiv:2603.26005v1 Announce Type: new \nAbstract: The growing availability of building operational data motivates the use of reinforcement learning (RL), which can learn control policies directly from ..."
+            },
+            {
+                "title": "Semi-Automated Knowledge Engineering and Process Mapping for Total Airport Management",
+                "link": "https://arxiv.org/abs/2603.26076",
+                "summary": "arXiv:2603.26076v1 Announce Type: new \nAbstract: Documentation of airport operations is inherently complex due to extensive technical terminology, rigorous regulations, proprietary regional informatio..."
+            },
+            {
+                "title": "GUIDE: Resolving Domain Bias in GUI Agents through Real-Time Web Video Retrieval and Plug-and-Play Annotation",
+                "link": "https://arxiv.org/abs/2603.26266",
+                "summary": "arXiv:2603.26266v1 Announce Type: new \nAbstract: Large vision-language models have endowed GUI agents with strong general capabilities for interface understanding and interaction. However, due to insu..."
+            },
+            {
+                "title": "AIRA_2: Overcoming Bottlenecks in AI Research Agents",
+                "link": "https://arxiv.org/abs/2603.26499",
+                "summary": "arXiv:2603.26499v1 Announce Type: new \nAbstract: Existing research has identified three structural performance bottlenecks in AI research agents: (1) synchronous single-GPU execution constrains sample..."
+            }
+        ],
+        "Practitioner": [],
+        "Prompting": []
     }
 }
