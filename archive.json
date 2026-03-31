@@ -3660,5 +3660,62 @@
         ],
         "Practitioner": [],
         "Prompting": []
+    },
+    "2026-03-31": {
+        "Research": [
+            {
+                "title": "Bitboard version of Tetris AI",
+                "link": "https://arxiv.org/abs/2603.26765",
+                "summary": "arXiv:2603.26765v1 Announce Type: new \nAbstract: The efficiency of game engines and policy optimization algorithms is crucial for training reinforcement learning (RL) agents in complex sequential deci..."
+            },
+            {
+                "title": "Multiverse: Language-Conditioned Multi-Game Level Blending via Shared Representation",
+                "link": "https://arxiv.org/abs/2603.26782",
+                "summary": "arXiv:2603.26782v1 Announce Type: new \nAbstract: Text-to-level generation aims to translate natural language descriptions into structured game levels, enabling intuitive control over procedural conten..."
+            },
+            {
+                "title": "Concerning Uncertainty -- A Systematic Survey of Uncertainty-Aware XAI",
+                "link": "https://arxiv.org/abs/2603.26838",
+                "summary": "arXiv:2603.26838v1 Announce Type: new \nAbstract: This paper surveys uncertainty-aware explainable artificial intelligence (UAXAI), examining how uncertainty is incorporated into explanatory pipelines ..."
+            },
+            {
+                "title": "Neuro-Symbolic Learning for Predictive Process Monitoring via Two-Stage Logic Tensor Networks with Rule Pruning",
+                "link": "https://arxiv.org/abs/2603.26944",
+                "summary": "arXiv:2603.26944v1 Announce Type: new \nAbstract: Predictive modeling on sequential event data is critical for fraud detection and healthcare monitoring. Existing data-driven approaches learn correlati..."
+            },
+            {
+                "title": "Compliance-Aware Predictive Process Monitoring: A Neuro-Symbolic Approach",
+                "link": "https://arxiv.org/abs/2603.26948",
+                "summary": "arXiv:2603.26948v1 Announce Type: new \nAbstract: Existing approaches for predictive process monitoring are sub-symbolic, meaning that they learn correlations between descriptive features and a target ..."
+            }
+        ],
+        "Practitioner": [
+            {
+                "title": "Vulniq AI: Autonomous Security Scanner for Any JavaScript/TS Codebase",
+                "link": "https://github.com/JakubKontra/skills/blob/main/docs/vulniq.md",
+                "summary": "..."
+            },
+            {
+                "title": "Paris Saint-Germain Names Harvey The Official Legal AI Partner",
+                "link": "https://www.harvey.ai/blog/paris-saint-germain-names-harvey-the-official-legal-ai-partner",
+                "summary": "..."
+            },
+            {
+                "title": "Closed Source AI = Neofeudalism",
+                "link": "https://geohot.github.io//blog/jekyll/update/2026/03/31/free-intelligence.html",
+                "summary": "..."
+            },
+            {
+                "title": "Bravos AI",
+                "link": "https://bravos-ai.com/en",
+                "summary": "..."
+            },
+            {
+                "title": "The Inference Shift \u2013 How Cheap Chips Could Put Frontier AI in Everyone's Hands",
+                "link": "https://substack.com/home/post/p-192665961",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
