@@ -3717,5 +3717,62 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-04-01": {
+        "Research": [
+            {
+                "title": "ChartDiff: A Large-Scale Benchmark for Comprehending Pairs of Charts",
+                "link": "https://arxiv.org/abs/2603.28902",
+                "summary": "arXiv:2603.28902v1 Announce Type: new \nAbstract: Charts are central to analytical reasoning, yet existing benchmarks for chart understanding focus almost exclusively on single-chart interpretation rat..."
+            },
+            {
+                "title": "Working Paper: Towards a Category-theoretic Comparative Framework for Artificial General Intelligence",
+                "link": "https://arxiv.org/abs/2603.28906",
+                "summary": "arXiv:2603.28906v1 Announce Type: new \nAbstract: AGI has become the Holly Grail of AI with the promise of level intelligence and the major Tech companies around the world are investing unprecedented a..."
+            },
+            {
+                "title": "Towards Computational Social Dynamics of Semi-Autonomous AI Agents",
+                "link": "https://arxiv.org/abs/2603.28928",
+                "summary": "arXiv:2603.28928v1 Announce Type: new \nAbstract: We present the first comprehensive study of emergent social organization among AI agents in hierarchical multi-agent systems, documenting the spontaneo..."
+            },
+            {
+                "title": "Enhancing Policy Learning with World-Action Model",
+                "link": "https://arxiv.org/abs/2603.28955",
+                "summary": "arXiv:2603.28955v1 Announce Type: new \nAbstract: This paper presents the World-Action Model (WAM), an action-regularized world model that jointly reasons over future visual observations and the action..."
+            },
+            {
+                "title": "Mimosa Framework: Toward Evolving Multi-Agent Systems for Scientific Research",
+                "link": "https://arxiv.org/abs/2603.28986",
+                "summary": "arXiv:2603.28986v1 Announce Type: new \nAbstract: Current Autonomous Scientific Research (ASR) systems, despite leveraging large language models (LLMs) and agentic architectures, remain constrained by ..."
+            }
+        ],
+        "Practitioner": [
+            {
+                "title": "Gemini CLI is an open-source AI agent that brings Gemini into your terminal",
+                "link": "https://github.com/google-gemini/gemini-cli",
+                "summary": "..."
+            },
+            {
+                "title": "AI that reads your screenplay like a Hollywood producer, $20/mo unlimited",
+                "link": "https://www.gem.studio/",
+                "summary": "..."
+            },
+            {
+                "title": "Show HN: A sandboxed AI agent that can watch webpages without constant API calls",
+                "link": "https://github.com/Grimm67123/GrimmBot",
+                "summary": "..."
+            },
+            {
+                "title": "BlindKey \u2013 Blind credential injection for AI agents (open source)",
+                "link": "https://github.com/michaelkenealy/blindkey",
+                "summary": "..."
+            },
+            {
+                "title": "Atombite.ai Deep Dive: Building a Takeout Packing Robot Is Harder Than You Think",
+                "link": "https://news.ycombinator.com/item?id=47598285",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
