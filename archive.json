@@ -3774,5 +3774,62 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-04-02": {
+        "Research": [
+            {
+                "title": "How Emotion Shapes the Behavior of LLMs and Agents: A Mechanistic Study",
+                "link": "https://arxiv.org/abs/2604.00005",
+                "summary": "arXiv:2604.00005v1 Announce Type: new \nAbstract: Emotion plays an important role in human cognition and performance. Motivated by this, we investigate whether analogous emotional signals can shape the..."
+            },
+            {
+                "title": "One Panel Does Not Fit All: Case-Adaptive Multi-Agent Deliberation for Clinical Prediction",
+                "link": "https://arxiv.org/abs/2604.00085",
+                "summary": "arXiv:2604.00085v1 Announce Type: new \nAbstract: Large language models applied to clinical prediction exhibit case-level heterogeneity: simple cases yield consistent outputs, while complex cases produ..."
+            },
+            {
+                "title": "Open, Reliable, and Collective: A Community-Driven Framework for Tool-Using AI Agents",
+                "link": "https://arxiv.org/abs/2604.00137",
+                "summary": "arXiv:2604.00137v1 Announce Type: new \nAbstract: Tool-integrated LLMs can retrieve, compute, and take real-world actions via external tools, but reliability remains a key bottleneck. We argue that fai..."
+            },
+            {
+                "title": "A Safety-Aware Role-Orchestrated Multi-Agent LLM Framework for Behavioral Health Communication Simulation",
+                "link": "https://arxiv.org/abs/2604.00249",
+                "summary": "arXiv:2604.00249v1 Announce Type: new \nAbstract: Single-agent large language model (LLM) systems struggle to simultaneously support diverse conversational functions and maintain safety in behavioral h..."
+            },
+            {
+                "title": "Human-in-the-Loop Control of Objective Drift in LLM-Assisted Computer Science Education",
+                "link": "https://arxiv.org/abs/2604.00281",
+                "summary": "arXiv:2604.00281v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly embedded in computer science education through AI-assisted programming tools, yet such workflows often ex..."
+            }
+        ],
+        "Practitioner": [
+            {
+                "title": "Guardian Angel Protocol (Gap) v10.0: Hardware-Enforced AI Confinement",
+                "link": "https://github.com/Lex-Col/Guardian-Angel-Protocol",
+                "summary": "..."
+            },
+            {
+                "title": "Should AI have the right to say 'No' to its owner?",
+                "link": "https://github.com/Jang-woo-AnnaSoft/execution-boundaries",
+                "summary": "..."
+            },
+            {
+                "title": "Show HN: Tmux-agent-status \u2013 a tmux sidebar for monitoring AI coding agents",
+                "link": "https://github.com/samleeney/tmux-agent-status",
+                "summary": "..."
+            },
+            {
+                "title": "Pupils in England are losing their thinking skills because of AI, survey suggest",
+                "link": "https://www.theguardian.com/technology/2026/apr/02/pupils-england-losing-thinking-skills-because-of-ai-survey",
+                "summary": "..."
+            },
+            {
+                "title": "The Stages of AI Grief",
+                "link": "https://deknijf.com/posts/stages-of-ai-grief/",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
