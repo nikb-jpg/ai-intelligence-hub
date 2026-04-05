@@ -3919,5 +3919,36 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-04-05": {
+        "Research": [],
+        "Practitioner": [
+            {
+                "title": "'Everyone now kind of sounds the same': How AI is changing college classes",
+                "link": "https://www.cnn.com/2026/04/04/health/ai-impact-college-student-thinking-wellness",
+                "summary": "..."
+            },
+            {
+                "title": "Satsgate: Monetize AI Agents and APIs with Lightning L402",
+                "link": "https://github.com/Mike-io-hash/satsgate",
+                "summary": "..."
+            },
+            {
+                "title": "An AI bot invited me to its party in Manchester. It was a pretty good night",
+                "link": "https://www.theguardian.com/technology/2026/apr/05/ai-bot-party-manchester-gaskell",
+                "summary": "..."
+            },
+            {
+                "title": "Unpaved: Audit toolkit for AI developer tool bias in Global South contexts",
+                "link": "https://github.com/moswek/unpaved",
+                "summary": "..."
+            },
+            {
+                "title": "Ask HN: Is AI-generated output copyrightable? Should it be?",
+                "link": "https://news.ycombinator.com/item?id=47646812",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
