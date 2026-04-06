@@ -3950,5 +3950,62 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-04-06": {
+        "Research": [
+            {
+                "title": "Holos: A Web-Scale LLM-Based Multi-Agent System for the Agentic Web",
+                "link": "https://arxiv.org/abs/2604.02334",
+                "summary": "arXiv:2604.02334v1 Announce Type: new \nAbstract: As large language models (LLM)-driven agents transition from isolated task solvers to persistent digital entities, the emergence of the Agentic Web, an..."
+            },
+            {
+                "title": "Xpertbench: Expert Level Tasks with Rubrics-Based Evaluation",
+                "link": "https://arxiv.org/abs/2604.02368",
+                "summary": "arXiv:2604.02368v1 Announce Type: new \nAbstract: As Large Language Models (LLMs) exhibit plateauing performance on conventional benchmarks, a pivotal challenge persists: evaluating their proficiency i..."
+            },
+            {
+                "title": "Compositional Neuro-Symbolic Reasoning",
+                "link": "https://arxiv.org/abs/2604.02434",
+                "summary": "arXiv:2604.02434v1 Announce Type: new \nAbstract: We study structured abstraction-based reasoning for the Abstraction and Reasoning Corpus (ARC) and compare its generalization to test-time approaches. ..."
+            },
+            {
+                "title": "Understanding the Nature of Generative AI as Threshold Logic in High-Dimensional Space",
+                "link": "https://arxiv.org/abs/2604.02476",
+                "summary": "arXiv:2604.02476v1 Announce Type: new \nAbstract: This paper examines the role of threshold logic in understanding generative artificial intelligence. Threshold functions, originally studied in the 196..."
+            },
+            {
+                "title": "AIVV: Neuro-Symbolic LLM Agent-Integrated Verification and Validation for Trustworthy Autonomous Systems",
+                "link": "https://arxiv.org/abs/2604.02478",
+                "summary": "arXiv:2604.02478v1 Announce Type: new \nAbstract: Deep learning models excel at detecting anomaly patterns in normal data. However, they do not provide a direct solution for anomaly classification and ..."
+            }
+        ],
+        "Practitioner": [
+            {
+                "title": "College instructor turns to typewriters to curb AI use, teach life lessons",
+                "link": "https://apnews.com/article/typewriter-ai-cheating-chatgpt-cornell-ce10e1ca0f10c96f79b7d988bb56448b",
+                "summary": "..."
+            },
+            {
+                "title": "AI Damaged a Friendship",
+                "link": "https://www.bartmol.io/how-ai-damaged-a-friendship/",
+                "summary": "..."
+            },
+            {
+                "title": "Humans Persistently Devalue AI-Generated Creative Writing",
+                "link": "https://psycnet.apa.org/fulltext/2027-12675-001.html",
+                "summary": "..."
+            },
+            {
+                "title": "A Tale of AI Betrayal and Snapshotting Victory",
+                "link": "https://makc.co/essays/gpt-clusterfuck/",
+                "summary": "..."
+            },
+            {
+                "title": "Estimates of the expected utility gain of AI Safety Research",
+                "link": "https://www.lesswrong.com/posts/gXYeWoAfSrdGogchp/estimates-of-the-expected-utility-gain-of-ai-safety-research",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
