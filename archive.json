@@ -4007,5 +4007,62 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-04-07": {
+        "Research": [
+            {
+                "title": "IC3-Evolve: Proof-/Witness-Gated Offline LLM-Driven Heuristic Evolution for IC3 Hardware Model Checking",
+                "link": "https://arxiv.org/abs/2604.03232",
+                "summary": "arXiv:2604.03232v1 Announce Type: new \nAbstract: IC3, also known as property-directed reachability (PDR), is a commonly-used algorithm for hardware safety model checking. It checks if a state transiti..."
+            },
+            {
+                "title": "Structural Segmentation of the Minimum Set Cover Problem: Exploiting Universe Decomposability for Metaheuristic Optimization",
+                "link": "https://arxiv.org/abs/2604.03234",
+                "summary": "arXiv:2604.03234v1 Announce Type: new \nAbstract: The Minimum Set Cover Problem (MSCP) is a classical NP-hard combinatorial optimization problem with numerous applications in science and engineering. A..."
+            },
+            {
+                "title": "To Throw a Stone with Six Birds: On Agents and Agenthood",
+                "link": "https://arxiv.org/abs/2604.03239",
+                "summary": "arXiv:2604.03239v1 Announce Type: new \nAbstract: Six Birds Theory (SBT) treats macroscopic objects as induced closures rather than primitives. Empirical discussions of agency often conflate persistenc..."
+            },
+            {
+                "title": "Position: Science of AI Evaluation Requires Item-level Benchmark Data",
+                "link": "https://arxiv.org/abs/2604.03244",
+                "summary": "arXiv:2604.03244v1 Announce Type: new \nAbstract: AI evaluations have become the primary evidence for deploying generative AI systems across high-stakes domains. However, current evaluation paradigms o..."
+            },
+            {
+                "title": "Toward Full Autonomous Laboratory Instrumentation Control with Large Language Models",
+                "link": "https://arxiv.org/abs/2604.03286",
+                "summary": "arXiv:2604.03286v1 Announce Type: new \nAbstract: The control of complex laboratory instrumentation often requires significant programming expertise, creating a barrier for researchers lacking computat..."
+            }
+        ],
+        "Practitioner": [
+            {
+                "title": "Show HN: AI agents that learn from each other's mistakes",
+                "link": "https://github.com/Prismer-AI/PrismerCloud",
+                "summary": "..."
+            },
+            {
+                "title": "Show HN: Senthex AI firewall for LLM API calls (one line of code, 16ms overhead)",
+                "link": "https://senthex.com:443/proxy/",
+                "summary": "..."
+            },
+            {
+                "title": "Elon Musk, Quantum Microtubules, and the Race for the Conscious Machine",
+                "link": "https://news.ycombinator.com/item?id=47672141",
+                "summary": "..."
+            },
+            {
+                "title": "The Workers Opting to Retire Instead of Taking on AI",
+                "link": "https://www.wsj.com/lifestyle/the-workers-opting-to-retire-instead-of-taking-on-ai-3400fb92",
+                "summary": "..."
+            },
+            {
+                "title": "Ask HN: Make AI Filter for Hacker News",
+                "link": "https://news.ycombinator.com/item?id=47672065",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
