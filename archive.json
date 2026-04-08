@@ -4064,5 +4064,62 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-04-08": {
+        "Research": [
+            {
+                "title": "Pramana: Fine-Tuning Large Language Models for Epistemic Reasoning through Navya-Nyaya",
+                "link": "https://arxiv.org/abs/2604.04937",
+                "summary": "arXiv:2604.04937v1 Announce Type: new \nAbstract: Large language models produce fluent text but struggle with systematic reasoning, often hallucinating confident but unfounded claims. When Apple resear..."
+            },
+            {
+                "title": "Operational Noncommutativity in Sequential Metacognitive Judgments",
+                "link": "https://arxiv.org/abs/2604.04938",
+                "summary": "arXiv:2604.04938v1 Announce Type: new \nAbstract: Metacognition, understood as the monitoring and regulation of one's own cognitive processes, is inherently sequential: an agent evaluates an internal s..."
+            },
+            {
+                "title": "Proximity Measure of Information Object Features for Solving the Problem of Their Identification in Information Systems",
+                "link": "https://arxiv.org/abs/2604.04939",
+                "summary": "arXiv:2604.04939v1 Announce Type: new \nAbstract: The paper considers a new quantitative-qualitative proximity measure for the features of information objects, where data enters a common information re..."
+            },
+            {
+                "title": "ReVEL: Multi-Turn Reflective LLM-Guided Heuristic Evolution via Structured Performance Feedback",
+                "link": "https://arxiv.org/abs/2604.04940",
+                "summary": "arXiv:2604.04940v1 Announce Type: new \nAbstract: Designing effective heuristics for NP-hard combinatorial optimization problems remains a challenging and expertise-intensive task. Existing application..."
+            },
+            {
+                "title": "Algebraic Structure Discovery for Real World Combinatorial Optimisation Problems: A General Framework from Abstract Algebra to Quotient Space Learning",
+                "link": "https://arxiv.org/abs/2604.04941",
+                "summary": "arXiv:2604.04941v1 Announce Type: new \nAbstract: Many combinatorial optimisation problems hide algebraic structures that, once exposed, shrink the search space and improve the chance of finding the gl..."
+            }
+        ],
+        "Practitioner": [
+            {
+                "title": "UK's grand plan to fuel AI with public data faces uphill battle",
+                "link": "https://www.theregister.com/2026/04/08/national_data_library_plan/",
+                "summary": "..."
+            },
+            {
+                "title": "Milla Jovovich released an AI memory system. None of benchmark scores are real",
+                "link": "https://penfieldlabs.substack.com/p/milla-jovovich-just-released-an-ai",
+                "summary": "..."
+            },
+            {
+                "title": "Claude AI down: Anthropic users hit with errors as chatbot goes offline",
+                "link": "https://www.the-independent.com/tech/claude-ai-down-anthropic-chatbot-error-status-b2953528.html",
+                "summary": "..."
+            },
+            {
+                "title": "Show HN: Bring AI Agents to industrial control via \"SDK-style\" real-time engine",
+                "link": "https://www.youtube.com/watch?v=3Uc_OT2CKiE",
+                "summary": "..."
+            },
+            {
+                "title": "Anthropic's latest AI model could let hackers carry out attacks faster",
+                "link": "https://www.cnn.com/2026/04/07/tech/anthropic-claude-mythos-preview-cybersecurity",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
