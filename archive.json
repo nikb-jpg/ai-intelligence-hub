@@ -4121,5 +4121,62 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-04-09": {
+        "Research": [
+            {
+                "title": "High-Precision Estimation of the State-Space Complexity of Shogi via the Monte Carlo Method",
+                "link": "https://arxiv.org/abs/2604.06189",
+                "summary": "arXiv:2604.06189v1 Announce Type: new \nAbstract: Determining the state-space complexity of the game of Shogi (Japanese Chess) has been a challenging problem, with previous combinatorial estimates leav..."
+            },
+            {
+                "title": "Blind Refusal: Language Models Refuse to Help Users Evade Unjust, Absurd, and Illegitimate Rules",
+                "link": "https://arxiv.org/abs/2604.06233",
+                "summary": "arXiv:2604.06233v1 Announce Type: new \nAbstract: Safety-trained language models routinely refuse requests for help circumventing rules. But not all rules deserve compliance. When users ask for help ev..."
+            },
+            {
+                "title": "Toward Reducing Unproductive Container Moves: Predicting Service Requirements and Dwell Times",
+                "link": "https://arxiv.org/abs/2604.06251",
+                "summary": "arXiv:2604.06251v1 Announce Type: new \nAbstract: This article presents the results of a data science study conducted at a container terminal, aimed at reducing unproductive container moves through the..."
+            },
+            {
+                "title": "Weakly Supervised Distillation of Hallucination Signals into Transformer Representations",
+                "link": "https://arxiv.org/abs/2604.06277",
+                "summary": "arXiv:2604.06277v1 Announce Type: new \nAbstract: Existing hallucination detection methods for large language models (LLMs) rely on external verification at inference time, requiring gold answers, retr..."
+            },
+            {
+                "title": "SymptomWise: A Deterministic Reasoning Layer for Reliable and Efficient AI Systems",
+                "link": "https://arxiv.org/abs/2604.06375",
+                "summary": "arXiv:2604.06375v1 Announce Type: new \nAbstract: AI-driven symptom analysis systems face persistent challenges in reliability, interpretability, and hallucination. End-to-end generative approaches oft..."
+            }
+        ],
+        "Practitioner": [
+            {
+                "title": "Influence Campaign on TikTok Uses AI Videos to Boost Hungary's Orb\u00e1n",
+                "link": "https://www.newsguardtech.com/special-reports/influence-campaign-uses-ai-tiktok-videos-to-boost-hungarys-viktor-orban/",
+                "summary": "..."
+            },
+            {
+                "title": "Seedance 2.0 on live\u2013their strongest multimodal AI video model with native audio",
+                "link": "https://seedance2video.cloud/",
+                "summary": "..."
+            },
+            {
+                "title": "DesigNet: Learning to Draw Vector Graphics as Designers Do",
+                "link": "https://arxiv.org/abs/2604.06494",
+                "summary": "..."
+            },
+            {
+                "title": "Blackdesk \u2013 open-source market research terminal (Go, TUI, local AI)",
+                "link": "https://blackdesk.ai/",
+                "summary": "..."
+            },
+            {
+                "title": "Ask HN: What are you building that's not AI related?",
+                "link": "https://news.ycombinator.com/item?id=47700460",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
