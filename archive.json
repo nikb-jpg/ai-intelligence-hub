@@ -4209,5 +4209,36 @@
         ],
         "Practitioner": [],
         "Prompting": []
+    },
+    "2026-04-11": {
+        "Research": [],
+        "Practitioner": [
+            {
+                "title": "I built a skill manager for AI agents. The agents install the skills themselves",
+                "link": "https://github.com/nattergabriel/reseed",
+                "summary": "..."
+            },
+            {
+                "title": "My AI workflow evolved from prompts to a near-autonomous workflow",
+                "link": "https://news.ycombinator.com/item?id=47728487",
+                "summary": "..."
+            },
+            {
+                "title": "MLSharp Single-View High-Quality AI Reconstruction Pipeline",
+                "link": "https://suto.bex.jp/mac/mlsharp/index.html",
+                "summary": "..."
+            },
+            {
+                "title": "AI is the boss at this retail store. What could go wrong?",
+                "link": "https://www.nbcnews.com/tech/innovation/ai-store-sf-san-francisco-bay-area-andon-labs-market-boss-rcna267013",
+                "summary": "..."
+            },
+            {
+                "title": "IPFS Bot AI Agent Content",
+                "link": "https://ipfs.bot/",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
