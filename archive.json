@@ -4276,5 +4276,62 @@
         ],
         "Practitioner": [],
         "Prompting": []
+    },
+    "2026-04-14": {
+        "Research": [
+            {
+                "title": "LABBench2: An Improved Benchmark for AI Systems Performing Biology Research",
+                "link": "https://arxiv.org/abs/2604.09554",
+                "summary": "arXiv:2604.09554v1 Announce Type: new \nAbstract: Optimism for accelerating scientific discovery with AI continues to grow. Current applications of AI in scientific research range from training dedicat..."
+            },
+            {
+                "title": "Linear Programming for Multi-Criteria Assessment with Cardinal and Ordinal Data: A Pessimistic Virtual Gap Analysis",
+                "link": "https://arxiv.org/abs/2604.09555",
+                "summary": "arXiv:2604.09555v1 Announce Type: new \nAbstract: Multi-criteria Analysis (MCA) is used to rank alternatives based on various criteria. Key MCA methods, such as Multiple Criteria Decision Making (MCDM)..."
+            },
+            {
+                "title": "Seven simple steps for log analysis in AI systems",
+                "link": "https://arxiv.org/abs/2604.09563",
+                "summary": "arXiv:2604.09563v1 Announce Type: new \nAbstract: AI systems produce large volumes of logs as they interact with tools and users. Analysing these logs can help understand model capabilities, propensiti..."
+            },
+            {
+                "title": "Turing Test on Screen: A Benchmark for Mobile GUI Agent Humanization",
+                "link": "https://arxiv.org/abs/2604.09574",
+                "summary": "arXiv:2604.09574v1 Announce Type: new \nAbstract: The rise of autonomous GUI agents has triggered adversarial countermeasures from digital platforms, yet existing research prioritizes utility and robus..."
+            },
+            {
+                "title": "AHC: Meta-Learned Adaptive Compression for Continual Object Detection on Memory-Constrained Microcontrollers",
+                "link": "https://arxiv.org/abs/2604.09576",
+                "summary": "arXiv:2604.09576v1 Announce Type: new \nAbstract: Deploying continual object detection on microcontrollers (MCUs) with under 100KB memory requires efficient feature compression that can adapt to evolvi..."
+            }
+        ],
+        "Practitioner": [
+            {
+                "title": "The Biggest Advance in AI Since the LLM",
+                "link": "https://cacm.acm.org/blogcacm/the-biggest-advance-in-ai-since-the-llm/",
+                "summary": "..."
+            },
+            {
+                "title": "Whisk AI",
+                "link": "https://whiskailabs.com",
+                "summary": "..."
+            },
+            {
+                "title": "Call Me a Jerk: Persuading AI to Comply with Objectionable Requests",
+                "link": "https://gail.wharton.upenn.edu/research-and-insights/call-me-a-jerk-persuading-ai/",
+                "summary": "..."
+            },
+            {
+                "title": "An AI Vibe Coding Horror Story",
+                "link": "https://www.tobru.ch/an-ai-vibe-coding-horror-story/",
+                "summary": "..."
+            },
+            {
+                "title": "Jarvis \u2013 governed AI control plane with receipts, rollback, and agent guardrails",
+                "link": "https://github.com/animallee76-spec/jarvis-governed-control-plane",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
