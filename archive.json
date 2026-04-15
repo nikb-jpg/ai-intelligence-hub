@@ -4333,5 +4333,36 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-04-15": {
+        "Research": [
+            {
+                "title": "The Non-Optimality of Scientific Knowledge: Path Dependence, Lock-In, and The Local Minimum Trap",
+                "link": "https://arxiv.org/abs/2604.11828",
+                "summary": "arXiv:2604.11828v1 Announce Type: new \nAbstract: Science is widely regarded as humanity's most reliable method for uncovering truths about the natural world. Yet the \\emph{trajectory} of scientific di..."
+            },
+            {
+                "title": "Self-Monitoring Benefits from Structural Integration: Lessons from Metacognition in Continuous-Time Multi-Timescale Agents",
+                "link": "https://arxiv.org/abs/2604.11914",
+                "summary": "arXiv:2604.11914v1 Announce Type: new \nAbstract: Self-monitoring capabilities -- metacognition, self-prediction, and subjective duration -- are often proposed as useful additions to reinforcement lear..."
+            },
+            {
+                "title": "GoodPoint: Learning Constructive Scientific Paper Feedback from Author Responses",
+                "link": "https://arxiv.org/abs/2604.11924",
+                "summary": "arXiv:2604.11924v1 Announce Type: new \nAbstract: While LLMs hold significant potential to transform scientific research, we advocate for their use to augment and empower researchers rather than to aut..."
+            },
+            {
+                "title": "Narrative-Driven Paper-to-Slide Generation via ArcDeck",
+                "link": "https://arxiv.org/abs/2604.11969",
+                "summary": "arXiv:2604.11969v1 Announce Type: new \nAbstract: We introduce ArcDeck, a multi-agent framework that formulates paper-to-slide generation as a structured narrative reconstruction task. Unlike existing ..."
+            },
+            {
+                "title": "The Long-Horizon Task Mirage? Diagnosing Where and Why Agentic Systems Break",
+                "link": "https://arxiv.org/abs/2604.11978",
+                "summary": "arXiv:2604.11978v1 Announce Type: new \nAbstract: Large language model (LLM) agents perform strongly on short- and mid-horizon tasks, but often break down on long-horizon tasks that require extended, i..."
+            }
+        ],
+        "Practitioner": [],
+        "Prompting": []
     }
 }
