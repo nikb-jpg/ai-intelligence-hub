@@ -4478,5 +4478,36 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-04-18": {
+        "Research": [],
+        "Practitioner": [
+            {
+                "title": "Peter Thiel Is Launching an \"AI Ministry of Truth\" Called Objection",
+                "link": "https://old.reddit.com/r/antiai/comments/1sngw6f/peter_thiel_is_launching_an_ai_ministry_of_truth/",
+                "summary": "..."
+            },
+            {
+                "title": "Purdue University CS240 Class over 50% of students 'caught' using AI on homework",
+                "link": "https://old.reddit.com/r/Purdue/comments/1sogfb4/comment/ogsvymy/",
+                "summary": "..."
+            },
+            {
+                "title": "Helpmate-Live, Social and AI Chat with Built-In CRM for WordPress",
+                "link": "https://news.ycombinator.com/item?id=47814007",
+                "summary": "..."
+            },
+            {
+                "title": "Soul.md \u2013 open file format for AI agent identity",
+                "link": "https://github.com/AntonioTF5/soul-spec",
+                "summary": "..."
+            },
+            {
+                "title": "Why don't we just ask AI to write assembler?",
+                "link": "https://news.ycombinator.com/item?id=47813874",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
