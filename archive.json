@@ -4545,5 +4545,36 @@
         ],
         "Practitioner": [],
         "Prompting": []
+    },
+    "2026-04-21": {
+        "Research": [
+            {
+                "title": "DeepER-Med: Advancing Deep Evidence-Based Research in Medicine Through Agentic AI",
+                "link": "https://arxiv.org/abs/2604.15456",
+                "summary": "arXiv:2604.15456v1 Announce Type: new \nAbstract: Trustworthiness and transparency are essential for the clinical adoption of artificial intelligence (AI) in healthcare and biomedical research. Recent ..."
+            },
+            {
+                "title": "GIST: Multimodal Knowledge Extraction and Spatial Grounding via Intelligent Semantic Topology",
+                "link": "https://arxiv.org/abs/2604.15495",
+                "summary": "arXiv:2604.15495v1 Announce Type: new \nAbstract: Navigating complex, densely packed environments like retail stores, warehouses, and hospitals poses a significant spatial grounding challenge for human..."
+            },
+            {
+                "title": "Bureaucratic Silences: What the Canadian AI Register Reveals, Omits, and Obscures",
+                "link": "https://arxiv.org/abs/2604.15514",
+                "summary": "arXiv:2604.15514v1 Announce Type: new \nAbstract: In November 2025, the Government of Canada operationalized its commitment to transparency by releasing its first Federal AI Register. In this paper, we..."
+            },
+            {
+                "title": "LACE: Lattice Attention for Cross-thread Exploration",
+                "link": "https://arxiv.org/abs/2604.15529",
+                "summary": "arXiv:2604.15529v1 Announce Type: new \nAbstract: Current large language models reason in isolation. Although it is common to sample multiple reasoning paths in parallel, these trajectories do not inte..."
+            },
+            {
+                "title": "Preregistered Belief Revision Contracts",
+                "link": "https://arxiv.org/abs/2604.15558",
+                "summary": "arXiv:2604.15558v1 Announce Type: new \nAbstract: Deliberative multi-agent systems allow agents to exchange messages and revise beliefs over time. While this interaction is meant to improve performance..."
+            }
+        ],
+        "Practitioner": [],
+        "Prompting": []
     }
 }
