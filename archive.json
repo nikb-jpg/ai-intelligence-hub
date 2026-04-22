@@ -4576,5 +4576,62 @@
         ],
         "Practitioner": [],
         "Prompting": []
+    },
+    "2026-04-22": {
+        "Research": [
+            {
+                "title": "On Solving the Multiple Variable Gapped Longest Common Subsequence Problem",
+                "link": "https://arxiv.org/abs/2604.18645",
+                "summary": "arXiv:2604.18645v1 Announce Type: new \nAbstract: This paper addresses the Variable Gapped Longest Common Subsequence (VGLCS) problem, a generalization of the classical LCS problem involving flexible g..."
+            },
+            {
+                "title": "Beyond One Output: Visualizing and Comparing Distributions of Language Model Generations",
+                "link": "https://arxiv.org/abs/2604.18724",
+                "summary": "arXiv:2604.18724v1 Announce Type: new \nAbstract: Users typically interact with and evaluate language models via single outputs, but each output is just one sample from a broad distribution of possible..."
+            },
+            {
+                "title": "ARES: Adaptive Red-Teaming and End-to-End Repair of Policy-Reward System",
+                "link": "https://arxiv.org/abs/2604.18789",
+                "summary": "arXiv:2604.18789v1 Announce Type: new \nAbstract: Reinforcement Learning from Human Feedback (RLHF) is central to aligning Large Language Models (LLMs), yet it introduces a critical vulnerability: an i..."
+            },
+            {
+                "title": "AI scientists produce results without reasoning scientifically",
+                "link": "https://arxiv.org/abs/2604.18805",
+                "summary": "arXiv:2604.18805v1 Announce Type: new \nAbstract: Large language model (LLM)-based systems are increasingly deployed to conduct scientific research autonomously, yet whether their reasoning adheres to ..."
+            },
+            {
+                "title": "Quantum inspired qubit qutrit neural networks for real time financial forecasting",
+                "link": "https://arxiv.org/abs/2604.18838",
+                "summary": "arXiv:2604.18838v1 Announce Type: new \nAbstract: This research investigates the performance and efficacy of machine learning models in stock prediction, comparing Artificial Neural Networks (ANNs), Qu..."
+            }
+        ],
+        "Practitioner": [
+            {
+                "title": "Anthropic investigates report of rogue access to hack-enabling Mythos AI",
+                "link": "https://www.theguardian.com/technology/2026/apr/22/anthropic-investigates-report-of-rogue-access-to-hack-enabling-mythos-ai",
+                "summary": "..."
+            },
+            {
+                "title": "My AI Workflow (Without Losing My Skills)",
+                "link": "https://marcgg.com/blog/2026/04/15/my-current-ai-workflow/",
+                "summary": "..."
+            },
+            {
+                "title": "Meta employees are up in arms over a mandatory program to train AI on their",
+                "link": "https://www.businessinsider.com/meta-new-ai-tool-tracks-staff-activity-sparks-concern-2026-4",
+                "summary": "..."
+            },
+            {
+                "title": "Show HN: Tesseron \u2013 an API for AI agents, defined by the app developer",
+                "link": "https://github.com/BrainBlend-AI/tesseron",
+                "summary": "..."
+            },
+            {
+                "title": "The AI talent agent built into every creator's workflow",
+                "link": "https://create.gotrovio.com",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
