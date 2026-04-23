@@ -4633,5 +4633,62 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-04-23": {
+        "Research": [
+            {
+                "title": "The Tool-Overuse Illusion: Why Does LLM Prefer External Tools over Internal Knowledge?",
+                "link": "https://arxiv.org/abs/2604.19749",
+                "summary": "arXiv:2604.19749v1 Announce Type: new \nAbstract: Equipping LLMs with external tools effectively addresses internal reasoning limitations. However, it introduces a critical yet under-explored phenomeno..."
+            },
+            {
+                "title": "AI to Learn 2.0: A Deliverable-Oriented Governance Framework and Maturity Rubric for Opaque AI in Learning-Intensive Domains",
+                "link": "https://arxiv.org/abs/2604.19751",
+                "summary": "arXiv:2604.19751v1 Announce Type: new \nAbstract: Generative AI is entering research, education, and professional work faster than current governance frameworks can specify how AI-assisted outputs shou..."
+            },
+            {
+                "title": "Algorithm Selection with Zero Domain Knowledge via Text Embeddings",
+                "link": "https://arxiv.org/abs/2604.19753",
+                "summary": "arXiv:2604.19753v1 Announce Type: new \nAbstract: We propose a feature-free approach to algorithm selection that replaces hand-crafted instance features with pretrained text embeddings. Our method, Zer..."
+            },
+            {
+                "title": "Exploring Data Augmentation and Resampling Strategies for Transformer-Based Models to Address Class Imbalance in AI Scoring of Scientific Explanations in NGSS Classroom",
+                "link": "https://arxiv.org/abs/2604.19754",
+                "summary": "arXiv:2604.19754v1 Announce Type: new \nAbstract: Automated scoring of students' scientific explanations offers the potential for immediate, accurate feedback, yet class imbalance in rubric categories ..."
+            },
+            {
+                "title": "Explainable AML Triage with LLMs: Evidence Retrieval and Counterfactual Checks",
+                "link": "https://arxiv.org/abs/2604.19755",
+                "summary": "arXiv:2604.19755v1 Announce Type: new \nAbstract: Anti-money laundering (AML) transaction monitoring generates large volumes of alerts that must be rapidly triaged by investigators under strict audit a..."
+            }
+        ],
+        "Practitioner": [
+            {
+                "title": "Show HN: Nova by civai, a platform for managed AI agents",
+                "link": "https://nova.civai.co/",
+                "summary": "..."
+            },
+            {
+                "title": "Hackers breach Anthropic's 'too dangerous to release' Mythos AI model",
+                "link": "https://www.euronews.com/next/2026/04/22/hackers-breach-anthropics-too-dangerous-to-release-mythos-ai-model-report",
+                "summary": "..."
+            },
+            {
+                "title": "SpaceX and Cursor have explored a team-up with Mistral to take on AI rivals",
+                "link": "https://www.businessinsider.com/elon-musk-xai-explored-collaborating-with-mistral-cursor-2026-4",
+                "summary": "..."
+            },
+            {
+                "title": "Show HN: Autonomous coin-flipping machine with on-device CV",
+                "link": "https://www.terencegrover.com/section/physicalart/4",
+                "summary": "..."
+            },
+            {
+                "title": "Ask HN: Can AI create demon slayer level animation?",
+                "link": "https://news.ycombinator.com/item?id=47873442",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
