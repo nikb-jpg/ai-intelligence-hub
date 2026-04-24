@@ -4690,5 +4690,62 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-04-24": {
+        "Research": [
+            {
+                "title": "Architecture of an AI-Based Automated Course of Action Generation System for Military Operations",
+                "link": "https://arxiv.org/abs/2604.20862",
+                "summary": "arXiv:2604.20862v1 Announce Type: new \nAbstract: The automation system for Course of Action (CoA) planning is an essential element in future warfare. As maneuver speeds increase, surveillance ranges e..."
+            },
+            {
+                "title": "Escaping the Agreement Trap: Defensibility Signals for Evaluating Rule-Governed AI",
+                "link": "https://arxiv.org/abs/2604.20972",
+                "summary": "arXiv:2604.20972v1 Announce Type: new \nAbstract: Content moderation systems are typically evaluated by measuring agreement with human labels. In rule-governed environments this assumption fails: multi..."
+            },
+            {
+                "title": "Co-Evolving LLM Decision and Skill Bank Agents for Long-Horizon Tasks",
+                "link": "https://arxiv.org/abs/2604.20987",
+                "summary": "arXiv:2604.20987v1 Announce Type: new \nAbstract: Long horizon interactive environments are a testbed for evaluating agents skill usage abilities. These environments demand multi step reasoning, the ch..."
+            },
+            {
+                "title": "Value-Conflict Diagnostics Reveal Widespread Alignment Faking in Language Models",
+                "link": "https://arxiv.org/abs/2604.20995",
+                "summary": "arXiv:2604.20995v1 Announce Type: new \nAbstract: Alignment faking, where a model behaves aligned with developer policy when monitored but reverts to its own preferences when unobserved, is a concernin..."
+            },
+            {
+                "title": "The Last Harness You'll Ever Build",
+                "link": "https://arxiv.org/abs/2604.21003",
+                "summary": "arXiv:2604.21003v1 Announce Type: new \nAbstract: AI agents are increasingly deployed on complex, domain-specific workflows -- navigating enterprise web applications that require dozens of clicks and f..."
+            }
+        ],
+        "Practitioner": [
+            {
+                "title": "Got the Rust dream job, then AI happened",
+                "link": "https://old.reddit.com/r/rust/comments/1stj607/got_the_rust_dream_job_then_ai_happened/",
+                "summary": "..."
+            },
+            {
+                "title": "S. Korea police arrest man over AI image of runaway wolf that misled authorities",
+                "link": "https://www.bbc.com/news/articles/c4gx1n0dl9no",
+                "summary": "..."
+            },
+            {
+                "title": "Fit.ly \u2013 AI Outfit Generation",
+                "link": "https://fitly-app.onrender.com/",
+                "summary": "..."
+            },
+            {
+                "title": "Canada's AI Startup Cohere Buys Germany's Aleph Alpha to Expand in Europe",
+                "link": "https://www.reuters.com/legal/transactional/canadas-cohere-germanys-aleph-alpha-announce-merger-handelsblatt-reports-2026-04-24/",
+                "summary": "..."
+            },
+            {
+                "title": "I over-engineered my AI coding setup one justified upgrade at a time",
+                "link": "https://machinethoughts.substack.com/p/every-upgrade-made-sense-how-i-over",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
