@@ -4747,5 +4747,36 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-04-25": {
+        "Research": [],
+        "Practitioner": [
+            {
+                "title": "Ask HN: What's your AI assisted dev setup that actually follows instructions?",
+                "link": "https://news.ycombinator.com/item?id=47899681",
+                "summary": "..."
+            },
+            {
+                "title": "OpenClaw vs. Hermes Agent: The race to build AI assistants that never forget",
+                "link": "https://thenewstack.io/persistent-ai-agents-compared/",
+                "summary": "..."
+            },
+            {
+                "title": "AMD Ryzen AI Max+ AI PCs Deliver Exceptional Intelligence Right on Your Desk",
+                "link": "https://www.amd.com/en/blogs/2026/amd-ryzen-ai-max-ai-pcs-deliver-exceptional-intelligence.html",
+                "summary": "..."
+            },
+            {
+                "title": "In visit to Brown, Jaron Lanier says people are thinking about AI all wrong",
+                "link": "https://www.brown.edu/news/2026-04-24/jaron-lanier-cooper-lecture",
+                "summary": "..."
+            },
+            {
+                "title": "Show HN: Built an AI that maps 17 facial dimensions and shows what to improve",
+                "link": "https://realsmile.online",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
