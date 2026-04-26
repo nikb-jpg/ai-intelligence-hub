@@ -4778,5 +4778,36 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-04-26": {
+        "Research": [],
+        "Practitioner": [
+            {
+                "title": "Will AI Drive Wages Down or Up? [video]",
+                "link": "https://www.youtube.com/watch?v=DBvrwWoyYQM",
+                "summary": "..."
+            },
+            {
+                "title": "Eden AI \u2013 European Alternative to OpenRouter",
+                "link": "https://www.edenai.co",
+                "summary": "..."
+            },
+            {
+                "title": "Ask HN: What type of Maths is must needed before learning DS?",
+                "link": "https://news.ycombinator.com/item?id=47908380",
+                "summary": "..."
+            },
+            {
+                "title": "Airprompt \u2013 SSH into your Mac from your phone for AI agent prompts",
+                "link": "https://www.npmjs.com/package/airprompt",
+                "summary": "..."
+            },
+            {
+                "title": "Blueprint: AI Hardware Design",
+                "link": "https://www.blueprint.am/",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
