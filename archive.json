@@ -4840,5 +4840,62 @@
         ],
         "Practitioner": [],
         "Prompting": []
+    },
+    "2026-04-28": {
+        "Research": [
+            {
+                "title": "An Intelligent Fault Diagnosis Method for General Aviation Aircraft Based on Multi-Fidelity Digital Twin and FMEA Knowledge Enhancement",
+                "link": "https://arxiv.org/abs/2604.22777",
+                "summary": "arXiv:2604.22777v1 Announce Type: new \nAbstract: Fault diagnosis of general aviation aircraft faces challenges including scarce real fault data, diverse fault types, and weak fault signatures. This pa..."
+            },
+            {
+                "title": "PExA: Parallel Exploration Agent for Complex Text-to-SQL",
+                "link": "https://arxiv.org/abs/2604.22934",
+                "summary": "arXiv:2604.22934v1 Announce Type: new \nAbstract: LLM-based agents for text-to-SQL often struggle with latency-performance trade-off, where performance improvements come at the cost of latency or vice ..."
+            },
+            {
+                "title": "The Power of Power Law: Asymmetry Enables Compositional Reasoning",
+                "link": "https://arxiv.org/abs/2604.22951",
+                "summary": "arXiv:2604.22951v1 Announce Type: new \nAbstract: Natural language data follows a power-law distribution, with most knowledge and skills appearing at very low frequency. While a common intuition sugges..."
+            },
+            {
+                "title": "On the Existence of an Inverse Solution for Preference-Based Reductions in Argumentation",
+                "link": "https://arxiv.org/abs/2604.22958",
+                "summary": "arXiv:2604.22958v1 Announce Type: new \nAbstract: Preference-based argumentation frameworks (PAFs) extend Dung's approach to abstract argumentation (AAFs) by encoding preferences over arguments. Such p..."
+            },
+            {
+                "title": "Towards Causally Interpretable Wi-Fi CSI-Based Human Activity Recognition with Discrete Latent Compression and LTL Rule Extraction",
+                "link": "https://arxiv.org/abs/2604.22979",
+                "summary": "arXiv:2604.22979v1 Announce Type: new \nAbstract: We address Human Activity Recognition (HAR) utilizing Wi-Fi Channel State Information (CSI) under the joint requirements of causal interpretability, sy..."
+            }
+        ],
+        "Practitioner": [
+            {
+                "title": "My AI Skeptic Friends Are All Poor",
+                "link": "https://hashutopia.com/register",
+                "summary": "..."
+            },
+            {
+                "title": "White House pushed out new AI official after just four days on the job",
+                "link": "https://www.washingtonpost.com/technology/2026/04/24/white-house-fires-ai-official-anthropic/",
+                "summary": "..."
+            },
+            {
+                "title": "AI Makes Sitting with Discomfort Feel Shameful",
+                "link": "https://www.bennadel.com/blog/4890-ai-makes-sitting-with-discomfort-feel-shameful.htm",
+                "summary": "..."
+            },
+            {
+                "title": "Show HN: Minimal Linux sandboxes to manage AI-Generated Code with ease",
+                "link": "https://github.com/bugthesystem/agentjail",
+                "summary": "..."
+            },
+            {
+                "title": "If this doesn't scream AI bubble is about to burst IDK what does",
+                "link": "https://docs.github.com/en/copilot/reference/copilot-billing/models-and-pricing",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
