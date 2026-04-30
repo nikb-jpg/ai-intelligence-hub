@@ -4928,5 +4928,62 @@
         ],
         "Practitioner": [],
         "Prompting": []
+    },
+    "2026-04-30": {
+        "Research": [
+            {
+                "title": "Operating-Layer Controls for Onchain Language-Model Agents Under Real Capital",
+                "link": "https://arxiv.org/abs/2604.26091",
+                "summary": "arXiv:2604.26091v1 Announce Type: new \nAbstract: We study reliability in autonomous language-model agents that translate user mandates into validated tool actions under real capital. The setting is DX..."
+            },
+            {
+                "title": "Distill-Belief: Closed-Loop Inverse Source Localization and Characterization in Physical Fields",
+                "link": "https://arxiv.org/abs/2604.26095",
+                "summary": "arXiv:2604.26095v1 Announce Type: new \nAbstract: {Closed-loop inverse source localization and characterization (ISLC) requires a mobile agent to select measurements that localize sources and infer lat..."
+            },
+            {
+                "title": "Evaluating Strategic Reasoning in Forecasting Agents",
+                "link": "https://arxiv.org/abs/2604.26106",
+                "summary": "arXiv:2604.26106v1 Announce Type: new \nAbstract: Forecasting benchmarks produce accuracy leaderboards but little insight into why some forecasters are more accurate than others. We introduce Bench to ..."
+            },
+            {
+                "title": "Hierarchical Multi-Persona Induction from User Behavioral Logs: Learning Evidence-Grounded and Truthful Personas",
+                "link": "https://arxiv.org/abs/2604.26120",
+                "summary": "arXiv:2604.26120v1 Announce Type: new \nAbstract: Behavioral logs provide rich signals for user modeling, but are noisy and interleaved across diverse intents. Recent work uses LLMs to generate interpr..."
+            },
+            {
+                "title": "OMEGA: Optimizing Machine Learning by Evaluating Generated Algorithms",
+                "link": "https://arxiv.org/abs/2604.26211",
+                "summary": "arXiv:2604.26211v1 Announce Type: new \nAbstract: In order to automate AI research we introduce a full, end-to-end framework, OMEGA: Optimizing Machine learning by Evaluating Generated Algorithms, that..."
+            }
+        ],
+        "Practitioner": [
+            {
+                "title": "Schooling Has a Meaning Crisis. Paradoxically, AI Can Help",
+                "link": "https://blog.comini.in/p/schooling-has-a-meaning-crisis-paradoxically",
+                "summary": "..."
+            },
+            {
+                "title": "GM Adds Google Gemini for Drivers to Rev Up with AI Assistant",
+                "link": "https://www.cnet.com/tech/services-and-software/gm-brings-google-gemini-to-millions-of-vehicles-on-the-road-change/",
+                "summary": "..."
+            },
+            {
+                "title": "I Built SpecDD Because AI Kept Forgetting What We Were Building",
+                "link": "https://specdd.ai/articles/i-built-specdd-because-ai-kept-forgetting-what-we-were-building/",
+                "summary": "..."
+            },
+            {
+                "title": "AI doesn't kill SaaS. It kills bad priorities",
+                "link": "https://erdincakkaya.substack.com/p/ai-doesnt-kill-saas-it-kills-bad",
+                "summary": "..."
+            },
+            {
+                "title": "How AI Is Transforming Education",
+                "link": "https://longtermemory.com/b/ai-transforming-education/",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
