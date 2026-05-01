@@ -4985,5 +4985,62 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-05-01": {
+        "Research": [
+            {
+                "title": "Compositional Meta-Learning for Mitigating Task Heterogeneity in Physics-Informed Neural Networks",
+                "link": "https://arxiv.org/abs/2604.26999",
+                "summary": "arXiv:2604.26999v1 Announce Type: new \nAbstract: Physics-informed neural networks (PINNs) approximate solutions of partial differential equations (PDEs) by embedding physical laws into the loss functi..."
+            },
+            {
+                "title": "Binary Spiking Neural Networks as Causal Models",
+                "link": "https://arxiv.org/abs/2604.27007",
+                "summary": "arXiv:2604.27007v1 Announce Type: new \nAbstract: We provide a causal analysis of Binary Spiking Neural Networks (BSNNs) to explain their behavior. We formally define a BSNN and represent its spiking a..."
+            },
+            {
+                "title": "When Your LLM Reaches End-of-Life: A Framework for Confident Model Migration in Production Systems",
+                "link": "https://arxiv.org/abs/2604.27082",
+                "summary": "arXiv:2604.27082v1 Announce Type: new \nAbstract: We present a framework for migrating production Large Language Model (LLM) based systems when the underlying model reaches end-of-life or requires repl..."
+            },
+            {
+                "title": "End-to-end autonomous scientific discovery on a real optical platform",
+                "link": "https://arxiv.org/abs/2604.27092",
+                "summary": "arXiv:2604.27092v1 Announce Type: new \nAbstract: Scientific research has long been human-led, driving new knowledge and transformative technologies through the continual revision of questions, methods..."
+            },
+            {
+                "title": "Think it, Run it: Autonomous ML pipeline generation via self-healing multi-agent AI",
+                "link": "https://arxiv.org/abs/2604.27096",
+                "summary": "arXiv:2604.27096v1 Announce Type: new \nAbstract: The purpose of our paper is to develop a unified multi-agent architecture that automates end-to-end machine learning (ML) pipeline generation from data..."
+            }
+        ],
+        "Practitioner": [
+            {
+                "title": "Xmemory: Benchmarking Structured AI Memory Against RAG and Hybrid RAG",
+                "link": "https://arxiv.org/abs/2604.27906",
+                "summary": "..."
+            },
+            {
+                "title": "Ubuntu is going all in on Generative AI and other Linux distros might follow",
+                "link": "https://www.neowin.net/news/ubuntu-is-going-all-in-on-generative-ai-and-other-linux-distros-might-follow/",
+                "summary": "..."
+            },
+            {
+                "title": "AI and decomp project used to port Super Smash Bros to PC",
+                "link": "https://github.com/JRickey/BattleShip",
+                "summary": "..."
+            },
+            {
+                "title": "AI will dissolve human civilization as we know it",
+                "link": "https://www.newstatesman.com/culture/books/book-of-the-day/2026/04/ai-will-dissolve-human-autonomy",
+                "summary": "..."
+            },
+            {
+                "title": "Employers are blindsiding candidates with AI interviews\u2013and scaring them off",
+                "link": "https://www.fastcompany.com/91534397/employers-are-blindsiding-candidates-with-ai-interviews-and-scaring-them-off",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
