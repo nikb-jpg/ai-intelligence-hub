@@ -5047,5 +5047,36 @@
         "Research": [],
         "Practitioner": [],
         "Prompting": []
+    },
+    "2026-05-03": {
+        "Research": [],
+        "Practitioner": [
+            {
+                "title": "Show HN: Editor, Browser, Terminal, Mail, Agents. AI Sharing Context",
+                "link": "https://github.com/raiyanyahya/kit",
+                "summary": "..."
+            },
+            {
+                "title": "PocketOS AI Fiasco \u2013 Lesson in Automation Access",
+                "link": "https://onlytech.boo/incident/pocketos-ai-fiasco-lesson-in-automation-access-mokdojol",
+                "summary": "..."
+            },
+            {
+                "title": "How to Test AI Agents When They Never Give the Same Answer Twice",
+                "link": "https://adlrocha.substack.com/p/adlrocha-the-eval-problem-how-to",
+                "summary": "..."
+            },
+            {
+                "title": "Show HN: Enoch \u2013 Control Plane for Autonomous AI Research",
+                "link": "https://github.com/alias8818/enoch-agentic-research-system",
+                "summary": "..."
+            },
+            {
+                "title": "Learning Pseudorandom Numbers with Transformers",
+                "link": "https://arxiv.org/abs/2510.26792",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
