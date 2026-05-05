@@ -5109,5 +5109,62 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-05-05": {
+        "Research": [
+            {
+                "title": "TADI: Tool-Augmented Drilling Intelligence via Agentic LLM Orchestration over Heterogeneous Wellsite Data",
+                "link": "https://arxiv.org/abs/2605.00060",
+                "summary": "arXiv:2605.00060v1 Announce Type: new \nAbstract: We present TADI (Tool-Augmented Drilling Intelligence), an agentic AI system that transforms drilling operational data into evidence-based analytical i..."
+            },
+            {
+                "title": "AgentReputation: A Decentralized Agentic AI Reputation Framework",
+                "link": "https://arxiv.org/abs/2605.00073",
+                "summary": "arXiv:2605.00073v1 Announce Type: new \nAbstract: Decentralized, agentic AI marketplaces are rapidly emerging to support software engineering tasks such as debugging, patch generation, and security aud..."
+            },
+            {
+                "title": "Minimal, Local, Causal Explanations for Jailbreak Success in Large Language Models",
+                "link": "https://arxiv.org/abs/2605.00123",
+                "summary": "arXiv:2605.00123v1 Announce Type: new \nAbstract: Safety trained large language models (LLMs) can often be induced to answer harmful requests through jailbreak prompts. Because we lack a robust underst..."
+            },
+            {
+                "title": "Are Tools All We Need? Unveiling the Tool-Use Tax in LLM Agents",
+                "link": "https://arxiv.org/abs/2605.00136",
+                "summary": "arXiv:2605.00136v1 Announce Type: new \nAbstract: Tool-augmented reasoning has become a popular direction for LLM-based agents, and it is widely assumed to improve reasoning and reliability. However, w..."
+            },
+            {
+                "title": "TUR-DPO: Topology- and Uncertainty-Aware Direct Preference Optimization",
+                "link": "https://arxiv.org/abs/2605.00224",
+                "summary": "arXiv:2605.00224v1 Announce Type: new \nAbstract: Aligning large language models (LLMs) with human preferences is commonly done via reinforcement learning from human feedback (RLHF) with Proximal Polic..."
+            }
+        ],
+        "Practitioner": [
+            {
+                "title": "NHS to close-source GitHub repos over AI, security concerns",
+                "link": "https://www.theregister.com/2026/05/05/nhs_to_closesource_hundreds_of_repos/",
+                "summary": "..."
+            },
+            {
+                "title": "AI, Disruption, and Automation: Is the Academic World the Next Kodak?",
+                "link": "https://philippesilberzahneng.com/2026/05/04/ai-disruption-and-automation-is-the-academic-world-the-next-kodak/",
+                "summary": "..."
+            },
+            {
+                "title": "When everyone has AI and the company still learns nothing",
+                "link": "https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/",
+                "summary": "..."
+            },
+            {
+                "title": "A blueprint for using AI to strengthen democracy",
+                "link": "https://www.technologyreview.com/2026/05/05/1136843/ai-democracy-blueprint/",
+                "summary": "..."
+            },
+            {
+                "title": "Turn a feature spec into reviewed, merged code with bounded AI agents",
+                "link": "https://github.com/alex-reysa/pm-go",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
