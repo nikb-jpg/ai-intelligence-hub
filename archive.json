@@ -5166,5 +5166,36 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-05-06": {
+        "Research": [
+            {
+                "title": "2026 Roadmap on Artificial Intelligence and Machine Learning for Smart Manufacturing",
+                "link": "https://arxiv.org/abs/2605.00839",
+                "summary": "arXiv:2605.00839v1 Announce Type: new \nAbstract: The evolution of artificial intelligence (AI) and machine learning (ML) is reshaping smart manufacturing by providing new capabilities for efficiency, ..."
+            },
+            {
+                "title": "AI Agents for Sustainable SMEs: A Green ESG Assessment Framework",
+                "link": "https://arxiv.org/abs/2605.00841",
+                "summary": "arXiv:2605.00841v1 Announce Type: new \nAbstract: This study presents a novel, AI-driven framework for assessing Environmental, Social, and Governance (ESG) performance in European small and medium-siz..."
+            },
+            {
+                "title": "Understanding Emergent Misalignment via Feature Superposition Geometry",
+                "link": "https://arxiv.org/abs/2605.00842",
+                "summary": "arXiv:2605.00842v1 Announce Type: new \nAbstract: Emergent misalignment, where fine-tuning on narrow, non-harmful tasks induces harmful behaviors, poses a key challenge for AI safety in LLMs. Despite g..."
+            },
+            {
+                "title": "ClinicBot: A Guideline-Grounded Clinical Chatbot with Prioritized Evidence RAG and Verifiable Citations",
+                "link": "https://arxiv.org/abs/2605.00846",
+                "summary": "arXiv:2605.00846v1 Announce Type: new \nAbstract: Clinical diagnosis requires answers that are accurate, verifiable, and explicitly grounded in official guidelines. While large language models excel at..."
+            },
+            {
+                "title": "Accelerating battery research with an AI interface between FINALES and Kadi4Mat",
+                "link": "https://arxiv.org/abs/2605.00909",
+                "summary": "arXiv:2605.00909v1 Announce Type: new \nAbstract: The time-consuming formation process critically impacts the longevity of sodium-ion coin cells and End Of Life (EOL) performance. This study aims to op..."
+            }
+        ],
+        "Practitioner": [],
+        "Prompting": []
     }
 }
