@@ -5197,5 +5197,62 @@
         ],
         "Practitioner": [],
         "Prompting": []
+    },
+    "2026-05-07": {
+        "Research": [
+            {
+                "title": "CreativityBench: Evaluating Agent Creative Reasoning via Affordance-Based Tool Repurposing",
+                "link": "https://arxiv.org/abs/2605.02910",
+                "summary": "arXiv:2605.02910v2 Announce Type: new \nAbstract: Recent advances in large language models have led to strong performance on reasoning and environment-interaction tasks, yet their ability for creative ..."
+            },
+            {
+                "title": "Stable Agentic Control: Tool-Mediated LLM Architecture for Autonomous Cyber Defense",
+                "link": "https://arxiv.org/abs/2605.03034",
+                "summary": "arXiv:2605.03034v1 Announce Type: new \nAbstract: Agentic systems involved in high-stake decision-making under adversarial pressure need formal guarantees not offered by existing approaches. Motivated ..."
+            },
+            {
+                "title": "Computing Thiele Rules on Interval Elections and their Generalizations",
+                "link": "https://arxiv.org/abs/2605.03067",
+                "summary": "arXiv:2605.03067v1 Announce Type: new \nAbstract: Approval-based committee voting has received significant attention in the social choice community. Among the studied rules, Thiele rules, and especiall..."
+            },
+            {
+                "title": "Making the Invisible Visible: Understanding the Mismatch Between Organizational Goals and Worker Experiences in AI Adoption",
+                "link": "https://arxiv.org/abs/2605.03078",
+                "summary": "arXiv:2605.03078v1 Announce Type: new \nAbstract: While AI is often introduced into organizations to drive innovation and efficiency, many adoption efforts fail as workers resist and struggle to integr..."
+            },
+            {
+                "title": "Programmatic Context Augmentation for LLM-based Symbolic Regression",
+                "link": "https://arxiv.org/abs/2605.03101",
+                "summary": "arXiv:2605.03101v1 Announce Type: new \nAbstract: Symbolic regression (SR), the task of discovering mathematical expressions that best describe a given dataset, remains a fundamental challenge in scien..."
+            }
+        ],
+        "Practitioner": [
+            {
+                "title": "Show HN: Desktop Agent Center \u2013 Local AI Automation via Hotkeys",
+                "link": "https://news.ycombinator.com/item?id=48047444",
+                "summary": "..."
+            },
+            {
+                "title": "Is AI Creative?",
+                "link": "https://negativestarinnovators.com/blog/does-ai-actually-have-creativity",
+                "summary": "..."
+            },
+            {
+                "title": "Ask HN: Real life autonomous AI Agents",
+                "link": "https://news.ycombinator.com/item?id=48047428",
+                "summary": "..."
+            },
+            {
+                "title": "Locked, stocked, and losing budget: AI vendor lock-in bites back",
+                "link": "https://www.theregister.com/software/2026/04/28/locked-stocked-and-losing-budget-ai-vendor-lock-in-bites/5229050",
+                "summary": "..."
+            },
+            {
+                "title": "AI Slop Is Killing Online Communities",
+                "link": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
