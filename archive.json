@@ -5254,5 +5254,62 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-05-08": {
+        "Research": [
+            {
+                "title": "Understanding Annotator Safety Policy with Interpretability",
+                "link": "https://arxiv.org/abs/2605.05329",
+                "summary": "arXiv:2605.05329v1 Announce Type: new \nAbstract: Safety policies define what constitutes safe and unsafe AI outputs, guiding data annotation and model development. However, annotation disagreement is ..."
+            },
+            {
+                "title": "ZAYA1-8B Technical Report",
+                "link": "https://arxiv.org/abs/2605.05365",
+                "summary": "arXiv:2605.05365v1 Announce Type: new \nAbstract: We present ZAYA1-8B, a reasoning-focused mixture-of-experts (MoE) model with 700M active and 8B total parameters, built on Zyphra's MoE++ architecture...."
+            },
+            {
+                "title": "Partial Evidence Bench: Benchmarking Authorization-Limited Evidence in Agentic Systems",
+                "link": "https://arxiv.org/abs/2605.05379",
+                "summary": "arXiv:2605.05379v1 Announce Type: new \nAbstract: Enterprise agents increasingly operate inside scoped retrieval systems, delegated workflows, and policy-constrained evidence environments. In these set..."
+            },
+            {
+                "title": "BALAR : A Bayesian Agentic Loop for Active Reasoning",
+                "link": "https://arxiv.org/abs/2605.05386",
+                "summary": "arXiv:2605.05386v1 Announce Type: new \nAbstract: Large language models increasingly operate in interactive settings where solving a task requires multiple rounds of information exchange with a user. H..."
+            },
+            {
+                "title": "Intelligent CCTV for Urban Design: AI-Based Analysis of Soft Infrastructure at Intersections",
+                "link": "https://arxiv.org/abs/2605.05402",
+                "summary": "arXiv:2605.05402v1 Announce Type: new \nAbstract: Artificial intelligence (AI) and computer vision are transforming transportation data collection. This study introduces an AI-enabled analytics framewo..."
+            }
+        ],
+        "Practitioner": [
+            {
+                "title": "Google removes privacy assurances after stuffing devices with their AI model",
+                "link": "https://www.thatprivacyguy.com/blog/google-quietly-removes-on-device-ai-privacy-claim/",
+                "summary": "..."
+            },
+            {
+                "title": "Scripily \u2013 AI for Restoring and Transcribing Damaged Documents",
+                "link": "https://scripily.com/",
+                "summary": "..."
+            },
+            {
+                "title": "AI is rapidly changing cybersecurity across the world",
+                "link": "https://fixtechhubs.blogspot.com/2026/05/ai-cybersecurity-threats-are-rising.html",
+                "summary": "..."
+            },
+            {
+                "title": "Notes from Inside China AI Labs",
+                "link": "https://www.interconnects.ai/p/notes-from-inside-chinas-ai-labs",
+                "summary": "..."
+            },
+            {
+                "title": "0ctx \u2013 Local-first project memory for AI workflows",
+                "link": "https://news.ycombinator.com/item?id=48060134",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
