@@ -5342,5 +5342,36 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-05-10": {
+        "Research": [],
+        "Practitioner": [
+            {
+                "title": "AI Act Article 50 transparency rules. Heading for another cookie consent moment?",
+                "link": "https://digital-strategy.ec.europa.eu/en/library/draft-guidelines-implementation-transparency-obligations-certain-ai-systems-under-article-50-ai-act",
+                "summary": "..."
+            },
+            {
+                "title": "AI cost optimization tool \"distillfast.com\"",
+                "link": "https://news.ycombinator.com/item?id=48082112",
+                "summary": "..."
+            },
+            {
+                "title": "Machine Learning Offers Faster, More Reliable Analysis of Fermi Surfaces",
+                "link": "https://www.tus.ac.jp/en/mediarelations/archive/20260417_0478.html",
+                "summary": "..."
+            },
+            {
+                "title": "In a quest to becoming AI independent",
+                "link": "https://adlrocha.substack.com/p/adlrocha-in-a-quest-to-becoming-ai",
+                "summary": "..."
+            },
+            {
+                "title": "Gen Z Resentment Toward AI Grows as Adoption Stagnates and Workplace Fears Mount",
+                "link": "https://www.waltonfamilyfoundation.org/about-us/newsroom/gen-z-resentment-toward-ai-grows-as-adoption-stagnates-and-workplace-fears-mount",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
