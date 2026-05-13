@@ -5487,5 +5487,36 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-05-13": {
+        "Research": [
+            {
+                "title": "Where Reliability Lives in Vision-Language Models: A Mechanistic Study of Attention, Hidden States, and Causal Circuits",
+                "link": "https://arxiv.org/abs/2605.08200",
+                "summary": "0.95 on POPE for two of three families, and self-consistency at K=10 is the strongest behavioral predictor we measure at 10x inference cost (R_pb=0.43). (iii) Causal neuron-level ablations expose a sh..."
+            },
+            {
+                "title": "Spatial Priming Outperforms Semantic Prompting: A Grid-Based Approach to Improving LLM Accuracy on Chart Data Extraction",
+                "link": "https://arxiv.org/abs/2605.08220",
+                "summary": "arXiv:2605.08220v1 Announce Type: new \nAbstract: The automated extraction of data from scientific charts is a critical task for large-scale literature analysis. While multimodal Large Language Models ..."
+            },
+            {
+                "title": "Auto-Rubric as Reward: From Implicit Preferences to Explicit Multimodal Generative Criteria",
+                "link": "https://arxiv.org/abs/2605.08354",
+                "summary": "arXiv:2605.08354v1 Announce Type: new \nAbstract: Aligning multimodal generative models with human preferences demands reward signals that respect the compositional, multi-dimensional structure of huma..."
+            },
+            {
+                "title": "Embeddings for Preferences, Not Semantics",
+                "link": "https://arxiv.org/abs/2605.08360",
+                "summary": "arXiv:2605.08360v1 Announce Type: new \nAbstract: Modern AI is opening the door to collective decision-making in which participants express their views as free-form text rather than voting on a fixed s..."
+            },
+            {
+                "title": "On Distinguishing Capability Elicitation from Capability Creation in Post-Training: A Free-Energy Perspective",
+                "link": "https://arxiv.org/abs/2605.08368",
+                "summary": "arXiv:2605.08368v1 Announce Type: new \nAbstract: Debates about large language model post-training often treat supervised fine-tuning (SFT) as imitation and reinforcement learning (RL) as discovery. Bu..."
+            }
+        ],
+        "Practitioner": [],
+        "Prompting": []
     }
 }
