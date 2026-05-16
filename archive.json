@@ -5606,5 +5606,62 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-05-16": {
+        "Research": [
+            {
+                "title": "GraphBit: A Graph-based Agentic Framework for Non-Linear Agent Orchestration",
+                "link": "https://arxiv.org/abs/2605.13848",
+                "summary": "arXiv:2605.13848v1 Announce Type: new \nAbstract: Agentic LLM frameworks that rely on prompted orchestration, where the model itself determines workflow transitions, often suffer from hallucinated rout..."
+            },
+            {
+                "title": "Mixed Integer Goal Programming for Personalized Meal Optimization with User-Defined Serving Granularity",
+                "link": "https://arxiv.org/abs/2605.13849",
+                "summary": "arXiv:2605.13849v1 Announce Type: new \nAbstract: Determining what to eat to satisfy nutritional requirements is one of the oldest optimization problems in operations research, yet existing formulation..."
+            },
+            {
+                "title": "A Two-Dimensional Framework for AI Agent Design Patterns: Cognitive Function and Execution Topology",
+                "link": "https://arxiv.org/abs/2605.13850",
+                "summary": "arXiv:2605.13850v1 Announce Type: new \nAbstract: Existing frameworks for LLM-based agent architectures describe systems from a single perspective: industry guides (Anthropic, Google, LangChain) focus ..."
+            },
+            {
+                "title": "Invisible Orchestrators Suppress Protective Behavior and Dissociate Power-Holders: Safety Risks in Multi-Agent LLM Systems",
+                "link": "https://arxiv.org/abs/2605.13851",
+                "summary": "arXiv:2605.13851v1 Announce Type: new \nAbstract: Multi-agent orchestration -- in which a hidden coordinator manages specialized worker agents -- is becoming the default architecture for enterprise AI ..."
+            },
+            {
+                "title": "PREPING: Building Agent Memory without Tasks",
+                "link": "https://arxiv.org/abs/2605.13880",
+                "summary": "arXiv:2605.13880v1 Announce Type: new \nAbstract: Agent memory is typically constructed either offline from curated demonstrations or online from post-deployment interactions. However, regardless of ho..."
+            }
+        ],
+        "Practitioner": [
+            {
+                "title": "AI could put people off tech jobs and hurt the economy, warns Raspberry Pi boss",
+                "link": "https://www.bbc.com/news/articles/clypr8p2lewo",
+                "summary": "..."
+            },
+            {
+                "title": "Moving away from Tailwind, and learning to structure my CSS",
+                "link": "https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/",
+                "summary": "..."
+            },
+            {
+                "title": "N8n-MCP: AI assistants can now search and build n8n workflows",
+                "link": "https://github.com/czlonkowski/n8n-mcp",
+                "summary": "..."
+            },
+            {
+                "title": "Show HN: A Dark Cave \u2013 Minimalistic Graphics in the Age of AI Slop",
+                "link": "https://a-dark-cave.com/",
+                "summary": "..."
+            },
+            {
+                "title": "Show HN: AI/ML benchmark for local LLM inference and XGBoost training on GPU/CPU",
+                "link": "https://github.com/albedan/ai-ml-gpu-bench",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
