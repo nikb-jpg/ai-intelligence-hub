@@ -5663,5 +5663,36 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-05-17": {
+        "Research": [],
+        "Practitioner": [
+            {
+                "title": "Fellow Artists, I'm Begging You to Pull Your Heads Out of the Sand About AI",
+                "link": "https://glasshalftrue.substack.com/p/fellow-artists-im-begging-you-to",
+                "summary": "..."
+            },
+            {
+                "title": "Towards local plug-and-play AI",
+                "link": "https://adlrocha.substack.com/p/adlrocha-towards-local-plug-and-play",
+                "summary": "..."
+            },
+            {
+                "title": "2ality blog: temporarily offline due to AI stealing work",
+                "link": "https://2ality.com/",
+                "summary": "..."
+            },
+            {
+                "title": "Project Prism |Fullstack Engineer \u2013 Abu Dhabi (Onsite) \u2013 Full-Time \u2013 Presight.ai",
+                "link": "https://news.ycombinator.com/item?id=48166825",
+                "summary": "..."
+            },
+            {
+                "title": "A cheap fix that saves the AI $400M dollars a year and brings 4B people online",
+                "link": "https://codecai.net/",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
