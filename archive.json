@@ -5751,5 +5751,62 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-05-19": {
+        "Research": [
+            {
+                "title": "AgentWall: A Runtime Safety Layer for Local AI Agents",
+                "link": "https://arxiv.org/abs/2605.16265",
+                "summary": "arXiv:2605.16265v1 Announce Type: new \nAbstract: The safety of autonomous AI agents is increasingly recognized as a critical open problem. As agents transition from passive text generators to active a..."
+            },
+            {
+                "title": "ANNEAL: Adapting LLM Agents via Governed Symbolic Patch Learning",
+                "link": "https://arxiv.org/abs/2605.16309",
+                "summary": "arXiv:2605.16309v1 Announce Type: new \nAbstract: LLM-based agents can recover from individual execution errors, yet they repeatedly fail on the same fault when the underlying process knowledge--operat..."
+            },
+            {
+                "title": "From Prompts to Protocols: An AI Agent for Laboratory Automation",
+                "link": "https://arxiv.org/abs/2605.16552",
+                "summary": "arXiv:2605.16552v1 Announce Type: new \nAbstract: Automating science laboratories enables faster, safer, more accurate, and more reproducible execution of protocols, accelerating the discovery and test..."
+            },
+            {
+                "title": "Skim: Speculative Execution for Fast and Efficient Web Agents",
+                "link": "https://arxiv.org/abs/2605.16565",
+                "summary": "arXiv:2605.16565v1 Announce Type: new \nAbstract: Skim is a speculative execution framework for web agents that exploits the predictable structure of purpose-built websites. Today's web-agent expense i..."
+            },
+            {
+                "title": "Scalable Uncertainty Reasoning in Knowledge Graphs",
+                "link": "https://arxiv.org/abs/2605.16568",
+                "summary": "arXiv:2605.16568v1 Announce Type: new \nAbstract: Knowledge Graphs are pivotal for semantic data integration. The real-world data they model is often inherently uncertain. Within knowledge graphs, unce..."
+            }
+        ],
+        "Practitioner": [
+            {
+                "title": "The big AI companies are going to see their margins disappear",
+                "link": "https://www.theregister.com/ai-ml/2026/05/18/the-big-ai-companies-are-going-to-see-their-margins-disappear/5242227",
+                "summary": "..."
+            },
+            {
+                "title": "Legal fail: Don't use AI to sue Facebook users for calling you a bad date",
+                "link": "https://arstechnica.com/tech-policy/2026/05/legal-fail-dont-use-ai-to-sue-facebook-users-for-calling-you-a-bad-date/",
+                "summary": "..."
+            },
+            {
+                "title": "AI is likely to widen the gap between corporate giants and everyone else",
+                "link": "https://finance.yahoo.com/markets/article/history-says-ai-is-likely-to-widen-the-gap-between-corporate-giants-and-everyone-else-goldman-sachs-161724815.html",
+                "summary": "..."
+            },
+            {
+                "title": "AdminForth \u2013 Open-source admin framework with a built-in AI agent [video]",
+                "link": "https://www.youtube.com/watch?v=4tB8uzY__uk",
+                "summary": "..."
+            },
+            {
+                "title": "An open question about how AI agent skills should be distributed",
+                "link": "https://github.com/hymhub/skill-indexer",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
