@@ -5808,5 +5808,62 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-05-20": {
+        "Research": [
+            {
+                "title": "Position: Let's Develop Data Probes to Fundamentally Understand How Data Affects LLM Performance",
+                "link": "https://arxiv.org/abs/2605.18801",
+                "summary": "arXiv:2605.18801v1 Announce Type: new \nAbstract: Data is fundamental to large language models (LLMs). However, understanding of what makes certain data useful for different stages of an LLM workflow, ..."
+            },
+            {
+                "title": "Operationalizing Document AI: A Microservice Architecture for OCR and LLM Pipelines in Production",
+                "link": "https://arxiv.org/abs/2605.18818",
+                "summary": "arXiv:2605.18818v1 Announce Type: new \nAbstract: Academic research tends to focus on new models for document understanding creating a wide gap in the literature between model definition and running mo..."
+            },
+            {
+                "title": "Evaluating the Utility of Personal Health Records in Personalized Health AI",
+                "link": "https://arxiv.org/abs/2605.18937",
+                "summary": "arXiv:2605.18937v1 Announce Type: new \nAbstract: Patient-managed Personal Health Records (PHRs) promises to empower patients to better understand their health; but information in the record is complex..."
+            },
+            {
+                "title": "Learn-by-Wire Training Control Governance: Bounded Autonomous Training Under Stress for Stability and Efficiency",
+                "link": "https://arxiv.org/abs/2605.19008",
+                "summary": "arXiv:2605.19008v1 Announce Type: new \nAbstract: Modern language-model training is increasingly exposed to instability, degraded runs, and wasted compute, especially under aggressive learning-rate, sc..."
+            },
+            {
+                "title": "AgentNLQ: A General-Purpose Agent for Natural Language to SQL",
+                "link": "https://arxiv.org/abs/2605.19010",
+                "summary": "arXiv:2605.19010v1 Announce Type: new \nAbstract: Natural language to SQL (NL2SQL) conversion is an important problem for researchers and enterprises due to the ubiquitous importance of relational data..."
+            }
+        ],
+        "Practitioner": [
+            {
+                "title": "Chronify \u2013 extension+webapp that turns AI chats and files into dated timeline",
+                "link": "https://chronify.life",
+                "summary": "..."
+            },
+            {
+                "title": "Show HN: I fixed my AI goose tutor to stop punishing understanding",
+                "link": "https://professorgoose.com/?version=2.0",
+                "summary": "..."
+            },
+            {
+                "title": "Learnings from 100K lines of Rust with AI (2025)",
+                "link": "https://zfhuang99.github.io/rust/claude%20code/codex/contracts/spec-driven%20development/2025/12/01/rust-with-ai.html",
+                "summary": "..."
+            },
+            {
+                "title": "Ask HN: How to make a mono-repo AI-Ready?",
+                "link": "https://news.ycombinator.com/item?id=48205190",
+                "summary": "..."
+            },
+            {
+                "title": "Public have more fear than hope on AI and future of work, study finds",
+                "link": "https://www.kcl.ac.uk/news/one-in-five-britons-think-ai-will-create-civil-unrest-study-finds",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
