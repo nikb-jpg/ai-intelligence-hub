@@ -5953,5 +5953,36 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-05-23": {
+        "Research": [],
+        "Practitioner": [
+            {
+                "title": "AMD's Lemonade SDK for AI Promotes macOS to GA Status, ROCm 7.13 Integrated",
+                "link": "https://www.phoronix.com/news/Lemonade-SDK-10.5-Released",
+                "summary": "..."
+            },
+            {
+                "title": "Embedded acoustic AI with <16ms latency running on 8MB RAM",
+                "link": "https://www.voisace.com/blog",
+                "summary": "..."
+            },
+            {
+                "title": "Does anyone in your organisation own \"correctness\" in your AI products?",
+                "link": "https://alokit.substack.com/p/nobody-in-your-organization-owns",
+                "summary": "..."
+            },
+            {
+                "title": "ChatGPT as the AOL of AI",
+                "link": "https://rebecca-powell.com/posts/return-on-intelligence-02-moats/",
+                "summary": "..."
+            },
+            {
+                "title": "Twelve Ways to Be Wrong About AI-Assisted Coding",
+                "link": "https://third-bit.com/2026/05/20/twelve-ways-to-be-wrong/",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
