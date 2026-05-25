@@ -5989,5 +5989,62 @@
         "Research": [],
         "Practitioner": [],
         "Prompting": []
+    },
+    "2026-05-25": {
+        "Research": [
+            {
+                "title": "BOHM: Zero-Cost Hierarchical Attribution for Compound AI Systems",
+                "link": "https://arxiv.org/abs/2605.22866",
+                "summary": "arXiv:2605.22866v1 Announce Type: new \nAbstract: Compound AI systems route tasks through hierarchies of specialised components. Attribution is dominated by Shapley-based methods (SHAP), which decompos..."
+            },
+            {
+                "title": "NeuroNL2LTL: A Neurosymbolic Framework for Natural Language Translation of Linear Temporal Logic",
+                "link": "https://arxiv.org/abs/2605.22874",
+                "summary": "arXiv:2605.22874v1 Announce Type: new \nAbstract: Effectively translating between natural language (NL) and formal logics like Linear Temporal Logic (LTL) requires expertise that limits formal verifica..."
+            },
+            {
+                "title": "RMA: an Agentic System for Research-Level Mathematical Problems",
+                "link": "https://arxiv.org/abs/2605.22875",
+                "summary": "arXiv:2605.22875v1 Announce Type: new \nAbstract: We present $\\textbf{Research Math Agents (RMA)}$, an agentic framework for automated reasoning on research-level mathematical problems. Unlike prior st..."
+            },
+            {
+                "title": "SciAtlas: A Large-Scale Knowledge Graph for Automated Scientific Research",
+                "link": "https://arxiv.org/abs/2605.22878",
+                "summary": "arXiv:2605.22878v1 Announce Type: new \nAbstract: The exponential growth of global academic output has confronted researchers and AI agents with an unprecedented ``information explosion,'' where fragme..."
+            },
+            {
+                "title": "Energy per Successful Goal: Goal-Level Energy Accounting for Agentic AI Systems",
+                "link": "https://arxiv.org/abs/2605.22883",
+                "summary": "arXiv:2605.22883v1 Announce Type: new \nAbstract: Current AI energy benchmarks measure consumption at the granularity of a single model invocation or training run. For classical single-turn workloads t..."
+            }
+        ],
+        "Practitioner": [
+            {
+                "title": "AI Model Idle Game: I made this for friends don't know how AI industry works",
+                "link": "https://game.trae.academy/play",
+                "summary": "..."
+            },
+            {
+                "title": "AI turning software building into cultural arbitrage",
+                "link": "https://xcancel.com/levelsio/status/2058196816877797888",
+                "summary": "..."
+            },
+            {
+                "title": "America's plutonium puzzle: from cold war relics to AI ambitions",
+                "link": "https://nationalinterest.org/blog/energy-world/americas-plutonium-puzzle-from-cold-war-relics-to-ai-ambitions",
+                "summary": "..."
+            },
+            {
+                "title": "AI can chart a course to disaster faster than humans can notice",
+                "link": "https://thebulletin.org/2026/05/ai-can-chart-a-course-to-disaster-faster-than-humans-can-notice/",
+                "summary": "..."
+            },
+            {
+                "title": "Final Fantasy Creator Call AI-Generated Final Fantasy 6 Remake Video 'Amazing'",
+                "link": "https://kotaku.com/final-fantasy-creator-says-viral-ai-generated-final-fantasy-6-remake-video-looks-awesome-2000697042",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
