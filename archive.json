@@ -6046,5 +6046,62 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-05-27": {
+        "Research": [
+            {
+                "title": "BrickAnything: Geometry-Conditioned Buildable Brick Generation with Structure-Aware Tokenization",
+                "link": "https://arxiv.org/abs/2605.26182",
+                "summary": "arXiv:2605.26182v1 Announce Type: new \nAbstract: Generating physically buildable brick structures from 3D shapes requires more than geometric reconstruction: the output must also satisfy discrete part..."
+            },
+            {
+                "title": "Can LLMs Introspect? A Reality Check",
+                "link": "https://arxiv.org/abs/2605.26242",
+                "summary": "arXiv:2605.26242v1 Announce Type: new \nAbstract: Can large language models detect and report their own internal states? A number of studies have argued that the answer to this question is yes. We argu..."
+            },
+            {
+                "title": "Is Agent Memory a Database? Rethinking Data Foundations for Long-Term AI Agent Memory",
+                "link": "https://arxiv.org/abs/2605.26252",
+                "summary": "arXiv:2605.26252v1 Announce Type: new \nAbstract: Long-running AI agents need persistent memory. Memory supports learning across sessions, reduces repeated context injection, and enables auditing of pa..."
+            },
+            {
+                "title": "Personalizing Embodied Multimodal Large Language Model Agents over Long-term User Interactions",
+                "link": "https://arxiv.org/abs/2605.26256",
+                "summary": "arXiv:2605.26256v1 Announce Type: new \nAbstract: Multimodal large language model (MLLM)-based embodied agents have shown strong potential for solving complex tasks in physical environments. However, p..."
+            },
+            {
+                "title": "Constraint acquisition needs better benchmarks",
+                "link": "https://arxiv.org/abs/2605.26279",
+                "summary": "arXiv:2605.26279v1 Announce Type: new \nAbstract: Constraint Acquisition (CA) and related research on the validation and enhancement of Mathematical Programming (MP) models from domain knowledge artifa..."
+            }
+        ],
+        "Practitioner": [
+            {
+                "title": "Clanker: A Word for the Machine",
+                "link": "https://lucumr.pocoo.org/2026/5/26/clankers/",
+                "summary": "..."
+            },
+            {
+                "title": "AionUi: Open-Source AI Cowork Platform for Claude Code, Codex and Gemini",
+                "link": "https://github.com/iOfficeAI/AionUi",
+                "summary": "..."
+            },
+            {
+                "title": "AI PDF Builder \u2013 Create and Fill PDF Documents with AI",
+                "link": "https://pdfaibuilder.ai",
+                "summary": "..."
+            },
+            {
+                "title": "US law enforcement warns of \"anti-tech extremism\" as AI hatred grows",
+                "link": "https://arstechnica.com/ai/2026/05/us-law-enforcement-warns-of-anti-tech-extremism-as-ai-hatred-grows/",
+                "summary": "..."
+            },
+            {
+                "title": "Jensen Huang says CEOs who blame AI for layoffs are giving a 'lazy' excuse",
+                "link": "https://www.businessinsider.com/nvidia-ceo-jensen-huang-ai-job-cuts-losses-lazy-narrative-2026-5",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
