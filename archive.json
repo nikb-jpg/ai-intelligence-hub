@@ -6103,5 +6103,62 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-05-28": {
+        "Research": [
+            {
+                "title": "Identifying and Understanding Human Values in Text: A Tailorable LLM-based Architecture",
+                "link": "https://arxiv.org/abs/2605.27373",
+                "summary": "arXiv:2605.27373v1 Announce Type: new \nAbstract: As intelligent systems become more autonomous, the scientific community focuses on creating decision-making mechanisms that include ethical and moral c..."
+            },
+            {
+                "title": "Soro: A Lightweight Foundation Model and Chatbot for Tajik",
+                "link": "https://arxiv.org/abs/2605.27379",
+                "summary": "arXiv:2605.27379v1 Announce Type: new \nAbstract: We present Soro, a family of Tajik-specialized conversational large language models (LLMs) designed for real-world deployment under tight compute and c..."
+            },
+            {
+                "title": "On the Origin of Synthetic Information by Means of Steganographic Inheritance",
+                "link": "https://arxiv.org/abs/2605.27551",
+                "summary": "arXiv:2605.27551v1 Announce Type: new \nAbstract: The origin of species has been the mystery of mysteries in natural science. By analogy, the origin of synthetic information, we suggest, is the mystery..."
+            },
+            {
+                "title": "DynaSchedBench: Calibrated Dynamic Scheduling Benchmarks and Observability Paradox in LLM-based Scheduling Agents",
+                "link": "https://arxiv.org/abs/2605.27566",
+                "summary": "arXiv:2605.27566v1 Announce Type: new \nAbstract: Progress in neural combinatorial optimization for Dynamic Flexible Job Shop Scheduling Problem (DFJSP) is currently hindered by a methodological tensio..."
+            },
+            {
+                "title": "Why LLMs Fail at Causal Discovery and How Interventional Agents Escape",
+                "link": "https://arxiv.org/abs/2605.27567",
+                "summary": "arXiv:2605.27567v1 Announce Type: new \nAbstract: Causal discovery is a cornerstone of scientific reasoning, yet whether large language models can perform it reliably remains an open question. Recent b..."
+            }
+        ],
+        "Practitioner": [
+            {
+                "title": "Show HN: Local Coding Agent LLMs That Delegate Tool Calls to Small AI Models",
+                "link": "https://github.com/district-solutions/open-agent-tools-coder",
+                "summary": "..."
+            },
+            {
+                "title": "Is AI Inherently Anti-Social?",
+                "link": "https://battellemedia.com/archives/2026/05/is-ai-inherently-anti-social",
+                "summary": "..."
+            },
+            {
+                "title": "Why Tesla's AI trainers don't trust its self-driving tech \u2013 or its safety stats",
+                "link": "https://www.reuters.com/investigations/why-teslas-ai-trainers-dont-trust-its-self-driving-tech-or-its-safety-stats-2026-05-28/",
+                "summary": "..."
+            },
+            {
+                "title": "SpaceX has almost finished writing v1.0 of an in-house AI training stack in C",
+                "link": "https://twitter.com/elonmusk/status/2059884150187053488",
+                "summary": "..."
+            },
+            {
+                "title": "The AI Hype Index: AI gets booed in graduation season",
+                "link": "https://www.technologyreview.com/2026/05/28/1138053/the-ai-hype-index-ai-gets-booed-in-graduation-season/",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
