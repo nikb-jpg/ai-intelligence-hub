@@ -6217,5 +6217,36 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-05-30": {
+        "Research": [],
+        "Practitioner": [
+            {
+                "title": "Slow Journal app, with AI integration",
+                "link": "https://nemejournal.app/",
+                "summary": "..."
+            },
+            {
+                "title": "AI coding agents ships at the cost of intuition and taste",
+                "link": "https://shivekkhurana.com/blog/coding-agent-dopamine/",
+                "summary": "..."
+            },
+            {
+                "title": "Three flavors of coding with AI agents",
+                "link": "https://nocodefunctions.com/blog/three-flavors-agentic-coding/",
+                "summary": "..."
+            },
+            {
+                "title": "Show HN: AI-org \u2013 org-mode powered by AI",
+                "link": "https://ai-org.net/",
+                "summary": "..."
+            },
+            {
+                "title": "A $2k AI-generated film will make its debut at Tribeca",
+                "link": "https://www.theverge.com/entertainment/939067/ai-film-dreams-of-violets-tribeca",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
