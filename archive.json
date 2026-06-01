@@ -6253,5 +6253,36 @@
         "Research": [],
         "Practitioner": [],
         "Prompting": []
+    },
+    "2026-06-01": {
+        "Research": [
+            {
+                "title": "PhyDrawGen: Physically Grounded Diagram Generation from Natural Language",
+                "link": "https://arxiv.org/abs/2605.30512",
+                "summary": "arXiv:2605.30512v1 Announce Type: new \nAbstract: Generating physics diagrams from text requires strict adherence to physical laws. While current generative models produce visually plausible outputs, t..."
+            },
+            {
+                "title": "Physically Viable World Models: A Case for Query-Conditioned Embodied AI",
+                "link": "https://arxiv.org/abs/2605.30542",
+                "summary": "arXiv:2605.30542v1 Announce Type: new \nAbstract: World models for embodied AI must be physically viable: constructed to answer intervention queries by representing the physical structure governing act..."
+            },
+            {
+                "title": "Transforming and Encoding FTS for SAT Solving: What Helps, What Hurts (Extended Version)",
+                "link": "https://arxiv.org/abs/2605.30563",
+                "summary": "arXiv:2605.30563v1 Announce Type: new \nAbstract: Factored tasks are a classical planning representation that extends SAS+ with limited forms of disjunctive preconditions, conditional effects, and ange..."
+            },
+            {
+                "title": "Procedural Generation of First Person Shooter Maps using Map-Elites",
+                "link": "https://arxiv.org/abs/2605.30570",
+                "summary": "arXiv:2605.30570v1 Announce Type: new \nAbstract: We investigate the application of MAP-Elites (a well-known quality diversity algorithm) to design levels for First-Person Shooter (FPS) games. We consi..."
+            },
+            {
+                "title": "Uncertainty-Aware and Temporally Regulated Expert Advice in Reinforcement Learning for Autonomous Driving",
+                "link": "https://arxiv.org/abs/2605.30576",
+                "summary": "arXiv:2605.30576v1 Announce Type: new \nAbstract: Exploration in reinforcement learning for autonomous driving is inherently unsafe: agents must experience novel behaviors to learn, yet exploration can..."
+            }
+        ],
+        "Practitioner": [],
+        "Prompting": []
     }
 }
