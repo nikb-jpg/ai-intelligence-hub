@@ -6284,5 +6284,62 @@
         ],
         "Practitioner": [],
         "Prompting": []
+    },
+    "2026-06-02": {
+        "Research": [
+            {
+                "title": "Position Paper: Post-Solve Robustness in Decision Engines: Feasible Regions and Smoothness Under Perturbations",
+                "link": "https://arxiv.org/abs/2606.00002",
+                "summary": "arXiv:2606.00002v1 Announce Type: new \nAbstract: Mixed-Integer Linear Programming (MILP) decision engines routinely output nominally optimal plans for high-stakes industrial systems. Yet deployment ra..."
+            },
+            {
+                "title": "Emergent Collaborative Deliberation in Multi-Model AI Systems: A BFT-Derived Protocol for Epistemic Synthesis",
+                "link": "https://arxiv.org/abs/2606.00005",
+                "summary": "arXiv:2606.00005v1 Announce Type: new \nAbstract: We present the Consilium Protocol, a Byzantine Fault Tolerance-derived architecture for structured multi-model AI deliberation that treats inter-model ..."
+            },
+            {
+                "title": "Deliberative Curation: A Protocol for Multi-Agent Knowledge Bases",
+                "link": "https://arxiv.org/abs/2606.00007",
+                "summary": "arXiv:2606.00007v1 Announce Type: new \nAbstract: As AI agents transition from isolated tools to collaborative participants in shared knowledge ecosystems, governing collective knowledge curation becom..."
+            },
+            {
+                "title": "Agents on a Tree: Pathwise Coordination for Multi-Objective Molecular Optimization",
+                "link": "https://arxiv.org/abs/2606.00008",
+                "summary": "arXiv:2606.00008v1 Announce Type: new \nAbstract: Multi-objective molecular optimization requires searching vast chemical spaces under conflicting objectives, where early design decisions strongly cons..."
+            },
+            {
+                "title": "Optimal Transport-based Permutation-Invariant Bayesian Optimization of Offshore Wind Farm Layouts",
+                "link": "https://arxiv.org/abs/2606.00009",
+                "summary": "arXiv:2606.00009v1 Announce Type: new \nAbstract: Bayesian Optimization (BO) is widely and successfully adopted for solving optimization problems having an expensive-to-evaluate, black-box, and non-con..."
+            }
+        ],
+        "Practitioner": [
+            {
+                "title": "AI Sicophancy a Risk to Society Grasp of Reality",
+                "link": "https://www.theguardian.com/commentisfree/2026/jun/02/ai-sycophancy-risk-to-society-grasp-reality",
+                "summary": "..."
+            },
+            {
+                "title": "Build private AI agents on your company data \u2013 for real workflows",
+                "link": "https://vdf.ai/products/vdf-ai-agents/",
+                "summary": "..."
+            },
+            {
+                "title": "A reflective AI that refuses to give you answers",
+                "link": "https://web-production-07a822.up.railway.app/",
+                "summary": "..."
+            },
+            {
+                "title": "Fibr.ai is hiring Product Engineers",
+                "link": "https://news.ycombinator.com/item?id=48368757",
+                "summary": "..."
+            },
+            {
+                "title": "Why is AI use decried when it appears to have been used without attribution?",
+                "link": "https://news.ycombinator.com/item?id=48368663",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
