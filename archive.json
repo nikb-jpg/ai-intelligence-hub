@@ -6341,5 +6341,62 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-06-03": {
+        "Research": [
+            {
+                "title": "Visual Graph Scaffolds for Structural Reasoning in Large Language Models",
+                "link": "https://arxiv.org/abs/2606.02673",
+                "summary": "arXiv:2606.02673v1 Announce Type: new \nAbstract: Graphs have been used to enhance large language models (LLMs) for structured reasoning, mostly as external knowledge sources are provided to models at ..."
+            },
+            {
+                "title": "AURA: Action-Gated Memory for Robot Policies at Constant VRAM",
+                "link": "https://arxiv.org/abs/2606.02775",
+                "summary": "arXiv:2606.02775v1 Announce Type: new \nAbstract: The KV-cache is the right memory for datacenters but the wrong memory for robots. Datacenter inference batches many short requests and resets them, amo..."
+            },
+            {
+                "title": "Evaluating Transformer and LSTM Frameworks for Prediction in Ungauged Basins",
+                "link": "https://arxiv.org/abs/2606.02791",
+                "summary": "arXiv:2606.02791v1 Announce Type: new \nAbstract: Watershed networks exhibit convergent topologies in which multiple tributaries merge into downstream channels,integrating diverse upstream hydrological..."
+            },
+            {
+                "title": "BehaviorBench: Modeling Real-World User Decisions from Behavioral Traces",
+                "link": "https://arxiv.org/abs/2606.02798",
+                "summary": "arXiv:2606.02798v1 Announce Type: new \nAbstract: Many decision-support settings require systems that adapt to individual users, but evaluation data for this problem remain limited. Existing benchmarks..."
+            },
+            {
+                "title": "ChatHealthAI: Aligning Electronic Health Record Representations with Large Language Models for Grounded Clinical Reasoning",
+                "link": "https://arxiv.org/abs/2606.02802",
+                "summary": "arXiv:2606.02802v1 Announce Type: new \nAbstract: Large language models (LLMs) exhibit strong natural-language reasoning abilities for clinical decision support, but struggle to effectively model struc..."
+            }
+        ],
+        "Practitioner": [
+            {
+                "title": "Uber's $1,500/Month AI Limit Is a Useful Signal for AI Tool Pricing",
+                "link": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/",
+                "summary": "..."
+            },
+            {
+                "title": "Goldman Sachs CEO says markets in 'greed' mode as AI companies seek billions",
+                "link": "https://www.cnbc.com/2026/06/02/goldman-ceo-david-solomon-greed-mode-ai-firms-ipos.html",
+                "summary": "..."
+            },
+            {
+                "title": "Introducing Search Generative AI Performance Reports in Google Search Console",
+                "link": "https://developers.google.com/search/blog/2026/06/gen-ai-performance-reports",
+                "summary": "..."
+            },
+            {
+                "title": "Show HN: VNN \u2013 AI news aggregator that verifies every source live",
+                "link": "https://vnn.valyrian.tech",
+                "summary": "..."
+            },
+            {
+                "title": "The interface for AI hasn't been invented yet",
+                "link": "https://adaptivesoftware.substack.com/p/the-interface-for-ai-hasnt-been-invented",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
