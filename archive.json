@@ -6398,5 +6398,36 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-06-04": {
+        "Research": [
+            {
+                "title": "Toward Pre-Deployment Assurance for Enterprise AI Agents: Ontology-Grounded Simulation and Trust Certification",
+                "link": "https://arxiv.org/abs/2606.04037",
+                "summary": "arXiv:2606.04037v1 Announce Type: new \nAbstract: Pre-deployment verification of enterprise artificial intelligence (AI) agents remains a critical gap between large language model (LLM) capability benc..."
+            },
+            {
+                "title": "Stumbling Into AI Emotional Dependence: How Routine AI Interactions Reshape Human Connection",
+                "link": "https://arxiv.org/abs/2606.04150",
+                "summary": "arXiv:2606.04150v1 Announce Type: new \nAbstract: Public discourse and emerging policy typically assume that AI emotional support is a deliberate act: a lonely user consciously seeking comfort from a d..."
+            },
+            {
+                "title": "Thinking Through Signs: PEEL as a Semiotic Scaffolding for Epistemically Accountable AI-Enabled Research",
+                "link": "https://arxiv.org/abs/2606.04152",
+                "summary": "arXiv:2606.04152v1 Announce Type: new \nAbstract: Large language models are reshaping research practice while quietly eroding researchers epistemic accountability. This commentary introduces PEEL - Pro..."
+            },
+            {
+                "title": "SMAC-Talk: A Natural Language Extension of the StarCraft Multi-Agent Challenge for Large Language Models",
+                "link": "https://arxiv.org/abs/2606.04202",
+                "summary": "arXiv:2606.04202v1 Announce Type: new \nAbstract: As LLMs become more widely deployed, they are increasingly expected to work alongside other AI agents rather than operating in isolation. Effective coo..."
+            },
+            {
+                "title": "Consensus is Strategically Insufficient: Reasoning-Trace Disagreement as a Knowledge-Representation Signal",
+                "link": "https://arxiv.org/abs/2606.04223",
+                "summary": "arXiv:2606.04223v1 Announce Type: new \nAbstract: Multi-agent systems are commonly designed to reduce disagreement through voting, consensus protocols, debate, or fault-tolerant aggregation. We argue t..."
+            }
+        ],
+        "Practitioner": [],
+        "Prompting": []
     }
 }
