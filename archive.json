@@ -6460,5 +6460,62 @@
         ],
         "Practitioner": [],
         "Prompting": []
+    },
+    "2026-06-06": {
+        "Research": [
+            {
+                "title": "How Far Did They Go? The Persuasive Tactics of Covert LLM Agents in a Discontinued Field Experiment",
+                "link": "https://arxiv.org/abs/2606.05256",
+                "summary": "arXiv:2606.05256v1 Announce Type: new \nAbstract: This study analyzes a publicly released dataset from a discontinued field experiment on Reddit's r/ChangeMyView. The intervention, conducted by unknown..."
+            },
+            {
+                "title": "What Should Agents Say? Action-state Communication for Efficient Multi-Agent Systems",
+                "link": "https://arxiv.org/abs/2606.05304",
+                "summary": "arXiv:2606.05304v1 Announce Type: new \nAbstract: Multi-agent systems (MAS) built on large language models are typically organized around roles, pipelines, and turn schedules, while the content that ag..."
+            },
+            {
+                "title": "I Know What You Meme, Even If it Emerged Today: Understanding Evolving Memes through Open-World Knowledge Acquisition",
+                "link": "https://arxiv.org/abs/2606.05316",
+                "summary": "arXiv:2606.05316v1 Announce Type: new \nAbstract: Multimodal memes are dynamic and often require up to date background knowledge for interpretation. Existing methods often overlook such knowledge or re..."
+            },
+            {
+                "title": "GITCO: Gated Inference-Time Context Optimization in TSFMs",
+                "link": "https://arxiv.org/abs/2606.05332",
+                "summary": "arXiv:2606.05332v1 Announce Type: new \nAbstract: Patch-based Time Series Foundation Models (TSFMs) suffer from context poisoning: structurally anomalous patches capture disproportionate attention and ..."
+            },
+            {
+                "title": "Uncertainty Aware Functional Behavior Prediction and Material Fatigue Assessment for Circular Factory",
+                "link": "https://arxiv.org/abs/2606.05334",
+                "summary": "arXiv:2606.05334v1 Announce Type: new \nAbstract: Returned products in circular factories re-enter production with heterogeneous degradation states, usage histories, and remaining capability. Reuse can..."
+            }
+        ],
+        "Practitioner": [
+            {
+                "title": "The AI Layoff Trap and its UBI economic model",
+                "link": "https://briefing.forwardfuture.ai/p/economists-just-proved-ubi-can-t-stop-ai-layoffs-here-s-what-they-actually-proved",
+                "summary": "..."
+            },
+            {
+                "title": "UK banks blocked from cyber AI tool Mythos get offer from rival OpenAI",
+                "link": "https://www.bbc.com/news/articles/cm2p3j6lvn7o",
+                "summary": "..."
+            },
+            {
+                "title": "Show HN: Akmon, verify what an AI agent did offline using only OpenSSL",
+                "link": "https://github.com/radotsvetkov/akmon",
+                "summary": "..."
+            },
+            {
+                "title": "Tell HN: Pearl's \"useful\" PoW AI mining is vaporware",
+                "link": "https://news.ycombinator.com/item?id=48422809",
+                "summary": "..."
+            },
+            {
+                "title": "Let us replace community with AI",
+                "link": "https://marketplace.visualstudio.com/items?itemName=christianalfoni.stackoverflow-ai",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
