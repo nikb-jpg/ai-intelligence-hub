@@ -6517,5 +6517,36 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-06-07": {
+        "Research": [],
+        "Practitioner": [
+            {
+                "title": "Automated QA and Testing with AI",
+                "link": "https://antirez.com/news/168",
+                "summary": "..."
+            },
+            {
+                "title": "An AI Story Just Won the Commonwealth Short Story Prize",
+                "link": "https://tumbleweedwords.com/ai-literary-prize-flash-fiction.html",
+                "summary": "..."
+            },
+            {
+                "title": "Klarna CMO created an AI \"venting machine\" of himself",
+                "link": "https://www.businessinsider.com/klarna-cmo-built-ai-replica-himself-colleagues-vent-at-2026-5",
+                "summary": "..."
+            },
+            {
+                "title": "What we know about the plan to give Americans an equity stake in AI",
+                "link": "https://www.ft.com/content/8559a3f9-86de-4a1c-8a75-6623e83e6a00",
+                "summary": "..."
+            },
+            {
+                "title": "AI Memory Fails Spectacularly: 95% Error Rate Unveiled",
+                "link": "https://www.machinebrief.com/news/ai-memory-fails-spectacularly-95percent-error-rate-unveiled-ewj0",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
