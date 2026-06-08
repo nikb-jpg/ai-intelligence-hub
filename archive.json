@@ -6548,5 +6548,62 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-06-08": {
+        "Research": [
+            {
+                "title": "Detecting and Mitigating Bias by Treating Fairness as a Symmetry Operation",
+                "link": "https://arxiv.org/abs/2606.06514",
+                "summary": "arXiv:2606.06514v1 Announce Type: new \nAbstract: Machine learning systems deployed in high stakes socioeconomic settings routinely display bias. We formalize bias as a symmetry breaking operation: a c..."
+            },
+            {
+                "title": "DiBS: Diffusion-Informed Branch Selection",
+                "link": "https://arxiv.org/abs/2606.06518",
+                "summary": "arXiv:2606.06518v1 Announce Type: new \nAbstract: Sudoku is a representative constraint satisfaction problem that requires global structural reasoning under strict discrete constraints. The existing wo..."
+            },
+            {
+                "title": "SafeGene: Reusable Adapters for Transferable Safety Alignment",
+                "link": "https://arxiv.org/abs/2606.06519",
+                "summary": "arXiv:2606.06519v1 Announce Type: new \nAbstract: Open-weight LLMs are increasingly fine-tuned into customized assistants, but downstream fine-tuning can weaken safety alignment and make models more vu..."
+            },
+            {
+                "title": "Lean4Agent: Formal Modeling and Verification for Agent Workflow and Trajectory",
+                "link": "https://arxiv.org/abs/2606.06523",
+                "summary": "arXiv:2606.06523v1 Announce Type: new \nAbstract: Equipping Large Language Models (LLMs) to execute reliable multi-step workflows has become a central challenge in artificial intelligence. Despite rece..."
+            },
+            {
+                "title": "CrowdMath: A Dataset of Crowdsourced Mathematical Research Discussions",
+                "link": "https://arxiv.org/abs/2606.06526",
+                "summary": "arXiv:2606.06526v1 Announce Type: new \nAbstract: Large language models have made substantial progress on mathematical reasoning, but existing benchmarks typically evaluate well-specified problems with..."
+            }
+        ],
+        "Practitioner": [
+            {
+                "title": "Democrats Unveil Flood of AI Proposals in Potential Challenge to Tech Giants",
+                "link": "https://www.wsj.com/tech/ai/democrats-unveil-flood-of-ai-proposals-in-potential-challenge-to-tech-giants-16819bfc",
+                "summary": "..."
+            },
+            {
+                "title": "AI Agents Can't Help with Intent Debt",
+                "link": "https://addyosmani.com/blog/intent-debt/",
+                "summary": "..."
+            },
+            {
+                "title": "Ask HN: Any good language learning apps/sites that don't use LLMs/GenAI?",
+                "link": "https://news.ycombinator.com/item?id=48444372",
+                "summary": "..."
+            },
+            {
+                "title": "Profitable AI UGC Ads for Meta and TikTok",
+                "link": "https://anivision.ai/",
+                "summary": "..."
+            },
+            {
+                "title": "The Environmental Cost of AI: Carbon, Water, and Land Footprints",
+                "link": "https://unu.edu/inweh/collection/environmental-cost-of-AIs-Enrgy-Use-Carbon-water-and-land-footprints",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
