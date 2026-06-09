@@ -6605,5 +6605,62 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-06-09": {
+        "Research": [
+            {
+                "title": "PathoSage: Towards Multi-Source Evidence Adjudication in Pathology via Experience-Aware Agentic Workflow",
+                "link": "https://arxiv.org/abs/2606.07549",
+                "summary": "arXiv:2606.07549v1 Announce Type: new \nAbstract: Recent advances in Multimodal Large Language Models (MLLMs) and agent workflows have shown strong promise for computational pathology, yet reliable pat..."
+            },
+            {
+                "title": "OmniMem: Perturbation-aware Memory Compression for Streaming Audio-Visual LLMs",
+                "link": "https://arxiv.org/abs/2606.07577",
+                "summary": "arXiv:2606.07577v1 Announce Type: new \nAbstract: Audio-visual large language models (LLMs) hold strong promise for long-form video understanding, yet their long-video inference is fundamentally limite..."
+            },
+            {
+                "title": "Syll: Open-Source Personal Automation with Cross-Surface Execution",
+                "link": "https://arxiv.org/abs/2606.07594",
+                "summary": "arXiv:2606.07594v1 Announce Type: new \nAbstract: Personal AI agents must increasingly operate across APIs, shells, web surfaces, and desktop GUIs, yet many systems remain tuned to a single interface a..."
+            },
+            {
+                "title": "A case study of evaluating AI agents on a neuroscience data-to-discovery pipeline",
+                "link": "https://arxiv.org/abs/2606.07718",
+                "summary": "arXiv:2606.07718v1 Announce Type: new \nAbstract: Agentic AI tools offer a promising path to automating software development bottlenecks in scientific research pipelines, particularly for stages that t..."
+            },
+            {
+                "title": "Why Limit the Residual Stream to Layers and Not Tokens? Persistent Memory for Continuous Latent Reasoning",
+                "link": "https://arxiv.org/abs/2606.07720",
+                "summary": "arXiv:2606.07720v1 Announce Type: new \nAbstract: Large language models (LLMs) have demonstrated remarkable reasoning abilities on mathematical and multi-hop planning tasks. The CoCoNuT (Chain of Conti..."
+            }
+        ],
+        "Practitioner": [
+            {
+                "title": "Hades: The malware that lies to AI security agents",
+                "link": "https://www.infoworld.com/article/4182692/meet-hades-the-malware-that-lies-to-ai-security-agents.html",
+                "summary": "..."
+            },
+            {
+                "title": "Record Conflicts Drive Peace to Historic Low as AI Warfare Surges",
+                "link": "https://www.visionofhumanity.org/record-conflicts-drive-peace-to-historic-low-as-ai-warfare-surges/",
+                "summary": "..."
+            },
+            {
+                "title": "How We Built Automatic Invoice Reconciliation Without AI",
+                "link": "https://usecycle.co/blog/zero-reconcilation-for-invoices",
+                "summary": "..."
+            },
+            {
+                "title": "The emerging AI x TechBio stack (120 companies mapped)",
+                "link": "https://mmc.vc/research/ai-x-techbio-featuring-the-future-of-drug-discovery/",
+                "summary": "..."
+            },
+            {
+                "title": "CoAnalyst360 Multi-Agent AI Platform for Investigative Questions",
+                "link": "https://www.penlink.com/press-release/coanalyst360-launch/",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
