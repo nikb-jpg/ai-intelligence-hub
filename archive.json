@@ -6662,5 +6662,36 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-06-10": {
+        "Research": [
+            {
+                "title": "Business World Model",
+                "link": "https://arxiv.org/abs/2606.10044",
+                "summary": "arXiv:2606.10044v1 Announce Type: new \nAbstract: Businesses are increasingly adopting AI-enabled tools to improve productivity, reduce costs, and enhance products and services. However, the transforma..."
+            },
+            {
+                "title": "Deployment-Time Memorization in Foundation-Model Agents",
+                "link": "https://arxiv.org/abs/2606.10062",
+                "summary": "arXiv:2606.10062v1 Announce Type: new \nAbstract: Foundation-model agents are increasingly long-lived systems that remember users across interactions, making memorization an explicit deployment-time fu..."
+            },
+            {
+                "title": "Exploratory Responsiveness and Adaptive Rigidity under AI-Assisted Optimization",
+                "link": "https://arxiv.org/abs/2606.10086",
+                "summary": "arXiv:2606.10086v1 Announce Type: new \nAbstract: This paper develops a theory of exploratory adaptation under AI-assisted optimization. The central argument is that the long-run adaptive effects of AI..."
+            },
+            {
+                "title": "Predictive Assistance and the Temporal Dynamics of Exploratory Compression",
+                "link": "https://arxiv.org/abs/2606.10094",
+                "summary": "arXiv:2606.10094v1 Announce Type: new \nAbstract: Classical theories of cognition describe problem solving as exploratory search through structured problem spaces in which repeated interaction graduall..."
+            },
+            {
+                "title": "From Senses to Decisions: The Information Flow of Auditory and Visual Perception in Multimodal LLMs",
+                "link": "https://arxiv.org/abs/2606.10147",
+                "summary": "arXiv:2606.10147v1 Announce Type: new \nAbstract: Multimodal Large Language Models (MLLMs) can listen and see, but how do audio and visual signals actually travel through the network to shape an answer..."
+            }
+        ],
+        "Practitioner": [],
+        "Prompting": []
     }
 }
