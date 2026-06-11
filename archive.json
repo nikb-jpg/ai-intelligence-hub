@@ -6693,5 +6693,36 @@
         ],
         "Practitioner": [],
         "Prompting": []
+    },
+    "2026-06-11": {
+        "Research": [
+            {
+                "title": "From Explicit Elements to Implicit Intent: A Predefined Library for Auditable Behavioral Inference",
+                "link": "https://arxiv.org/abs/2606.11207",
+                "summary": "arXiv:2606.11207v1 Announce Type: new \nAbstract: We present SemantiClean, a modular framework for extracting structured semantic signals from e-commerce session data and driving pluggable inference ta..."
+            },
+            {
+                "title": "Position: Hippocampal Explicit Memory Is the Cornerstone for AGI",
+                "link": "https://arxiv.org/abs/2606.11245",
+                "summary": "arXiv:2606.11245v1 Announce Type: new \nAbstract: Large Language Models (LLMs) have demonstrated remarkable capabilities across various tasks, raising expectations for Artificial General Intelligence (..."
+            },
+            {
+                "title": "Can AI Agents Synthesize Scientific Conclusions?",
+                "link": "https://arxiv.org/abs/2606.11337",
+                "summary": "arXiv:2606.11337v1 Announce Type: new \nAbstract: Scientific AI agents increasingly retrieve evidence, reason across sources, and synthesize conclusions used in consequential decisions. Yet, their abil..."
+            },
+            {
+                "title": "Knowing When to Ask: Self-Gated Clarification for Hierarchical Language Agents",
+                "link": "https://arxiv.org/abs/2606.11349",
+                "summary": "arXiv:2606.11349v1 Announce Type: new \nAbstract: In hierarchical reasoning, failures often originate at intermediate decision points where the agent commits to a wrong branch without recognizing that ..."
+            },
+            {
+                "title": "Automated Mediator for Human Negotiation: Pre-Mediation via a Structured LLM Pipeline",
+                "link": "https://arxiv.org/abs/2606.11379",
+                "summary": "arXiv:2606.11379v1 Announce Type: new \nAbstract: Pre-mediation, the preparatory phase preceding direct human negotiation, plays a critical role in achieving mutually beneficial agreements, yet is ofte..."
+            }
+        ],
+        "Practitioner": [],
+        "Prompting": []
     }
 }
