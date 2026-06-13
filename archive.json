@@ -6755,5 +6755,36 @@
         ],
         "Practitioner": [],
         "Prompting": []
+    },
+    "2026-06-13": {
+        "Research": [],
+        "Practitioner": [
+            {
+                "title": "Zuckerberg says Meta made 'mistakes' in AI workforce shift",
+                "link": "https://www.reuters.com/business/metas-zuckerberg-admits-mistakes-made-ai-transformation-2026-06-12/",
+                "summary": "..."
+            },
+            {
+                "title": "Show HN: Paca \u2013 Lightweight Jira alternative for human-AI collaboration",
+                "link": "https://github.com/Paca-AI/paca",
+                "summary": "..."
+            },
+            {
+                "title": "The five pillars of the post-AI interview",
+                "link": "https://carette.xyz/posts/the_five_pillars_of_post_ai_interview/",
+                "summary": "..."
+            },
+            {
+                "title": "The PM Trap: AI Won't Turn Engineers into Managers",
+                "link": "https://carette.xyz/posts/the_mud_and_the_mind/",
+                "summary": "..."
+            },
+            {
+                "title": "What Would It Look Like If the AI Bubble Popped?",
+                "link": "https://www.thebignewsletter.com/p/what-would-it-look-like-if-the-ai",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
