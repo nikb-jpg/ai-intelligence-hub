@@ -6786,5 +6786,36 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-06-14": {
+        "Research": [],
+        "Practitioner": [
+            {
+                "title": "Show HN: Velyr \u2013 an AI agent that finds and fixes conversion leaks on your site",
+                "link": "https://velyr.io/",
+                "summary": "..."
+            },
+            {
+                "title": "Ask HN: What problem did AI create at your company that didn't exist before?",
+                "link": "https://news.ycombinator.com/item?id=48525718",
+                "summary": "..."
+            },
+            {
+                "title": "It Is Beginning: AI Improves Itself (auth: Sabine Hossenfelder) (+abridgement)",
+                "link": "https://www.youtube.com/watch?v=QADKN3hantI",
+                "summary": "..."
+            },
+            {
+                "title": "Repo-Slopscore: Detecting AI Contributions in Git Repositories via Commit",
+                "link": "https://slopscan.ava.pet/",
+                "summary": "..."
+            },
+            {
+                "title": "ExpensePal - AI expense tracker & budget planner",
+                "link": "https://play.google.com/store/apps/details?id=com.expenseiq.app&hl=en_US",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
