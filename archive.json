@@ -6817,5 +6817,62 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-06-15": {
+        "Research": [
+            {
+                "title": "A Deep Reinforcement Learning (DRL)-Based Transformer Method for Solving the Open Shop Scheduling Problem",
+                "link": "https://arxiv.org/abs/2606.13682",
+                "summary": "arXiv:2606.13682v1 Announce Type: new \nAbstract: The open shop scheduling problem (OSSP) arises in many industrial and service settings but remains computationally challenging as the number of jobs an..."
+            },
+            {
+                "title": "UP-NRPA: User Portrait based Nested Rollout Policy Adaptation for Planning with Large Language Models in Goal-oriented Dialogue Systems",
+                "link": "https://arxiv.org/abs/2606.13683",
+                "summary": "arXiv:2606.13683v1 Announce Type: new \nAbstract: To address the challenge that current dialogue policy planning methods struggle to dynamically adapt to diverse user characteristics, this paper propos..."
+            },
+            {
+                "title": "History of the Muddy Children Puzzle",
+                "link": "https://arxiv.org/abs/2606.13703",
+                "summary": "arXiv:2606.13703v1 Announce Type: new \nAbstract: The Muddy Children Puzzle is a puzzle about knowledge and ignorance that has been inspiring for the development of epistemic logic. Who came up with it..."
+            },
+            {
+                "title": "Orchestra-o1: Omnimodal Agent Orchestration",
+                "link": "https://arxiv.org/abs/2606.13707",
+                "summary": "arXiv:2606.13707v1 Announce Type: new \nAbstract: The recent success of agent swarms has shifted the paradigm of large language model (LLM)-based agents from single-agent workflows to multi-agent syste..."
+            },
+            {
+                "title": "Hybrid Open-Ended Tri-Evolution Makes Better Deep Researcher",
+                "link": "https://arxiv.org/abs/2606.13710",
+                "summary": "arXiv:2606.13710v1 Announce Type: new \nAbstract: Deep research and agent evolution serve as de-facto tasks for AI agents in real-world applications toward artificial general intelligence. The former e..."
+            }
+        ],
+        "Practitioner": [
+            {
+                "title": "AI Supercharges Deepfake Nudes\u2013Unleashing a New Form of Bullying Among Kids",
+                "link": "https://www.wsj.com/tech/ai-deepfake-nudes-bullying-school-d242b8d4",
+                "summary": "..."
+            },
+            {
+                "title": "Observability tools weren't built for AI debugging",
+                "link": "https://leaddev.com/ai/observability-tools-werent-built-for-ai-debugging",
+                "summary": "..."
+            },
+            {
+                "title": "The next AI challenge is profitability",
+                "link": "https://www.businessage.com/post/the-next-ai-challenge-is-profitability",
+                "summary": "..."
+            },
+            {
+                "title": "India, UAE partner on AI sovereignty to bypass Google, Microsoft",
+                "link": "https://restofworld.org/2026/india-uae-g42-cerebras-ai-sovereignty/",
+                "summary": "..."
+            },
+            {
+                "title": "AI Can Reverse-Engineer Hardware. I Can't Turn Off My Own Alarm",
+                "link": "https://www.sudomoin.com/p/ai-can-reverse-engineer-hardware-i-can-t-turn-off-my-own-alarm",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
