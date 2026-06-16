@@ -6874,5 +6874,36 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-06-16": {
+        "Research": [
+            {
+                "title": "A Definition of Good Explanations and the Challenges Explaining LLM Outputs",
+                "link": "https://arxiv.org/abs/2606.14838",
+                "summary": "arXiv:2606.14838v1 Announce Type: new \nAbstract: How to define a good explanation is a long-standing philosophical debate which has found recent renewed interest in the context of AI outputs. Explaina..."
+            },
+            {
+                "title": "Dr-DCI: Scaling Direct Corpus Interaction via Dynamic Workspace Expansion",
+                "link": "https://arxiv.org/abs/2606.14885",
+                "summary": "arXiv:2606.14885v1 Announce Type: new \nAbstract: Agentic search over large corpora relies on retriever-mediated interfaces (e.g., BM25 or ColBERT) for scalable candidate discovery. While effective at ..."
+            },
+            {
+                "title": "Relational Structural Causal Models",
+                "link": "https://arxiv.org/abs/2606.14892",
+                "summary": "arXiv:2606.14892v1 Announce Type: new \nAbstract: An artificial intelligence must have a model of its environment that is causal, supporting reasoning about interventions and counterfactuals, and also ..."
+            },
+            {
+                "title": "Trust Between AI Agents: Measuring Formation, Breakage, and Recovery, with Implications for Governing Multi-Agent Systems",
+                "link": "https://arxiv.org/abs/2606.14923",
+                "summary": "arXiv:2606.14923v1 Announce Type: new \nAbstract: As language-model agents increasingly work in teams, each agent must decide how much to trust its teammates. Yet we lack a standard way to measure trus..."
+            },
+            {
+                "title": "PrologMCP: A Standardized Prolog Tool Interface for LLM Agents",
+                "link": "https://arxiv.org/abs/2606.14935",
+                "summary": "arXiv:2606.14935v1 Announce Type: new \nAbstract: Frontier reasoning-tuned language models still fail on deductive tasks at depth, and the cost of improved performance through extended internal reasoni..."
+            }
+        ],
+        "Practitioner": [],
+        "Prompting": []
     }
 }
