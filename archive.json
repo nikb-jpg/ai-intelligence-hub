@@ -6905,5 +6905,36 @@
         ],
         "Practitioner": [],
         "Prompting": []
+    },
+    "2026-06-17": {
+        "Research": [
+            {
+                "title": "Beyond Parallel Sampling: Diverse Query Initialization for Agentic Search",
+                "link": "https://arxiv.org/abs/2606.17209",
+                "summary": "arXiv:2606.17209v1 Announce Type: new \nAbstract: Test-time scaling for agentic search typically increases depth (i.e., more turns and tokens per trajectory) or breadth (i.e., more parallel rollouts). ..."
+            },
+            {
+                "title": "When Rules Learn: A Self-Evolving Agent for Legal Case Retrieval",
+                "link": "https://arxiv.org/abs/2606.17220",
+                "summary": "arXiv:2606.17220v1 Announce Type: new \nAbstract: Legal case retrieval remains challenging due to the complexity of legal language and the need for precise lexical alignment between queries and relevan..."
+            },
+            {
+                "title": "SkillChain-Gym: A Benchmark for Reskilling-Aware Production-Inventory Control under Disruptions",
+                "link": "https://arxiv.org/abs/2606.17266",
+                "summary": "arXiv:2606.17266v1 Announce Type: new \nAbstract: Production planning increasingly has to treat workforce capability as a decision variable: certifications lapse when skills are not maintained, new pro..."
+            },
+            {
+                "title": "Skill-Constrained Model Predictive Control for Resilient Manufacturing Supply Chains",
+                "link": "https://arxiv.org/abs/2606.17269",
+                "summary": "arXiv:2606.17269v1 Announce Type: new \nAbstract: In skill-constrained production-inventory systems, the qualified human capacity available tomorrow depends on training decisions made today: production..."
+            },
+            {
+                "title": "Nothing from Something: Can a Language Model Discover 0?",
+                "link": "https://arxiv.org/abs/2606.17289",
+                "summary": "arXiv:2606.17289v1 Announce Type: new \nAbstract: AI systems based on artificial neural networks are being developed with aspirations of pushing the boundary of human mathematical knowledge. A key ques..."
+            }
+        ],
+        "Practitioner": [],
+        "Prompting": []
     }
 }
