@@ -6936,5 +6936,62 @@
         ],
         "Practitioner": [],
         "Prompting": []
+    },
+    "2026-06-18": {
+        "Research": [
+            {
+                "title": "NAVI-Orbital: First In-Orbit Demonstration of a Zero-Shot Vision-Language Model for Autonomous Earth Observation",
+                "link": "https://arxiv.org/abs/2606.18271",
+                "summary": "arXiv:2606.18271v1 Announce Type: new \nAbstract: As Earth Observation data generation outpaces downlink bandwidth and human-in-the-loop processing, a widening gap has emerged between onboard collectio..."
+            },
+            {
+                "title": "CaVe-VLM-CoT: An Interpretable Vision-Language Model Framework",
+                "link": "https://arxiv.org/abs/2606.18385",
+                "summary": "arXiv:2606.18385v1 Announce Type: new \nAbstract: Vision-Language Models (VLMs) remain prone to hallucinations, producing fluent but visually unfaithful outputs. Existing chain-of-thought and retrieval..."
+            },
+            {
+                "title": "Searching for Synergy in Shared Workspace Human-AI Collaboration",
+                "link": "https://arxiv.org/abs/2606.18413",
+                "summary": "arXiv:2606.18413v1 Announce Type: new \nAbstract: Automated AI agents are increasingly capable, yet many scientific and professional tasks require human judgment and contextual expertise. We study shar..."
+            },
+            {
+                "title": "CEO-Bench: Can Agents Play the Long Game?",
+                "link": "https://arxiv.org/abs/2606.18543",
+                "summary": "arXiv:2606.18543v1 Announce Type: new \nAbstract: Language model agents are becoming proficient executors at isolated, short-horizon tasks such as software engineering and customer service. Yet real-wo..."
+            },
+            {
+                "title": "DeFAb: A Verifiable Benchmark for Defeasible Abduction in Foundation Models",
+                "link": "https://arxiv.org/abs/2606.18557",
+                "summary": "arXiv:2606.18557v1 Announce Type: new \nAbstract: A rule-based logic solver resolves every instance in our benchmark in under 50 microseconds with 100% accuracy; the best frontier language model reache..."
+            }
+        ],
+        "Practitioner": [
+            {
+                "title": "Towards Conversational AI for Disease Management",
+                "link": "https://www.nature.com/articles/s41586-026-10764-5",
+                "summary": "..."
+            },
+            {
+                "title": "SlopTacker: The AI Streaming Drain",
+                "link": "https://sloptracker.org",
+                "summary": "..."
+            },
+            {
+                "title": "Ruby 4.0 Is Here. Why Is AI Still Writing Ruby 3.0?",
+                "link": "https://rubystacknews.com/2026/06/17/ruby-4-0-is-here-why-is-ai-still-writing-ruby-3-0/",
+                "summary": "..."
+            },
+            {
+                "title": "Show HN: Khwand \u2013 self-healing CI/CD for AI agents (GitHub App, Python-first)",
+                "link": "https://wwww.khwand.com",
+                "summary": "..."
+            },
+            {
+                "title": "An Interview with Michael Morton About E-Commerce in the Age of AI",
+                "link": "https://stratechery.com/2026/an-interview-with-michael-morton-about-e-commerce-in-the-age-of-ai/",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
