@@ -7024,5 +7024,62 @@
         ],
         "Practitioner": [],
         "Prompting": []
+    },
+    "2026-06-20": {
+        "Research": [
+            {
+                "title": "Deontic Policies for Runtime Governance of Agentic AI Systems",
+                "link": "https://arxiv.org/abs/2606.19464",
+                "summary": "arXiv:2606.19464v1 Announce Type: new \nAbstract: Autonomous agentic AI systems driven by Large Language Models (LLMs) introduce a new class of security, privacy, and compliance challenges: an agent th..."
+            },
+            {
+                "title": "Measuring Curriculum Alignment across Topical Coverage, Competency, and Cognitive Depth: A Longitudinal Framework Applied to CS2013 and CS2023",
+                "link": "https://arxiv.org/abs/2606.19469",
+                "summary": "arXiv:2606.19469v1 Announce Type: new \nAbstract: Undergraduate computer science is governed by international curricular guidelines revised about once a decade, yet programs lack a reliable, reproducib..."
+            },
+            {
+                "title": "Diffusion Language Models: An Experimental Analysis",
+                "link": "https://arxiv.org/abs/2606.19475",
+                "summary": "arXiv:2606.19475v1 Announce Type: new \nAbstract: Large Language Models (LLMs) have revolutionized language modeling through autoregressive generation, enabling strong performance across a wide range o..."
+            },
+            {
+                "title": "Hidden Anchors in Multi-Agent LLM Deliberation",
+                "link": "https://arxiv.org/abs/2606.19494",
+                "summary": "arXiv:2606.19494v1 Announce Type: new \nAbstract: Multi-agent LLM deliberation, where agents exchange and revise answers over several rounds, is increasingly used to improve reasoning and accuracy, yet..."
+            },
+            {
+                "title": "DeXposure-Claw: An Agentic System for DeFi Risk Supervision",
+                "link": "https://arxiv.org/abs/2606.19501",
+                "summary": "arXiv:2606.19501v1 Announce Type: new \nAbstract: Decentralized finance exposes supervisors to fast-moving, networked credit risks. General-purpose LLM agents fit this setting poorly: they over-read we..."
+            }
+        ],
+        "Practitioner": [
+            {
+                "title": "Show HN: Created On-Page SEO Tool \u2013 AI Action Plans for Search Console Data",
+                "link": "https://blogr.ai",
+                "summary": "..."
+            },
+            {
+                "title": "Data Center Warfare: Defending AI Infrastructure",
+                "link": "https://mwi.westpoint.edu/data-center-warfare-defending-the-key-terrain-of-ai-infrastructure/",
+                "summary": "..."
+            },
+            {
+                "title": "Getting Back to Basics by Abusing AI",
+                "link": "https://blog.unitedheroes.net/5752",
+                "summary": "..."
+            },
+            {
+                "title": "Google, Microsoft offer specs to help you prove your AI is behaving nicely",
+                "link": "https://www.cio.com/article/4187280/google-microsoft-offer-specs-to-help-you-prove-your-ai-is-behaving-nicely.html",
+                "summary": "..."
+            },
+            {
+                "title": "Logslim \u2013 compact test/build output before your AI agent reads it",
+                "link": "https://github.com/P156HAM/logslim",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
