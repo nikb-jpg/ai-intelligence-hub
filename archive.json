@@ -7081,5 +7081,36 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-06-21": {
+        "Research": [],
+        "Practitioner": [
+            {
+                "title": "Show HN: Didon \u2013 AI workday reports for productivity analysis",
+                "link": "https://www.didon.app/",
+                "summary": "..."
+            },
+            {
+                "title": "KitaabAI AI book and thesis writer with native Urdu support",
+                "link": "https://kitaabai.com",
+                "summary": "..."
+            },
+            {
+                "title": "Brands using AI-generated influencers to promote products on social media",
+                "link": "https://www.theguardian.com/technology/2026/jun/21/brands-using-ai-generated-influencers-to-promote-products-on-social-media",
+                "summary": "..."
+            },
+            {
+                "title": "What does it mean for AI to be democratic?",
+                "link": "https://blog.andymasley.com/p/what-does-it-mean-for-ai-to-be-democratic",
+                "summary": "..."
+            },
+            {
+                "title": "Form Before Data: The Real Bottleneck for Physical AI",
+                "link": "https://adlrocha.substack.com/p/adlrocha-form-before-data-the-real",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
