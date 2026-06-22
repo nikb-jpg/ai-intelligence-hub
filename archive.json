@@ -7112,5 +7112,36 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-06-22": {
+        "Research": [],
+        "Practitioner": [
+            {
+                "title": "Detent: AI agent orchestration with worktrees and serialized merge train",
+                "link": "https://github.com/digitaldrywood/detent",
+                "summary": "..."
+            },
+            {
+                "title": "GLM-5.2: Another open-source Chinese AI model has Silicon Valley's attention",
+                "link": "https://www.businessinsider.com/what-is-glm-5-2-chinese-ai-coding-model-2026-6",
+                "summary": "..."
+            },
+            {
+                "title": "Is AI More Expensive Than the Employees It's Replacing?",
+                "link": "https://www.profgmedia.com/p/is-ai-more-expensive-than-the-employees",
+                "summary": "..."
+            },
+            {
+                "title": "Google I/O 2026 Mobile Playbook: AI Studio, Android CLI, and Antigravity",
+                "link": "https://geekyants.com/blog/google-io-2026-mobile-playbook-ai-studio-android-cli-and-antigravity-for-app-development",
+                "summary": "..."
+            },
+            {
+                "title": "The Twilight of AI Vampires",
+                "link": "https://essays.cborodescu.com/p/the-twilight-of-ai-vampires",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
