@@ -7174,5 +7174,62 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-06-24": {
+        "Research": [
+            {
+                "title": "RIFT-Bench: Dynamic Red-teaming For Agentic AI Systems",
+                "link": "https://arxiv.org/abs/2606.23927",
+                "summary": "arXiv:2606.23927v1 Announce Type: new \nAbstract: Agentic AI systems powered by large language models (LLMs) are rapidly evolving into autonomous decision-making systems, exposing attack vectors beyond..."
+            },
+            {
+                "title": "Neuro-Symbolic Drive: Rule-Grounded Faithful Reasoning for Driving VLAs",
+                "link": "https://arxiv.org/abs/2606.23938",
+                "summary": "arXiv:2606.23938v1 Announce Type: new \nAbstract: Driving VLA models incorporating Chain-of-Thought (CoT) reasoning are attractive because they leverage pretrained VLM representations and expose interm..."
+            },
+            {
+                "title": "Critique of Agent Model",
+                "link": "https://arxiv.org/abs/2606.23991",
+                "summary": "arXiv:2606.23991v1 Announce Type: new \nAbstract: What is an agent? What constitutes agency? With the rise of Large Language Model (LLM) systems marketed as ``coding agents'', ``AI co-scientists'', and..."
+            },
+            {
+                "title": "Safe and Generalizable Hierarchical Multi-Agent RL via Constraint Manifold Control",
+                "link": "https://arxiv.org/abs/2606.24010",
+                "summary": "arXiv:2606.24010v1 Announce Type: new \nAbstract: Multi-agent systems are widely used in safety-critical applications that require coordinated behavior under strict safety constraints. Existing approac..."
+            },
+            {
+                "title": "Reinforcement Learning Towards Broadly and Persistently Beneficial Models",
+                "link": "https://arxiv.org/abs/2606.24014",
+                "summary": "arXiv:2606.24014v1 Announce Type: new \nAbstract: As AI systems are deployed across increasingly diverse and high-stakes settings, model alignment must generalize beyond the tasks and domains seen duri..."
+            }
+        ],
+        "Practitioner": [
+            {
+                "title": "Show HN: Execlave \u2013 AI Agent Management Platform for Governance and Enforcement",
+                "link": "https://www.execlave.com",
+                "summary": "..."
+            },
+            {
+                "title": "Giving AI human-like memory limits (3\u20137 words) could improve language learning",
+                "link": "https://www.mpi.nl/news/new-study-finds-forgetting-may-be-secret-better-ai-language-learning",
+                "summary": "..."
+            },
+            {
+                "title": "Execlave vs. Credo AI: honest technical comparison",
+                "link": "https://www.execlave.com/blog/execlave-vs-credo-ai",
+                "summary": "..."
+            },
+            {
+                "title": "AI is learning to read the room",
+                "link": "https://spectrum.ieee.org/emotion-ai-context",
+                "summary": "..."
+            },
+            {
+                "title": "What Is an AI Agent Management Platform (AMP)?",
+                "link": "https://www.execlave.com/blog/what-is-an-ai-agent-management-platform",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
