@@ -7231,5 +7231,62 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-06-25": {
+        "Research": [
+            {
+                "title": "RIFT-Bench: Dynamic Red-teaming For Agentic AI Systems",
+                "link": "https://arxiv.org/abs/2606.23927",
+                "summary": "arXiv:2606.23927v1 Announce Type: new \nAbstract: Agentic AI systems powered by large language models (LLMs) are rapidly evolving into autonomous decision-making systems, exposing attack vectors beyond..."
+            },
+            {
+                "title": "Neuro-Symbolic Drive: Rule-Grounded Faithful Reasoning for Driving VLAs",
+                "link": "https://arxiv.org/abs/2606.23938",
+                "summary": "arXiv:2606.23938v1 Announce Type: new \nAbstract: Driving VLA models incorporating Chain-of-Thought (CoT) reasoning are attractive because they leverage pretrained VLM representations and expose interm..."
+            },
+            {
+                "title": "Critique of Agent Model",
+                "link": "https://arxiv.org/abs/2606.23991",
+                "summary": "arXiv:2606.23991v1 Announce Type: new \nAbstract: What is an agent? What constitutes agency? With the rise of Large Language Model (LLM) systems marketed as ``coding agents'', ``AI co-scientists'', and..."
+            },
+            {
+                "title": "Safe and Generalizable Hierarchical Multi-Agent RL via Constraint Manifold Control",
+                "link": "https://arxiv.org/abs/2606.24010",
+                "summary": "arXiv:2606.24010v1 Announce Type: new \nAbstract: Multi-agent systems are widely used in safety-critical applications that require coordinated behavior under strict safety constraints. Existing approac..."
+            },
+            {
+                "title": "Reinforcement Learning Towards Broadly and Persistently Beneficial Models",
+                "link": "https://arxiv.org/abs/2606.24014",
+                "summary": "arXiv:2606.24014v1 Announce Type: new \nAbstract: As AI systems are deployed across increasingly diverse and high-stakes settings, model alignment must generalize beyond the tasks and domains seen duri..."
+            }
+        ],
+        "Practitioner": [
+            {
+                "title": "An Interview with Figma CEO Dylan Field About Design and AI",
+                "link": "https://stratechery.com/2026/an-interview-with-figma-ceo-dylan-field-about-design-and-ai/",
+                "summary": "..."
+            },
+            {
+                "title": "SoftBank's Son calls AI bubble talk an 'insult,' delays retiring",
+                "link": "https://www.taipeitimes.com/News/biz/archives/2026/06/25/2003859680",
+                "summary": "..."
+            },
+            {
+                "title": "Anthropic Claims Alibaba Ran 'Brazen' Campaign to Access Its Claude AI Model",
+                "link": "https://www.wsj.com/tech/ai/anthropic-claims-alibaba-ran-brazen-campaign-to-access-its-claude-ai-model-69d7a392",
+                "summary": "..."
+            },
+            {
+                "title": "Will AI replace technical writers?",
+                "link": "https://willaireplacetechnicalwriters.com/",
+                "summary": "..."
+            },
+            {
+                "title": "The AI Coding Era Makes Boring Tests More Valuable",
+                "link": "https://www.vincentschmalbach.com/the-ai-coding-era-makes-boring-tests-more-valuable/",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
