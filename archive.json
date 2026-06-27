@@ -7319,5 +7319,62 @@
         ],
         "Practitioner": [],
         "Prompting": []
+    },
+    "2026-06-27": {
+        "Research": [
+            {
+                "title": "Detecting and Controlling Sycophancy with Cascading Linear Features",
+                "link": "https://arxiv.org/abs/2606.26155",
+                "summary": "arXiv:2606.26155v1 Announce Type: new \nAbstract: Interpreting and controlling model behaviors through activation steering methods requires many pairs of contrastive samples that clearly exhibit desire..."
+            },
+            {
+                "title": "Life After Benchmark Saturation: A Case Study of CORE-Bench",
+                "link": "https://arxiv.org/abs/2606.26158",
+                "summary": "arXiv:2606.26158v1 Announce Type: new \nAbstract: When a benchmark's accuracy saturates, it is often retired and replaced with a more challenging version. We show that this approach privileges accuracy..."
+            },
+            {
+                "title": "Refusal Lives Downstream of Persona in Chat Models",
+                "link": "https://arxiv.org/abs/2606.26161",
+                "summary": "arXiv:2606.26161v1 Announce Type: new \nAbstract: Linear directions in activation space have been identified for both refusal and persona traits in instruction-tuned chat models, but the two have been ..."
+            },
+            {
+                "title": "AlgoEvolve: LLM-driven Meta-evolution of Algorithmic Trading Programs",
+                "link": "https://arxiv.org/abs/2606.26173",
+                "summary": "arXiv:2606.26173v1 Announce Type: new \nAbstract: Recent work shows that Large Language Models (LLMs) can act as semantic mutation operators for the evolutionary discovery of programs and proofs. Most ..."
+            },
+            {
+                "title": "Agentic Analysis for Agentic Infrastructure: An LLM-Powered Pipeline for Comparative Governance of DAO and Corporate AI Protocols",
+                "link": "https://arxiv.org/abs/2606.26203",
+                "summary": "arXiv:2606.26203v1 Announce Type: new \nAbstract: As AI agent protocols proliferate, the governance structures shaping their interoperability standards remain empirically underexamined. We introduce an..."
+            }
+        ],
+        "Practitioner": [
+            {
+                "title": "What GUI or desktop app do you use to keep track of different AI sessions?",
+                "link": "https://news.ycombinator.com/item?id=48696704",
+                "summary": "..."
+            },
+            {
+                "title": "A debugging story: Learning debugging principles from a production outage",
+                "link": "https://www.iinuwa.xyz/blog/a-debugging-story/",
+                "summary": "..."
+            },
+            {
+                "title": "What Everyone Gets Wrong About AI and Learning [video]",
+                "link": "https://www.youtube.com/watch?v=0xS68sl2D70",
+                "summary": "..."
+            },
+            {
+                "title": "Show HN: Brytlog \u2013 AI logger",
+                "link": "https://github.com/Guy-Sela/brytlog",
+                "summary": "..."
+            },
+            {
+                "title": "The Calculator Discipline \u2013 AI-Assisted Disclosure Hallucinations",
+                "link": "https://zenodo.org/records/20393083",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
