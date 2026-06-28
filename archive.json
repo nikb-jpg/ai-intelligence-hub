@@ -7376,5 +7376,36 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-06-28": {
+        "Research": [],
+        "Practitioner": [
+            {
+                "title": "Software Taste vs. Slop in the Age of AI \u2013 TWSoftwareDev26",
+                "link": "https://blog.herlein.com/post/wisdom-in-specs/",
+                "summary": "..."
+            },
+            {
+                "title": "If You Can Facilitate a Retrospective, You Can Audit Your AI",
+                "link": "https://age-of-product.com/ai-delegation-audit/",
+                "summary": "..."
+            },
+            {
+                "title": "You can now run Max AI models on Apple Silicon",
+                "link": "https://forum.modular.com/t/max-models-can-now-run-on-apple-silicon-gpus/3283",
+                "summary": "..."
+            },
+            {
+                "title": "Google rejects claims of AI in Search hurting web traffic",
+                "link": "https://indianexpress.com/article/technology/artificial-intelligence/google-denies-ai-search-hurting-web-traffic-quality-clicks-10174967/",
+                "summary": "..."
+            },
+            {
+                "title": "The Real Cost of Using AI in 2026",
+                "link": "https://adlrocha.substack.com/p/adlrocha-the-real-cost-of-using-ai",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
