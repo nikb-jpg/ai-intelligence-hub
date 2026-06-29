@@ -7407,5 +7407,62 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-06-29": {
+        "Research": [
+            {
+                "title": "AI-Model Network: Concept, Current State and Future",
+                "link": "https://arxiv.org/abs/2606.27382",
+                "summary": "arXiv:2606.27382v1 Announce Type: new \nAbstract: While the primary function of computers lies in computation and processing, the core value of the Internet is rooted in sharing and collaboration. Comp..."
+            },
+            {
+                "title": "When Does Personality Composition Matter for Multi-Agent LLM Teams?",
+                "link": "https://arxiv.org/abs/2606.27443",
+                "summary": "arXiv:2606.27443v1 Announce Type: new \nAbstract: Personality prompting shapes how large language models communicate, yet whether these behavioral shifts affect objective task outcomes remains under-ex..."
+            },
+            {
+                "title": "Internalizing the Future: A Unified Agentic Training Paradigm for World Model Planning",
+                "link": "https://arxiv.org/abs/2606.27483",
+                "summary": "arXiv:2606.27483v1 Announce Type: new \nAbstract: Large language model (LLM) agents have demonstrated strong capability in sequential decision-making, yet they remains fundamentally reactive in long-ho..."
+            },
+            {
+                "title": "Odyssey: Constructing Verifiable Local Truth-Preserving Foundation Models",
+                "link": "https://arxiv.org/abs/2606.27593",
+                "summary": "arXiv:2606.27593v1 Announce Type: new \nAbstract: We introduce a categorical framework called ODYSSEY for constructing verifiable, local truth-preserving foundation models as compositions of foundries:..."
+            },
+            {
+                "title": "DysLexLens: A Low-Resource LLM Framework for Analysing Dyslexic Learners Insights from Online Forums",
+                "link": "https://arxiv.org/abs/2606.27619",
+                "summary": "arXiv:2606.27619v1 Announce Type: new \nAbstract: Dyslexic learners increasingly use artificial intelligence (AI) tools to support reading, writing, organisation, and study-related tasks. However, thei..."
+            }
+        ],
+        "Practitioner": [
+            {
+                "title": "AI-Enhanced Writing",
+                "link": "https://enocc.com/blog/2026-04-09-on-ai-enhanced-writing.html",
+                "summary": "..."
+            },
+            {
+                "title": "Ask HN: AI robbed my joy of reading books?",
+                "link": "https://news.ycombinator.com/item?id=48718276",
+                "summary": "..."
+            },
+            {
+                "title": "Route Phone Calls to an AI Agent with the Telnyx Voice API",
+                "link": "https://telnyx.com/resources/route-phone-calls-ai-agent",
+                "summary": "..."
+            },
+            {
+                "title": "Has anyone here used the AI trading bot \"Zentriq\"? Looking for honest feedback",
+                "link": "https://qafstudio.gumroad.com/l/zentriq",
+                "summary": "..."
+            },
+            {
+                "title": "Weathering the Storm of AI",
+                "link": "https://www.bencodezen.io/blog/weathering-the-storm-of-ai/",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
