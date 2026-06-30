@@ -7464,5 +7464,36 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-06-30": {
+        "Research": [
+            {
+                "title": "Recursive Self-Evolving Agents via Held-Out Selection",
+                "link": "https://arxiv.org/abs/2606.28374",
+                "summary": "arXiv:2606.28374v1 Announce Type: new \nAbstract: LLM agents are increasingly improved without weight updates by evolving a natural-language artifact, such as reflections, workflows, playbooks, cheatsh..."
+            },
+            {
+                "title": "Data and Evaluation Closed-Loop for Model Capability Enhancement",
+                "link": "https://arxiv.org/abs/2606.28471",
+                "summary": "arXiv:2606.28471v1 Announce Type: new \nAbstract: Model capability is the central variable in LLM pre-training, yet is never observed directly: data shapes it prospectively, while evaluation reveals it..."
+            },
+            {
+                "title": "GPTNT: Benchmarking Real-Time Collaboration Between Multimodal Agents on Keep Talking And Nobody Explodes",
+                "link": "https://arxiv.org/abs/2606.28514",
+                "summary": "arXiv:2606.28514v1 Announce Type: new \nAbstract: Multimodal models are increasingly deployed to solve tasks collaboratively with humans or other artificial agents. Existing benchmarks show that these ..."
+            },
+            {
+                "title": "IMCBench: A benchmark for multimodal LLMs in Image-grounded Medical Conversations",
+                "link": "https://arxiv.org/abs/2606.28556",
+                "summary": "arXiv:2606.28556v1 Announce Type: new \nAbstract: Recent advances in large language models and vision-language models have enabled reasoning over multimodal data, offering opportunities for clinical ap..."
+            },
+            {
+                "title": "Search for Truth from Reasoning: A Dynamic Representation Editing Framework for Steering LLM Trajectories",
+                "link": "https://arxiv.org/abs/2606.28589",
+                "summary": "arXiv:2606.28589v1 Announce Type: new \nAbstract: Current approaches to enhance Large Language Model (LLM) reasoning, such as Chain-of-Thought and \"Wait\" prompts, primarily encourage models to think mo..."
+            }
+        ],
+        "Practitioner": [],
+        "Prompting": []
     }
 }
