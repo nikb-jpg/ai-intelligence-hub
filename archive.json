@@ -7495,5 +7495,62 @@
         ],
         "Practitioner": [],
         "Prompting": []
+    },
+    "2026-07-01": {
+        "Research": [
+            {
+                "title": "What Drives Interactive Improvement from Feedback?",
+                "link": "https://arxiv.org/abs/2606.30774",
+                "summary": "arXiv:2606.30774v1 Announce Type: new \nAbstract: We study when natural-language feedback produces improvement beyond the gains obtainable from repeated attempts alone. In multi-turn language agent set..."
+            },
+            {
+                "title": "Contrastive Reflection for Iterative Prompt Optimization",
+                "link": "https://arxiv.org/abs/2606.30840",
+                "summary": "arXiv:2606.30840v1 Announce Type: new \nAbstract: LLM agents are becoming central to information retrieval: they issue retrieval queries, synthesize answers, and increasingly serve as judges for IR eva..."
+            },
+            {
+                "title": "How Can AI Find My Model? A Model-Finding Experimental Study Considering Data Formats, Embeddings, and Retrieval Strategies",
+                "link": "https://arxiv.org/abs/2606.30846",
+                "summary": "arXiv:2606.30846v1 Announce Type: new \nAbstract: Discovering simulation models for reuse remains a fundamental challenge in Modeling and Simulation (M&amp;S). When many models coexist, identifying tho..."
+            },
+            {
+                "title": "BayesBench: Evaluating LLM Belief Trajectories Under Multi-Turn Evidence Accumulation",
+                "link": "https://arxiv.org/abs/2606.30850",
+                "summary": "arXiv:2606.30850v1 Announce Type: new \nAbstract: Large language models (LLMs) are typically deployed in multi-turn conversations, where each turn provides new evidence that should reduce epistemic unc..."
+            },
+            {
+                "title": "When Does Learning to Stop Help? A Cost-Aware Study of Early Exits in Reasoning Models",
+                "link": "https://arxiv.org/abs/2606.30852",
+                "summary": "arXiv:2606.30852v1 Announce Type: new \nAbstract: Reasoning models spend different amounts of useful computation across instances, but it remains unclear when a learned stopping rule improves over simp..."
+            }
+        ],
+        "Practitioner": [
+            {
+                "title": "Why your AI bill is bigger than it should be",
+                "link": "https://leaddev.com/ai/why-your-ai-bill-is-bigger-than-it-should-be",
+                "summary": "..."
+            },
+            {
+                "title": "BIS Annual Report AI Scenarios",
+                "link": "https://www.bis.org/publ/arpdf/ar2026e1.htm",
+                "summary": "..."
+            },
+            {
+                "title": "Shoe Tray Forming Machine",
+                "link": "https://eggtraytz.com/shoe-tray-forming-machine/",
+                "summary": "..."
+            },
+            {
+                "title": "AI models' values are different from most people's",
+                "link": "https://www.economist.com/briefing/2026/06/25/ai-models-values-are-very-different-from-most-peoples",
+                "summary": "..."
+            },
+            {
+                "title": "Ask HN: How do you provide your AI agents with access to credentials/secrets?",
+                "link": "https://news.ycombinator.com/item?id=48744486",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
