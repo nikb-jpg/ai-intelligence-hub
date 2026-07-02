@@ -7552,5 +7552,62 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-07-02": {
+        "Research": [
+            {
+                "title": "Constructive Alignment: Governing Preference Dynamics in Human-AI Interaction",
+                "link": "https://arxiv.org/abs/2607.00001",
+                "summary": "arXiv:2607.00001v1 Announce Type: new \nAbstract: Most approaches to AI alignment treat human preferences as fixed targets to be inferred and optimized. This assumption conflicts with extensive empiric..."
+            },
+            {
+                "title": "Bounded Morality: Defining the Space of Moral Computation",
+                "link": "https://arxiv.org/abs/2607.00002",
+                "summary": "arXiv:2607.00002v1 Announce Type: new \nAbstract: Moral cognition has traditionally been modeled as adherence to fixed ethical theories--deontology, consequentialism, virtue ethics--implemented as stat..."
+            },
+            {
+                "title": "The MMM Data Model -- A Normative Specification for Knowledge Interoperability in a Decentralisable Knowledge Commons",
+                "link": "https://arxiv.org/abs/2607.00032",
+                "summary": "arXiv:2607.00032v1 Announce Type: new \nAbstract: Many information systems are built around documents: self-contained units optimised for print production and linear reading. While effective for large-..."
+            },
+            {
+                "title": "Making Failure Safe: A Constrained, Verifiable Agent Framework for Open-Web Data Collection",
+                "link": "https://arxiv.org/abs/2607.00035",
+                "summary": "arXiv:2607.00035v1 Announce Type: new \nAbstract: LLMs and agents can generate web scrapers from natural-language requirements, but direct generation remains unreliable because of dependency errors, br..."
+            },
+            {
+                "title": "Solution space path planning for supporting en-route air traffic control",
+                "link": "https://arxiv.org/abs/2607.00064",
+                "summary": "arXiv:2607.00064v1 Announce Type: new \nAbstract: As technology advances, many path-planning algorithms have been proposed for Air Traffic Management, yet their operational adoption in tactical control..."
+            }
+        ],
+        "Practitioner": [
+            {
+                "title": "The Anthropic Fable Ban Is Over. The Battle over How to Tame AI Has Just Begun",
+                "link": "https://www.wsj.com/tech/ai/the-anthropic-fable-ban-is-over-the-battle-over-how-to-tame-ai-has-just-begun-e93f51d6",
+                "summary": "..."
+            },
+            {
+                "title": "Trainety \u2013 a marketplace for AI project publishers and providers",
+                "link": "https://www.trainety.com/",
+                "summary": "..."
+            },
+            {
+                "title": "\"Learning to Replicate Expert Judgment in Financial Tasks\" \u2013 Thinking Machines",
+                "link": "https://thinkingmachines.ai/news/learning-to-replicate-expert-judgment-in-financial-tasks/",
+                "summary": "..."
+            },
+            {
+                "title": "Show HN: SophMate \u2013 AI Copilot for WordPress/WooCommerce",
+                "link": "https://sophmate.ai",
+                "summary": "..."
+            },
+            {
+                "title": "AI Is Getting Dumber. That's Not a Good Thing. [video]",
+                "link": "https://www.youtube.com/watch?v=vXHPRQTwrr4",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
