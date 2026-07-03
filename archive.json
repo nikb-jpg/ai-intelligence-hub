@@ -7609,5 +7609,36 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-07-03": {
+        "Research": [
+            {
+                "title": "PACE: A Neuro-Symbolic Framework for Plausible and Actionable Counterfactual Explanations",
+                "link": "https://arxiv.org/abs/2607.01306",
+                "summary": "arXiv:2607.01306v1 Announce Type: new \nAbstract: Counterfactual explanations explain machine learning predictions by identifying minimal input changes that would alter a model's decision. Although man..."
+            },
+            {
+                "title": "Auto-FL-Research: Agentic Search for Federated Learning Algorithms",
+                "link": "https://arxiv.org/abs/2607.01366",
+                "summary": "arXiv:2607.01366v1 Announce Type: new \nAbstract: Federated learning (FL) research often depends on many small but consequential algorithmic choices: optimizer variants, server aggregation rules, local..."
+            },
+            {
+                "title": "The Wiola Architecture for Efficient Small Language Models",
+                "link": "https://arxiv.org/abs/2607.01394",
+                "summary": "arXiv:2607.01394v1 Announce Type: new \nAbstract: We present Wiola, a fully original Small Language Model (SLM) architecture built from first principles, sharing no structural lineage with any existing..."
+            },
+            {
+                "title": "Agent4cs: A Multi-agent System for Code Summarization in Large Hierarchical Codebases",
+                "link": "https://arxiv.org/abs/2607.01425",
+                "summary": "arXiv:2607.01425v1 Announce Type: new \nAbstract: Understanding large, complex codebases, especially those with obfuscated structures and incomplete documentation, remains a significant challenge. Exis..."
+            },
+            {
+                "title": "When Should Service Agents Reconsider? Difficulty-Routed Control in Customer-Service Operations",
+                "link": "https://arxiv.org/abs/2607.01426",
+                "summary": "arXiv:2607.01426v1 Announce Type: new \nAbstract: Autonomous customer-service agents are shifting from conversational interfaces toward operational execution roles: they retrieve firm records, apply se..."
+            }
+        ],
+        "Practitioner": [],
+        "Prompting": []
     }
 }
