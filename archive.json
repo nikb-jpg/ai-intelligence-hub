@@ -7640,5 +7640,36 @@
         ],
         "Practitioner": [],
         "Prompting": []
+    },
+    "2026-07-04": {
+        "Research": [],
+        "Practitioner": [
+            {
+                "title": "Study: Universities must rethink how they prepare students for an AI world",
+                "link": "https://www.manchester.ac.uk/about/news/universities-must-rethink-how-they-prepare-students/",
+                "summary": "..."
+            },
+            {
+                "title": "Thieves Are Now Targeting AI Data Center Construction Sites for Copper",
+                "link": "https://www.vice.com/en/article/thieves-are-now-targeting-ai-data-center-construction-sites-for-copper-and-expensive-equipment/",
+                "summary": "..."
+            },
+            {
+                "title": "Intent-addressable code for AI coding agents",
+                "link": "https://github.com/croviatrust/causari",
+                "summary": "..."
+            },
+            {
+                "title": "Ask HN: Which AI model do you use for what?",
+                "link": "https://news.ycombinator.com/item?id=48783556",
+                "summary": "..."
+            },
+            {
+                "title": "Radio Free AI: The voice of the resistance",
+                "link": "https://open.spotify.com/show/033HWq6pzjHeleKR8jfxLm",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
