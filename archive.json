@@ -7676,5 +7676,36 @@
         "Research": [],
         "Practitioner": [],
         "Prompting": []
+    },
+    "2026-07-06": {
+        "Research": [],
+        "Practitioner": [
+            {
+                "title": "Big tech has suddenly flipped on the AI jobs wipeout scenario",
+                "link": "https://www.msn.com/en-us/money/careersandeducation/big-tech-has-suddenly-flipped-on-the-ai-jobs-wipeout-scenario/ar-AA27hbnR",
+                "summary": "..."
+            },
+            {
+                "title": "I'm just so bored of AI",
+                "link": "https://shkspr.mobi/blog/2026/07/im-just-so-bored-of-ai/",
+                "summary": "..."
+            },
+            {
+                "title": "SvelteChatKit: Provider agnostic AI chat UI for OpenAI, Dify, n8n, and others",
+                "link": "https://github.com/kristofers322/SvelteChatKit",
+                "summary": "..."
+            },
+            {
+                "title": "Show HN: Product Hunters liked my idea - an AI journal with memory",
+                "link": "https://bestjournalapp.com",
+                "summary": "..."
+            },
+            {
+                "title": "What Happens When AI Agents Can Pay Their Own Bills",
+                "link": "https://self-sovereign-agent.github.io/",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
