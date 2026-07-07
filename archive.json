@@ -7707,5 +7707,62 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-07-07": {
+        "Research": [
+            {
+                "title": "iFLYTEK-Embodied-Omni Technical Report",
+                "link": "https://arxiv.org/abs/2607.02542",
+                "summary": "arXiv:2607.02542v1 Announce Type: new \nAbstract: General-purpose embodied agents must understand multimodal instructions, anticipate how their environment will evolve, and produce precise control acti..."
+            },
+            {
+                "title": "Internal Pluralism and the Limits of Pairwise Comparisons",
+                "link": "https://arxiv.org/abs/2607.02672",
+                "summary": "arXiv:2607.02672v1 Announce Type: new \nAbstract: Local pairwise comparisons are a standard tool for learning how people want decision rules to work, e.g., in participatory design or alignment. However..."
+            },
+            {
+                "title": "ASK in the Dark: Uncertainty-Gated LLM Assistance under Partial Observability",
+                "link": "https://arxiv.org/abs/2607.02686",
+                "summary": "arXiv:2607.02686v1 Announce Type: new \nAbstract: Reinforcement learning agents operating under partial observability must act on incomplete information, making them natural candidates for guidance fro..."
+            },
+            {
+                "title": "Automated Data Readiness for Scientific AI",
+                "link": "https://arxiv.org/abs/2607.02771",
+                "summary": "arXiv:2607.02771v1 Announce Type: new \nAbstract: Leadership computing facilities steward large-scale scientific datasets that routinely require substantial transformation before serving as AI training..."
+            },
+            {
+                "title": "SwarmResearch: Orchestrating Coding Agents for Open-Ended Discovery",
+                "link": "https://arxiv.org/abs/2607.02807",
+                "summary": "arXiv:2607.02807v1 Announce Type: new \nAbstract: Long-running coding agents such as autoresearch can persistently discover optimizations for open-ended problems. However, they tend to converge onto a ..."
+            }
+        ],
+        "Practitioner": [
+            {
+                "title": "Introduction to Algorithms and Machine Learning from Sorting to Strategic Agents [pdf]",
+                "link": "https://www.justinmath.com/files/introduction-to-algorithms-and-machine-learning.pdf",
+                "summary": "..."
+            },
+            {
+                "title": "Top banking watchdogs issue stark warning over AI-driven cyber attacks",
+                "link": "https://www.ft.com/content/304cdbb9-c161-4e40-af4d-6df1d2ff5363",
+                "summary": "..."
+            },
+            {
+                "title": "ABC Australia will trial using AI for journalism",
+                "link": "https://theconversation.com/abc-will-trial-using-ai-for-journalism-what-are-the-risks-and-benefits-286841",
+                "summary": "..."
+            },
+            {
+                "title": "Prevail \u2013 open-source AI \"life OS\" (not for your job)",
+                "link": "https://prevail.sh/",
+                "summary": "..."
+            },
+            {
+                "title": "Show HN: Brianni \u2013 AI chat on GPT/Claude/Gemini that we can't read (provable)",
+                "link": "https://brianni.co/blog/prove-were-not-lying",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
