@@ -7795,5 +7795,62 @@
         ],
         "Practitioner": [],
         "Prompting": []
+    },
+    "2026-07-09": {
+        "Research": [
+            {
+                "title": "AgentLens: Production-Assessed Trajectory Reviews for Coding Agent Evaluation",
+                "link": "https://arxiv.org/abs/2607.06624",
+                "summary": "arXiv:2607.06624v1 Announce Type: new \nAbstract: We present AgentLens, a production-assessed benchmark for interactive code agents. Most code-agent benchmarks reduce a run to a single bit -- did the t..."
+            },
+            {
+                "title": "When Does In-Context Search Help? A Sampling-Complexity Theory of Reflection-Driven Reasoning",
+                "link": "https://arxiv.org/abs/2607.06720",
+                "summary": "arXiv:2607.06720v1 Announce Type: new \nAbstract: Training large language models (LLMs) with extended reasoning has enabled in-context search, in which models iteratively generate, critique, and revise..."
+            },
+            {
+                "title": "LLM-powered reasoning in agent-based modeling",
+                "link": "https://arxiv.org/abs/2607.06757",
+                "summary": "arXiv:2607.06757v1 Announce Type: new \nAbstract: Agent-based modeling (ABM) has the capability to model millions of individuals and their interactions, which is useful for policy making. However, ABMs..."
+            },
+            {
+                "title": "QANTIS: Hardware-Calibrated Sequential POMDP Belief Updates on IBM Heron",
+                "link": "https://arxiv.org/abs/2607.06760",
+                "summary": "arXiv:2607.06760v1 Announce Type: new \nAbstract: Autonomous systems under partial observability act on beliefs, not raw sensor events. QANTIS treats the quantum processor as a calibrated belief-update..."
+            },
+            {
+                "title": "Cost-Effective Agent Harnesses for Abstract Reasoning and Generalization on ARC-AGI-1",
+                "link": "https://arxiv.org/abs/2607.06764",
+                "summary": "arXiv:2607.06764v1 Announce Type: new \nAbstract: Recent progress on ARC-AGI-1 from disclosed architectures has come broadly from two regimes: heavy test-time compute over frontier models (evolutionary..."
+            }
+        ],
+        "Practitioner": [
+            {
+                "title": "SpaceX and AI startup wealth fuels demand for private jets",
+                "link": "https://www.reuters.com/legal/government/spacex-ai-startup-wealth-fuels-demand-private-jets-2026-07-09/",
+                "summary": "..."
+            },
+            {
+                "title": "The true cost of saying \"Hi\" to an AI agent",
+                "link": "https://quesma.com/blog/the-true-cost-of-saying-hi-to-an-ai-agent/",
+                "summary": "..."
+            },
+            {
+                "title": "Show HN: Self-Hosted AI That Sees, Plays Minecraft, and Reacts",
+                "link": "https://github.com/Alradyin/wallie-V2",
+                "summary": "..."
+            },
+            {
+                "title": "Show HN: Agentic FC \u2013 a football management SIM played by AI agents over MCP",
+                "link": "https://github.com/gaemi/agentic-fc",
+                "summary": "..."
+            },
+            {
+                "title": "Show HN: Internationalizationstack \u2013 Fix AI Localization Bugs in Claude Code",
+                "link": "https://github.com/i18n-agent/i18nstack",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
