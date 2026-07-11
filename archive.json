@@ -7909,5 +7909,36 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-07-11": {
+        "Research": [],
+        "Practitioner": [
+            {
+                "title": "Microsoft latest report shows 25% emissions raised due to AI data centers",
+                "link": "https://www.windowscentral.com/microsoft/dropping-greenwashing-credits-and-expanding-ai-datacenters-caused-microsofts-25-percent-emissions-jump",
+                "summary": "..."
+            },
+            {
+                "title": "Eliezer Yudkowsky: Will superintelligent AI end the world? [video]",
+                "link": "https://www.ted.com/talks/eliezer_yudkowsky_will_superintelligent_ai_end_the_world",
+                "summary": "..."
+            },
+            {
+                "title": "Companies are scrambling to curtail soaring AI costs",
+                "link": "https://www.economist.com/business/2026/06/14/companies-are-scrambling-to-curtail-soaring-ai-costs",
+                "summary": "..."
+            },
+            {
+                "title": "AI is compressing the startup lifecycle, not just development speed",
+                "link": "https://www.alexdelivet.com/insights/the-end-of-zombie-startup-land",
+                "summary": "..."
+            },
+            {
+                "title": "Study: Cerebellum helps AI ignore the ordinary for more efficient computing",
+                "link": "https://www.mccormick.northwestern.edu/news/articles/2026/07/ai-gets-a-cerebellum/",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
