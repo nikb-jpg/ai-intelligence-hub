@@ -7940,5 +7940,36 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-07-12": {
+        "Research": [],
+        "Practitioner": [
+            {
+                "title": "Show HN: Runeward: Sandboxing AI agents with policy gates",
+                "link": "https://runewardd.github.io/runeward/",
+                "summary": "..."
+            },
+            {
+                "title": "Meta u-turns on AI feature amid privacy backlash",
+                "link": "https://thehill.com/policy/technology/5964282-privacy-concerns-instagram-ai/",
+                "summary": "..."
+            },
+            {
+                "title": "The Hard-Line Activists Ramping Up for the War with AI",
+                "link": "https://www.wsj.com/tech/ai/anti-ai-activists-disappearance-sam-kirchner-6872879f",
+                "summary": "..."
+            },
+            {
+                "title": "Finetuning a Reasoning LLM with Supervised or Reinforcement Learning?",
+                "link": "https://discuss.huggingface.co/t/finetuning-a-reasoning-llm-with-supervised-or-reinforcement-learning/176449",
+                "summary": "..."
+            },
+            {
+                "title": "Political Neutrality Benchmark of popular AI models",
+                "link": "https://neutralityproject.org/results.html",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
