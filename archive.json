@@ -7971,5 +7971,62 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-07-13": {
+        "Research": [
+            {
+                "title": "Interval Certifications for Multilayered Perceptrons via Lattice Traversal",
+                "link": "https://arxiv.org/abs/2607.08773",
+                "summary": "arXiv:2607.08773v1 Announce Type: new \nAbstract: In this work we present a rigorous theoretical framework to a foundational problem of AI safety, namely adversarial robustness. In particular, we show ..."
+            },
+            {
+                "title": "CogniConsole: Externalizing Inference-Time Control as a Formal Abstraction for Reliable LLM Interactions",
+                "link": "https://arxiv.org/abs/2607.08774",
+                "summary": "arXiv:2607.08774v1 Announce Type: new \nAbstract: Reliability in large language model (LLM) systems is typically framed as a function of model capability. We challenge this by demonstrating that reliab..."
+            },
+            {
+                "title": "GATS: Graph-Augmented Tree Search with Layered World Models for Efficient Agent Planning",
+                "link": "https://arxiv.org/abs/2607.08894",
+                "summary": "arXiv:2607.08894v1 Announce Type: new \nAbstract: Large Language Model (LLM) agents have shown promise in multi-step planning tasks, but existing approaches like LATS (Language Agent Tree Search) and R..."
+            },
+            {
+                "title": "Long-Horizon-Terminal-Bench: Testing the Limits of Agents on Long-Horizon Terminal Tasks with Dense Reward-Based Grading",
+                "link": "https://arxiv.org/abs/2607.08964",
+                "summary": "arXiv:2607.08964v1 Announce Type: new \nAbstract: AI agents have become capable of autonomously completing short, well-specified tasks. However, existing terminal benchmarks largely focus on simple pro..."
+            },
+            {
+                "title": "A Formalization of the Mean-Field Derivation of the Vlasov Equation: AI-Assisted Lean Formalization as a Strategy Game",
+                "link": "https://arxiv.org/abs/2607.08986",
+                "summary": "arXiv:2607.08986v1 Announce Type: new \nAbstract: We formalize a research result in the Lean 4 proof assistant by having a mathematician direct an AI system, and frame the activity as a formalization g..."
+            }
+        ],
+        "Practitioner": [
+            {
+                "title": "Ask HN: At what age did you start to feel your learning ability decline?",
+                "link": "https://news.ycombinator.com/item?id=48890534",
+                "summary": "..."
+            },
+            {
+                "title": "Checkpoints for AI sessions \u2013 carry context across AI tools, self-hosted",
+                "link": "https://github.com/OurThinkTank/founders-os",
+                "summary": "..."
+            },
+            {
+                "title": "Show HN: Call to Control AI Agents via the Web",
+                "link": "https://diffforge.ai/",
+                "summary": "..."
+            },
+            {
+                "title": "Indian companies look to Chinese LLMs as AI costs bite",
+                "link": "https://asia.nikkei.com/business/technology/artificial-intelligence/indian-companies-look-to-chinese-llms-as-ai-costs-bite",
+                "summary": "..."
+            },
+            {
+                "title": "Chinese AI models are gaining ground with U.S. companies",
+                "link": "https://www.cnbc.com/2026/07/07/chinese-ai-models-costs-us-openai-anthropic.html",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
