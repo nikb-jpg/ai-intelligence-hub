@@ -8028,5 +8028,62 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-07-14": {
+        "Research": [
+            {
+                "title": "From ML Predictions to Informed Diagnostic Assistance Using the Toulmin Model of Argumentation",
+                "link": "https://arxiv.org/abs/2607.09664",
+                "summary": "arXiv:2607.09664v1 Announce Type: new \nAbstract: To provide a structured and interpretable assessment, we decompose the image-based diagnosis into components following the Toulmin model of argumentati..."
+            },
+            {
+                "title": "Format Sensitivity Index: Token-Controlled Prompt Wrapper Robustness and Schema Compliance in LLM Benchmarking",
+                "link": "https://arxiv.org/abs/2607.09665",
+                "summary": "arXiv:2607.09665v1 Announce Type: new \nAbstract: Prompt wrappers often differ only in formatting, yet they can change model scores enough to flip leaderboard conclusions. We study this variance under ..."
+            },
+            {
+                "title": "Faithful, Not Corrective: Message-Format Effects in Multi-Hop Agent Relays Are Tier-Dependent",
+                "link": "https://arxiv.org/abs/2607.09678",
+                "summary": "arXiv:2607.09678v1 Announce Type: new \nAbstract: When LLM agents hand off information to one another, does the message format matter? Two literatures disagree: format-optimization work reports that st..."
+            },
+            {
+                "title": "Boltzmann MapReduce: A Partition-Function Reduce for Forkable Sandboxes",
+                "link": "https://arxiv.org/abs/2607.09689",
+                "summary": "arXiv:2607.09689v1 Announce Type: new \nAbstract: To leading order under local asymptotic normality (LAN), the confidence density a worker emits over a chunk of size $n$ is a Gibbs--Boltzmann measure $..."
+            },
+            {
+                "title": "Interpreting Latent CoT Reasoning as Dynamical Systems",
+                "link": "https://arxiv.org/abs/2607.09698",
+                "summary": "arXiv:2607.09698v1 Announce Type: new \nAbstract: Recent latent reasoning methods, such as CODI and COCONUT, face a fundamental interpretability problem: they maintain multiple superimposed candidate t..."
+            }
+        ],
+        "Practitioner": [
+            {
+                "title": "Hassabis \u2013 A Framework for Frontier AI and the Dawning of a New Age",
+                "link": "https://twitter.com/demishassabis/status/2076957440109625718",
+                "summary": "..."
+            },
+            {
+                "title": "Show HN: Turnitin Report \u2013 AI checker and AI detector for student papers",
+                "link": "https://www.turnitin.report/",
+                "summary": "..."
+            },
+            {
+                "title": "Show HN: Coura AI \u2013 AI clothes changer for realistic outfit photos",
+                "link": "https://coura.ai",
+                "summary": "..."
+            },
+            {
+                "title": "TSMC Spies Got 10 Years. Taiwan's AI Basic Act Has No Penalties at All",
+                "link": "https://mrkt30.com/tsmc-spies-got-10-years-taiwans-ai-basic-act-has-no-penalties-at-all/",
+                "summary": "..."
+            },
+            {
+                "title": "Microsoft commits $2.5B, 6k employees AI implementation unit",
+                "link": "https://www.cnbc.com/2026/07/02/microsoft-commits-2point5-billion-6000-employees-ai-implementation-unit.html",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
