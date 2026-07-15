@@ -8085,5 +8085,36 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-07-15": {
+        "Research": [
+            {
+                "title": "Optimal Adaptive Market Making: A Theoretical Framework for High-Yield Liquidity Provision in Perpetual Futures Markets",
+                "link": "https://arxiv.org/abs/2607.11888",
+                "summary": "arXiv:2607.11888v1 Announce Type: new \nAbstract: We develop a rigorous theoretical framework for optimal market making in perpetual futures markets with zero maker fees. We model the market maker's pr..."
+            },
+            {
+                "title": "In-Context Reinforcement Learning under Non-Stationarity: A Survey",
+                "link": "https://arxiv.org/abs/2607.11906",
+                "summary": "arXiv:2607.11906v1 Announce Type: new \nAbstract: The development of decision-pretrained transformers, algorithm distillation, long-context meta-RL, and retrieval-augmented agents has renewed interest ..."
+            },
+            {
+                "title": "Ontology-Amplified Distillation and Contextuality Auditing for Sovereign Enterprise Language Models: A Combined Proof-of-Mechanism and Negative-Results Method Study",
+                "link": "https://arxiv.org/abs/2607.11948",
+                "summary": "arXiv:2607.11948v1 Announce Type: new \nAbstract: Regulated financial institutions operating under data-residency rules need tenant-owned language models that can run inside the institution's perimeter..."
+            },
+            {
+                "title": "GRID: Grammar-Railed Decoding for Enterprise SQL Generation",
+                "link": "https://arxiv.org/abs/2607.11951",
+                "summary": "arXiv:2607.11951v1 Announce Type: new \nAbstract: Large language models can write SQL, but enterprise deployment demands more than plausible text: outputs must be syntactically valid, must respect per-..."
+            },
+            {
+                "title": "Calibration-First Reward-Component Auditing for Reinforcement Learning Control in Smart Greenhouses",
+                "link": "https://arxiv.org/abs/2607.11959",
+                "summary": "arXiv:2607.11959v1 Announce Type: new \nAbstract: Greenhouse reinforcement learning can test climate-control ideas at a speed and scale that is difficult to achieve with crop experiments alone. For sma..."
+            }
+        ],
+        "Practitioner": [],
+        "Prompting": []
     }
 }
