@@ -8116,5 +8116,36 @@
         ],
         "Practitioner": [],
         "Prompting": []
+    },
+    "2026-07-16": {
+        "Research": [
+            {
+                "title": "OriginBlame: Record- and Token-Level Data Provenance for AI Training Datasets",
+                "link": "https://arxiv.org/abs/2607.13037",
+                "summary": "arXiv:2607.13037v1 Announce Type: new \nAbstract: When a data contributor requests removal, model trainers face a practical gap: unlearning algorithms require a forget set, yet no tool can locate which..."
+            },
+            {
+                "title": "SPINE: Bridging the Cyber-Physical Gap with Agentic AI",
+                "link": "https://arxiv.org/abs/2607.13049",
+                "summary": "arXiv:2607.13049v1 Announce Type: new \nAbstract: Foundation models have given robots a sophisticated brain for complex decision-making, yet deploying that intelligence into a physical platform still d..."
+            },
+            {
+                "title": "Interventional Grounding Audits: Black-Box Premise-Dependency Tests for LLM Chain-of-Thought via Predicate Substitution",
+                "link": "https://arxiv.org/abs/2607.13069",
+                "summary": "arXiv:2607.13069v1 Announce Type: new \nAbstract: Large language models produce chain-of-thought (CoT) reasoning that appears logically sound yet may not genuinely depend on its stated premises. We int..."
+            },
+            {
+                "title": "Probabilistic Extension of Neuro-Symbolic AGI Robots based on Belnap's Typed Intensional FOL",
+                "link": "https://arxiv.org/abs/2607.13073",
+                "summary": "arXiv:2607.13073v1 Announce Type: new \nAbstract: Neuro-symbolic AI based on $IFOL_B$ is a way to combine neural learning and symbolic reasoning to overcome limitations of purely neural systems (like l..."
+            },
+            {
+                "title": "Self-Improvements in Modern Agentic Systems: A Survey",
+                "link": "https://arxiv.org/abs/2607.13104",
+                "summary": "arXiv:2607.13104v1 Announce Type: new \nAbstract: Self-improving autonomous agents are moving from research prototypes to deployed systems. The primary goal is controllable evolution, or adaptation, fr..."
+            }
+        ],
+        "Practitioner": [],
+        "Prompting": []
     }
 }
