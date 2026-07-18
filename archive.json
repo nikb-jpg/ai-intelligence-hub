@@ -8204,5 +8204,62 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-07-18": {
+        "Research": [
+            {
+                "title": "Intelligent Three Level Learning Architecture for Autonomous UAV Swarms in Search and Rescue",
+                "link": "https://arxiv.org/abs/2607.14093",
+                "summary": "arXiv:2607.14093v1 Announce Type: new \nAbstract: This paper presents a novel three level hierarchical learning architecture for autonomous UAV swarms performing search and rescue operations. Unlike co..."
+            },
+            {
+                "title": "HG-RAG: Hierarchy-Guided Retrieval-Augmented Generation for Structured Knowledge Graphs",
+                "link": "https://arxiv.org/abs/2607.14095",
+                "summary": "arXiv:2607.14095v1 Announce Type: new \nAbstract: Retrieval Augmented Generation (RAG) has proven to be a widely successful process at improving the quality of outputs from a Large Language Model (LLM)..."
+            },
+            {
+                "title": "IMEX Interaction-Based Model Explanation",
+                "link": "https://arxiv.org/abs/2607.14096",
+                "summary": "arXiv:2607.14096v1 Announce Type: new \nAbstract: In predictive modeling, the ability to explain why a model produces a given target prediction has become increasingly important [5, 10]. Black-box mode..."
+            },
+            {
+                "title": "RegNetAgents: A Multi-Agent Framework for Cross-Network Regulatory Driver Identification in Cancer Genomics",
+                "link": "https://arxiv.org/abs/2607.14097",
+                "summary": "arXiv:2607.14097v1 Announce Type: new \nAbstract: We introduce RegNetAgents, an AI-oriented multi-agent framework for structured, query-driven regulatory candidate identification across heterogeneous g..."
+            },
+            {
+                "title": "DialogueVPR: Towards Conversational Visual Place Recognition",
+                "link": "https://arxiv.org/abs/2607.14115",
+                "summary": "arXiv:2607.14115v1 Announce Type: new \nAbstract: Inspired by how humans communicate spatial information, language-guided geo-localization has gained significant traction for its intuitive and practica..."
+            }
+        ],
+        "Practitioner": [
+            {
+                "title": "AI Gets Trapped in a Circular Loop on Climate Science",
+                "link": "https://news.ycombinator.com/item?id=48956370",
+                "summary": "..."
+            },
+            {
+                "title": "Chasing the AI High: Clay, Kilns, and the Red Queen's Race",
+                "link": "https://blog.moot.dev/chasing-the-ai-high-clay-kilns-and-the-red-queens-race/",
+                "summary": "..."
+            },
+            {
+                "title": "Am I worried AI will take my job?",
+                "link": "https://owl.billpg.com/am-i-worried-ai-will-take-my-job/",
+                "summary": "..."
+            },
+            {
+                "title": "South Korea building sovereign cybersecurity AI after US Mythos export controls",
+                "link": "https://en.yna.co.kr/view/AEN20260716005600320",
+                "summary": "..."
+            },
+            {
+                "title": "Show HN: Fosnie \u2013 open-source self-hosted AI workspace for regulated teams",
+                "link": "https://fosnie.dev/",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
