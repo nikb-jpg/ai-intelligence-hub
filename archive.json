@@ -8261,5 +8261,36 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-07-19": {
+        "Research": [],
+        "Practitioner": [
+            {
+                "title": "Using AI makes people less likely to admit they don't know something",
+                "link": "https://www.theregister.com/ai-and-ml/2026/07/19/using-ai-makes-people-less-likely-to-admit-they-dont-know-something/5274567",
+                "summary": "..."
+            },
+            {
+                "title": "Show HN: AI mock interview tool that scores your answers \u2013 free, no signup",
+                "link": "https://interviewpracticeai.com",
+                "summary": "..."
+            },
+            {
+                "title": "Show HN: Shikigami, run AI coding agents in parallel, each in a Git worktree",
+                "link": "https://shikigami.dev/",
+                "summary": "..."
+            },
+            {
+                "title": "Protester calls out Amazon CTO for allowing Israel to use their AI towards Gaza",
+                "link": "https://www.reddit.com/r/chaoticgood/s/4Pla2e38AV",
+                "summary": "..."
+            },
+            {
+                "title": "Where I erred in my original post about Kimi and my views on open-weight AI",
+                "link": "https://twitter.com/deanwball/status/2078619513575137330",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
