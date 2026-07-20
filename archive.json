@@ -8292,5 +8292,62 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-07-20": {
+        "Research": [
+            {
+                "title": "GraphDx: A Cost-Aware Knowledge-Enhanced Multi-Agent Framework for Sequential Diagnosis",
+                "link": "https://arxiv.org/abs/2607.15280",
+                "summary": "arXiv:2607.15280v1 Announce Type: new \nAbstract: Sequential diagnosis requires balancing diagnostic accuracy against resource costs through iterative information gathering. Existing Large Language Mod..."
+            },
+            {
+                "title": "Causal-Audit: Explicit and Auditable Graph-based Reasoning via Target-Aware Causal Chain Construction",
+                "link": "https://arxiv.org/abs/2607.15281",
+                "summary": "arXiv:2607.15281v1 Announce Type: new \nAbstract: Causal and intervention-based question answering is fundamental to advancing large language models (LLMs) toward reasoning beyond surface-level correla..."
+            },
+            {
+                "title": "Cura 1T: Specialized Model for Agentic Healthcare",
+                "link": "https://arxiv.org/abs/2607.15314",
+                "summary": "arXiv:2607.15314v1 Announce Type: new \nAbstract: Healthcare spans high-stakes communication, expert reasoning, and workflow execution, yet specialized LLMs that cover these use cases together remain l..."
+            },
+            {
+                "title": "AnovaX: A Local, Multi-Agent Voice Assistant with LLM Planning, Typed Executors, and Adaptive Recovery",
+                "link": "https://arxiv.org/abs/2607.15367",
+                "summary": "arXiv:2607.15367v1 Announce Type: new \nAbstract: Desktop voice assistants are still dominated by cloud pipelines that ship raw audio off the machine and expose a fixed set of skills. We describe Anova..."
+            },
+            {
+                "title": "Precise but Uncoupled: Reviewer Precision Does Not Guarantee Critique Uptake in Multi-Agent Math Reasoning",
+                "link": "https://arxiv.org/abs/2607.15388",
+                "summary": "arXiv:2607.15388v1 Announce Type: new \nAbstract: Many math- and science-oriented agent systems use hierarchical designs with specialized reviewer roles, assuming that a dedicated review stage should h..."
+            }
+        ],
+        "Practitioner": [
+            {
+                "title": "An autonomous AI agent that sells its own API access via x402 payment protocol",
+                "link": "https://money-agent-production-a0a9.up.railway.app/api/summarize",
+                "summary": "..."
+            },
+            {
+                "title": "AI-Native Companies Have Tiny Staffs and Fewer Bosses",
+                "link": "https://www.wsj.com/tech/ai/ai-companies-staffing-c9029343",
+                "summary": "..."
+            },
+            {
+                "title": "Show HN: I built a deterministic arena where AI agents fight using code",
+                "link": "https://www.agentduel.app/b/cru8E9nG",
+                "summary": "..."
+            },
+            {
+                "title": "Open Source Will Eat AI",
+                "link": "https://www.openenergytransition.org/posts/ai-coding-agents-should-optimize-for-less-owned-code",
+                "summary": "..."
+            },
+            {
+                "title": "Keeping teams on one AI harness",
+                "link": "https://baselane.sh/blog/keeping-teams-on-one-harness/",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
