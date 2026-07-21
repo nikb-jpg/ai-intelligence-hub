@@ -8349,5 +8349,36 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-07-21": {
+        "Research": [
+            {
+                "title": "Rater State Bias in RLHF Preference Data: An Audit Framework",
+                "link": "https://arxiv.org/abs/2607.16195",
+                "summary": "arXiv:2607.16195v1 Announce Type: new \nAbstract: We identify a structured confound in Reinforcement Learning from Human Feedback (RLHF). Pairwise preference labels are intended to reflect the compared..."
+            },
+            {
+                "title": "Design and Validation of a Lightweight 1D CNN for Affective Touch Classification in Soft Plush Companions",
+                "link": "https://arxiv.org/abs/2607.16196",
+                "summary": "arXiv:2607.16196v1 Announce Type: new \nAbstract: Soft, sensorized companions offer a physically safe and emotionally intuitive interface for socially assistive technologies, yet their deformability an..."
+            },
+            {
+                "title": "Some Large Language Models Exhibit Consistent Risk Attitudes",
+                "link": "https://arxiv.org/abs/2607.16197",
+                "summary": "arXiv:2607.16197v1 Announce Type: new \nAbstract: As artificial intelligence systems are deployed in open-ended, high-stakes settings, a critical dimension remains unmeasured: how perceived risk is tra..."
+            },
+            {
+                "title": "A Survey on GNN-based Link Prediction: Techniques, Applications, and Challenges",
+                "link": "https://arxiv.org/abs/2607.16198",
+                "summary": "arXiv:2607.16198v1 Announce Type: new \nAbstract: Graph Neural Networks (GNNs) have emerged as the leading paradigm for link prediction, enabling the inference of missing connections and the anticipati..."
+            },
+            {
+                "title": "PlanFlip: Attacking Multi-Agent LLM Systems via Planning-Phase Prompt Injection",
+                "link": "https://arxiv.org/abs/2607.16199",
+                "summary": "arXiv:2607.16199v1 Announce Type: new \nAbstract: Multi-agent LLM systems increasingly rely on a Planner to decompose goals into sub-task sequences that downstream Executor and Critic agents execute an..."
+            }
+        ],
+        "Practitioner": [],
+        "Prompting": []
     }
 }
