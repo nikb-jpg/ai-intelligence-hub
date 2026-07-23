@@ -8411,5 +8411,36 @@
         ],
         "Practitioner": [],
         "Prompting": []
+    },
+    "2026-07-23": {
+        "Research": [
+            {
+                "title": "FineServe: A Fine-Grained Dataset and Characterization of Global LLM Serving Workloads",
+                "link": "https://arxiv.org/abs/2607.19349",
+                "summary": "arXiv:2607.19349v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly deployed as always-on online services, making efficient LLM serving a critical systems challenge. Achievi..."
+            },
+            {
+                "title": "Hybrid LSTM-Graph Neural Framework for Robust Financial Fraud Detection and Adversarial Resilience",
+                "link": "https://arxiv.org/abs/2607.19350",
+                "summary": "arXiv:2607.19350v1 Announce Type: new \nAbstract: Financial institutions face significant challenges in detecting sophisticated money laundering patterns, such as smurfing and layering, due to extreme ..."
+            },
+            {
+                "title": "OpenEvoShield: Dual Non-Stationary Continual Defense for Open-World Multi-Agent System Attacks",
+                "link": "https://arxiv.org/abs/2607.19351",
+                "summary": "arXiv:2607.19351v1 Announce Type: new \nAbstract: LLM-based multi-agent systems (LLM-MAS) are increasingly deployed in safety-critical applications, where adversaries inject malicious instructions thro..."
+            },
+            {
+                "title": "Benchmarking Confidential GPU Inference on NVIDIA H100 under Intel TDX",
+                "link": "https://arxiv.org/abs/2607.19353",
+                "summary": "arXiv:2607.19353v1 Announce Type: new \nAbstract: Confidential computing is becoming a practical deployment requirement for AI inference workloads that process sensitive inputs or protect proprietary m..."
+            },
+            {
+                "title": "FormulaSPIN: Self-Play Fine-Tuning for Natural Language to Spreadsheet Formula Generation",
+                "link": "https://arxiv.org/abs/2607.19354",
+                "summary": "arXiv:2607.19354v1 Announce Type: new \nAbstract: Spreadsheet applications are used by hundreds of millions worldwide, yet writing formulas remains a significant barrier. Existing approaches rely on st..."
+            }
+        ],
+        "Practitioner": [],
+        "Prompting": []
     }
 }
