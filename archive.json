@@ -8442,5 +8442,62 @@
         ],
         "Practitioner": [],
         "Prompting": []
+    },
+    "2026-07-24": {
+        "Research": [
+            {
+                "title": "AINTMA: Agentic AI Architecture for Autonomous Test Management with Generative Intelligence, Secure Cloud Communication and Adaptive Quality Analytics",
+                "link": "https://arxiv.org/abs/2607.20452",
+                "summary": "arXiv:2607.20452v1 Announce Type: new \nAbstract: Modern software quality assurance demands intelligent, autonomous systems capable of adaptive decision-making across distributed cloud environments. Th..."
+            },
+            {
+                "title": "Marking the Wrong Symptoms: Evaluating LLM Watermarks in Medical Texts",
+                "link": "https://arxiv.org/abs/2607.20462",
+                "summary": "arXiv:2607.20462v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly integrated into clinical workflows, stressing the need for reliable traceability of model-generated outpu..."
+            },
+            {
+                "title": "ClickGuard: Detecting and Spoiling Clickbait News with Informativeness Measures and Large Language Models",
+                "link": "https://arxiv.org/abs/2607.20463",
+                "summary": "arXiv:2607.20463v1 Announce Type: new \nAbstract: This paper presents an AI-driven browser extension that identifies clickbait to help users avoid misleading Internet articles. Moving beyond traditiona..."
+            },
+            {
+                "title": "Stochastic Sampling is Epistemically Shallow: The Dimensionality Gap Between Temperature Variation and Model Diversity in LLMs",
+                "link": "https://arxiv.org/abs/2607.20464",
+                "summary": "arXiv:2607.20464v1 Announce Type: new \nAbstract: When a language model gives different answers on repeated runs, does that variation reveal what it does not know? Self-consistency turns the variation ..."
+            },
+            {
+                "title": "JAXBench: Benchmarking Autonomous TPU Kernel Optimization",
+                "link": "https://arxiv.org/abs/2607.20466",
+                "summary": "arXiv:2607.20466v1 Announce Type: new \nAbstract: Rigorous benchmarks have driven progress in autonomous GPU kernel performance optimization by establishing a shared target to hillclimb on, but no equi..."
+            }
+        ],
+        "Practitioner": [
+            {
+                "title": "Round-Trip Correctness: A New Metric for Generative AI-Based Process Modeling",
+                "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/round-trip-correctness-a-new-metric-for-generative-ai-based-process/ba-p/14091979",
+                "summary": "..."
+            },
+            {
+                "title": "Show HN: Transept: AI translation workspace that puts humans first",
+                "link": "https://transept.ai",
+                "summary": "..."
+            },
+            {
+                "title": "I'm So Tired of \"Is This AI?\"",
+                "link": "https://www.trend-mill.com/p/im-so-tired-of-is-this-ai",
+                "summary": "..."
+            },
+            {
+                "title": "Grok muscles into Excel with an AI add-in of its own",
+                "link": "https://www.theregister.com/ai-and-ml/2026/07/22/grok-muscles-into-excel-with-an-ai-add-in-of-its-own/5276138",
+                "summary": "..."
+            },
+            {
+                "title": "Kitboga manipulates AI scam call into hallucination",
+                "link": "https://www.youtube.com/watch?v=lk3jCuITwcE",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
