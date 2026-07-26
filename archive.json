@@ -8530,5 +8530,36 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-07-26": {
+        "Research": [],
+        "Practitioner": [
+            {
+                "title": "Emacs Writing Machine",
+                "link": "https://chainsawriot.com/postmannheim/2026/07/25/writeredeck.html",
+                "summary": "..."
+            },
+            {
+                "title": "If you feel the need to tell me your answer is AI-based, work it more",
+                "link": "https://cephalosec.com/blog/the-hidden-cost-of-ai-is-someone-elses-time/",
+                "summary": "..."
+            },
+            {
+                "title": "House AI 'kill switch' bill unveiled as OpenAI hack raises alarms",
+                "link": "https://www.politico.com/news/2026/07/23/house-ai-kill-switch-bill-unveiled-as-openai-hack-raises-alarms-01008898",
+                "summary": "..."
+            },
+            {
+                "title": "Anthropic secures its AI-native software development lifecycle",
+                "link": "https://claude.com/blog/how-anthropic-secures-its-ai-native-software-development-lifecycle",
+                "summary": "..."
+            },
+            {
+                "title": "A protocol for AI agent workspace state and effect management",
+                "link": "https://github.com/eouzoe/reel",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
