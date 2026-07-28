@@ -8592,5 +8592,62 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-07-28": {
+        "Research": [
+            {
+                "title": "Concept-based Visual Counterfactual Explanations with Diffusion Models",
+                "link": "https://arxiv.org/abs/2607.22544",
+                "summary": "arXiv:2607.22544v1 Announce Type: new \nAbstract: Visual counterfactual explanations aim to answer \"what minimal change to this image would flip the model's prediction?\", and are increasingly important..."
+            },
+            {
+                "title": "SeT-Diff: Towards Semantic Foundation Models for HPC Telemetry and Time-Series",
+                "link": "https://arxiv.org/abs/2607.22548",
+                "summary": "arXiv:2607.22548v1 Announce Type: new \nAbstract: Data centers and their compute nodes require accurate and flexible digital twins capable of modeling the complex interplay of workloads, environmental ..."
+            },
+            {
+                "title": "QFoldAgent: An Autonomous Quantum Optimization Multi-Agent System for Protein Structure Prediction",
+                "link": "https://arxiv.org/abs/2607.22549",
+                "summary": "arXiv:2607.22549v1 Announce Type: new \nAbstract: Hybrid quantum-classical protein structure prediction depends strongly on Hamiltonian penalty weights, yet existing lattice-based workflows typically f..."
+            },
+            {
+                "title": "Same Question, Different Answers: Evaluating LLM Reliability Beyond Accuracy",
+                "link": "https://arxiv.org/abs/2607.22554",
+                "summary": "arXiv:2607.22554v1 Announce Type: new \nAbstract: Large language models (LLMs) often achieve strong accuracy on benchmarks, yet it remains unclear how reliably they apply this knowledge when the same q..."
+            },
+            {
+                "title": "DeepLens Diagnosis Agent: Agentic Workflow Design Lets a Small Reasoning Model Compete with Frontier LLMs",
+                "link": "https://arxiv.org/abs/2607.22555",
+                "summary": "arXiv:2607.22555v1 Announce Type: new \nAbstract: Medical diagnosis is a multi-stage process: extract facts, consult knowledge, generate a differential analysis, and select the best diagnosis with expl..."
+            }
+        ],
+        "Practitioner": [
+            {
+                "title": "AI sell-off intensifies as investors ditch chip stocks",
+                "link": "https://www.theguardian.com/business/2026/jul/28/ai-sell-off-chip-stocks-sk-hynix-samsung",
+                "summary": "..."
+            },
+            {
+                "title": "Google's Beyond Zero: Enterprise Security for the AI Era",
+                "link": "https://spawn-queue.acm.org/doi/10.1145/3819083",
+                "summary": "..."
+            },
+            {
+                "title": "Ask HN: Thoughts on AMD Ryzen AI MAX+ 395 for Local AI?",
+                "link": "https://news.ycombinator.com/item?id=49081599",
+                "summary": "..."
+            },
+            {
+                "title": "Show HN: DiscountHub \u2013 AI-assisted search for deals and promo codes",
+                "link": "https://discounthub.uz/",
+                "summary": "..."
+            },
+            {
+                "title": "How AI Can Locate Hidden Defence Labs and Military Installations Without Breach",
+                "link": "https://zenodo.org/records/21627527",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
