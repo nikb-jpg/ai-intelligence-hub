@@ -8680,5 +8680,36 @@
         ],
         "Practitioner": [],
         "Prompting": []
+    },
+    "2026-07-30": {
+        "Research": [
+            {
+                "title": "Do Models Fake Alignment Without Clear Consequences?",
+                "link": "https://arxiv.org/abs/2607.24758",
+                "summary": "arXiv:2607.24758v2 Announce Type: new \nAbstract: Large language models are capable of recognizing evaluation contexts and altering their behavior to reflect evaluator expectations rather than typical ..."
+            },
+            {
+                "title": "Beyond Memory: A Templated Substrate for Heterogeneous Collaborative Knowledge Work with LLM Agents",
+                "link": "https://arxiv.org/abs/2607.24759",
+                "summary": "arXiv:2607.24759v1 Announce Type: new \nAbstract: Research projects, educational efforts, and adjacent knowledge work accumulate findings, decisions, and reasoning that future collaborators rarely reco..."
+            },
+            {
+                "title": "Kernel Forge: An Agent Harness for LLM-based Generation and Optimization of CUDA Kernels",
+                "link": "https://arxiv.org/abs/2607.24762",
+                "summary": "arXiv:2607.24762v1 Announce Type: new \nAbstract: Machine learning models are increasingly embedded in everyday software, and most of their runtime is spent in a small set of compute kernels such as ma..."
+            },
+            {
+                "title": "CaRE Compute-aware Remasking Evaluation Protocol for Masked Diffusion Language Models",
+                "link": "https://arxiv.org/abs/2607.24763",
+                "summary": "arXiv:2607.24763v1 Announce Type: new \nAbstract: Masked diffusion language models (MDLMs) are advancing rapidly, yet the evaluation standards needed to reliably interpret their progress have not kept ..."
+            },
+            {
+                "title": "GrocLM: Grocery Category Recommendation in E-Commerce with Large Language Models",
+                "link": "https://arxiv.org/abs/2607.24764",
+                "summary": "arXiv:2607.24764v1 Announce Type: new \nAbstract: The rapid growth of online grocery shopping requires recommendation systems that capture cyclical purchasing behavior and diverse user intents. Traditi..."
+            }
+        ],
+        "Practitioner": [],
+        "Prompting": []
     }
 }
