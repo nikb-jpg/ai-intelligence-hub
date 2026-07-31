@@ -8711,5 +8711,62 @@
         ],
         "Practitioner": [],
         "Prompting": []
+    },
+    "2026-07-31": {
+        "Research": [
+            {
+                "title": "Probing the Origins of Reasoning Performance: Representational Quality for Mathematical Problem-Solving in RL vs. SFT Fine-Tuned Models",
+                "link": "https://arxiv.org/abs/2607.26119",
+                "summary": "arXiv:2607.26119v1 Announce Type: new \nAbstract: Large reasoning models trained via reinforcement learning (RL) have been increasingly shown to outperform their supervised fine-tuned (SFT) counterpart..."
+            },
+            {
+                "title": "Even More Deception: Objective Misalignment in Mixed-Motive LLM Multi-Agent Systems",
+                "link": "https://arxiv.org/abs/2607.26120",
+                "summary": "arXiv:2607.26120v1 Announce Type: new \nAbstract: Large Language Models (LLMs)-powered multi-agent systems are increasingly deployed in mixed-motive environments, where agents operate under asymmetric ..."
+            },
+            {
+                "title": "ClinLens: Towards Long-Horizon Coding Agents for Longitudinal Multimodal Clinical Data Science",
+                "link": "https://arxiv.org/abs/2607.26155",
+                "summary": "arXiv:2607.26155v1 Announce Type: new \nAbstract: Clinical data-science agents must transform heterogeneous longitudinal records into auditable analyses, yet existing benchmarks largely isolate medical..."
+            },
+            {
+                "title": "When benchmark inferences do not compose: Projectibility in AI evaluation",
+                "link": "https://arxiv.org/abs/2607.26159",
+                "summary": "arXiv:2607.26159v1 Announce Type: new \nAbstract: An AI benchmark result rarely reaches a consequential claim in one step. Evaluators generalize it to further cases, interpret it as evidence of capabil..."
+            },
+            {
+                "title": "GuideSkill: Evolving Executable LLM Agent Skills for Guideline-Grounded Clinical Reasoning",
+                "link": "https://arxiv.org/abs/2607.26160",
+                "summary": "arXiv:2607.26160v1 Announce Type: new \nAbstract: Clinical practice guidelines (CPGs) encode diagnostic criteria, but LLM systems typically retrieve guideline text or absorb it through training rather ..."
+            }
+        ],
+        "Practitioner": [
+            {
+                "title": "The Maxwell conjecture is false. Counterexample found by AI (GPT-5.6 Sol)",
+                "link": "https://xcancel.com/antibot/captcha",
+                "summary": "..."
+            },
+            {
+                "title": "Khan Academy CEO: The Real AI Opportunity Is in Boring Industries [video]",
+                "link": "https://www.youtube.com/watch?v=s-Iz-lLAhdg",
+                "summary": "..."
+            },
+            {
+                "title": "Haccp for AI: An Auditable Self-Control Standard for Artificial Intelligence",
+                "link": "https://zenodo.org/records/21710254",
+                "summary": "..."
+            },
+            {
+                "title": "Show HN: Emem Channel - Signed collaboration between independent AI agents",
+                "link": "https://emem.dev/channel",
+                "summary": "..."
+            },
+            {
+                "title": "America's biggest companies are burning cash on AI. It's risky for everyone",
+                "link": "https://www.washingtonpost.com/technology/2026/07/31/tech-giants-burning-cash-ai-create-risks-whole-economy/",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
