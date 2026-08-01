@@ -8768,5 +8768,36 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-08-01": {
+        "Research": [],
+        "Practitioner": [
+            {
+                "title": "Kill Chain: How AI Is Transforming Modern Warfare [video]",
+                "link": "https://www.youtube.com/watch?v=xjhywQlzJYo",
+                "summary": "..."
+            },
+            {
+                "title": "TokenIgnite \u2013 Runtime Figma-to-code validation for AI workflows",
+                "link": "https://tokenignite.live",
+                "summary": "..."
+            },
+            {
+                "title": "Reddit Stock Collapses 23% as AI Eats Away at User Growth",
+                "link": "https://www.barchart.com/story/news/3584357/reddit-stock-collapses-23-as-ai-eats-away-at-user-growth",
+                "summary": "..."
+            },
+            {
+                "title": "Show HN: SendPage \u2013 Paste AI-generated HTML, get a link clients can open",
+                "link": "https://sendpageapp.com",
+                "summary": "..."
+            },
+            {
+                "title": "The Obligatory AI Post",
+                "link": "https://lapcatsoftware.com/articles/2026/7/15.html",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
