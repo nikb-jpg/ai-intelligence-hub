@@ -8918,5 +8918,36 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-08-05": {
+        "Research": [
+            {
+                "title": "ISEE: Interactive Semantic Enrichment for Database Fields",
+                "link": "https://arxiv.org/abs/2608.02604",
+                "summary": "arXiv:2608.02604v1 Announce Type: new \nAbstract: LLM-based agents are increasingly being deployed for data-related tasks, including data sense-making, exploration, and retrieval. However, their perfor..."
+            },
+            {
+                "title": "Self-Organising Digital Circuits",
+                "link": "https://arxiv.org/abs/2608.02606",
+                "summary": "arXiv:2608.02606v1 Announce Type: new \nAbstract: Fault tolerance in classical computing has traditionally relied on static strategies like hardware redundancy and error-correcting codes. Biological sy..."
+            },
+            {
+                "title": "Beyond the Hivemind: Escaping LLM Homogeneity via Meta-Persona Anchoring and Sequential Temperature Scaling",
+                "link": "https://arxiv.org/abs/2608.02618",
+                "summary": "arXiv:2608.02618v1 Announce Type: new \nAbstract: Recent studies have identified an ``Artificial Hivemind'' effect in Large Language Models (LLMs) causing models to converge on a narrow, homogenized co..."
+            },
+            {
+                "title": "PULSE: An Executable Contract Language for Spatiotemporal Knowledge Graph Engineering",
+                "link": "https://arxiv.org/abs/2608.02630",
+                "summary": "arXiv:2608.02630v1 Announce Type: new \nAbstract: Knowledge graph engineering often distributes accepted state, observations, constraints, processes, and hypothetical scenarios across artifacts whose c..."
+            },
+            {
+                "title": "HyperAgent: Planning and Acting over Tool-Schema Hypergraphs for Tool-Use LLM Agents",
+                "link": "https://arxiv.org/abs/2608.02650",
+                "summary": "arXiv:2608.02650v1 Announce Type: new \nAbstract: Large language model (LLM) agents increasingly rely on external tools to complete complex real-world tasks. However, reliable tool-use planning remains..."
+            }
+        ],
+        "Practitioner": [],
+        "Prompting": []
     }
 }
