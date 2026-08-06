@@ -8949,5 +8949,36 @@
         ],
         "Practitioner": [],
         "Prompting": []
+    },
+    "2026-08-06": {
+        "Research": [
+            {
+                "title": "A Long-Run Persistence Theory for AI Systems under the Redundancy-Adjusted Artificial Age Score (AAS)",
+                "link": "https://arxiv.org/abs/2608.04012",
+                "summary": "arXiv:2608.04012v1 Announce Type: new \nAbstract: Artificial intelligence systems are increasingly expected to operate over repeated cycles of interaction, adaptation, and update rather than through is..."
+            },
+            {
+                "title": "The LLM Proposes, the Executive Disposes: A Self-Verifying Agent Instrument that Dissociates Commitment Drift from Binding Drift in Long-Horizon Agents",
+                "link": "https://arxiv.org/abs/2608.04066",
+                "summary": "arXiv:2608.04066v1 Announce Type: new \nAbstract: How do you verify a long-horizon agent when its own state and self-reports are exactly what you cannot trust? We present an agent instrument built so t..."
+            },
+            {
+                "title": "Monte Carlo Tree Search for Table-to-Multimodal Report Generation",
+                "link": "https://arxiv.org/abs/2608.04071",
+                "summary": "arXiv:2608.04071v1 Announce Type: new \nAbstract: Automatically generating professional multimodal reports comprising both textual analysis and visual charts from structured tabular data is a critical ..."
+            },
+            {
+                "title": "FinProBench: Evaluating Financial AI Agents with Role-Grounded Rubrics Derived from Professional Deliverables",
+                "link": "https://arxiv.org/abs/2608.04077",
+                "summary": "arXiv:2608.04077v1 Announce Type: new \nAbstract: Evaluating financial AI agents requires criteria aligned with real professional work. Existing rubric methods typically derive criteria from task promp..."
+            },
+            {
+                "title": "FinPerMA: A Theory-Informed, Event-Grounded Personalized-Memory Benchmark for LLM Agents",
+                "link": "https://arxiv.org/abs/2608.04095",
+                "summary": "arXiv:2608.04095v1 Announce Type: new \nAbstract: Large language model (LLM) agents are increasingly used as personalized assistants in high-stakes domains such as financial advising, yet it remains un..."
+            }
+        ],
+        "Practitioner": [],
+        "Prompting": []
     }
 }
