@@ -8980,5 +8980,36 @@
         ],
         "Practitioner": [],
         "Prompting": []
+    },
+    "2026-08-07": {
+        "Research": [
+            {
+                "title": "Agentic Nesting: A New Methodology for Existing Enterprise Application Integration and Services",
+                "link": "https://arxiv.org/abs/2608.05159",
+                "summary": "arXiv:2608.05159v1 Announce Type: new \nAbstract: Enterprise operations extensively rely on multiple heterogeneous business systems and information applications, which also result in severe data silos ..."
+            },
+            {
+                "title": "The Ignition Index: Measuring Global Workspace Dynamics in Language Models",
+                "link": "https://arxiv.org/abs/2608.05160",
+                "summary": "arXiv:2608.05160v1 Announce Type: new \nAbstract: We introduce the Ignition Index (I), a validated scalar metric that operationalizes Global Workspace Theory's (GWT) all-or-none ignition prediction in ..."
+            },
+            {
+                "title": "Woodpecker Distillation: Weak Models Diagnose Reasoning Bugs in Strong Models",
+                "link": "https://arxiv.org/abs/2608.05168",
+                "summary": "arXiv:2608.05168v1 Announce Type: new \nAbstract: Large language models often fail on reasoning tasks despite possessing the capability to solve them. We argue that many such failures arise from locali..."
+            },
+            {
+                "title": "From Continuous Predictors to Clinical Thresholds: Early Evidence on Performance Trade-offs of Guideline-Based Categorisation for Ischaemic Stroke Outcome Prediction",
+                "link": "https://arxiv.org/abs/2608.05203",
+                "summary": "arXiv:2608.05203v1 Announce Type: new \nAbstract: Machine learning models achieve strong predictive accuracy for 90-day outcome prediction in acute ischaemic stroke, yet clinical adoption is limited by..."
+            },
+            {
+                "title": "SkillTrace: Multi-Trace Provenance Auditing for LLM-Agent Skill Reuse",
+                "link": "https://arxiv.org/abs/2608.05204",
+                "summary": "arXiv:2608.05204v1 Announce Type: new \nAbstract: LLM-agent ecosystems are rapidly growing around reusable skills: mixed-modality packages of metadata, natural-language instructions, code, tools, refer..."
+            }
+        ],
+        "Practitioner": [],
+        "Prompting": []
     }
 }
