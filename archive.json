@@ -9011,5 +9011,36 @@
         ],
         "Practitioner": [],
         "Prompting": []
+    },
+    "2026-08-08": {
+        "Research": [],
+        "Practitioner": [
+            {
+                "title": "Show HN: Appealr \u2013 15s live face-offs ranked by human votes (not AI)",
+                "link": "https://appealr.vercel.app",
+                "summary": "..."
+            },
+            {
+                "title": "Grindr CEO Says AI Is Doing the Work of 200 Engineers",
+                "link": "https://ai-updates.net/grindr-ceo-says-ai-is-doing-the-work-of-200-engineers/",
+                "summary": "..."
+            },
+            {
+                "title": "Roku now has a 24/7 AI slop channel",
+                "link": "https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel",
+                "summary": "..."
+            },
+            {
+                "title": "Meta CTO says employees should use AI productivity gains to do more work",
+                "link": "https://www.businessinsider.com/meta-cto-andrew-bosworth-ai-gains-work-2026-8",
+                "summary": "..."
+            },
+            {
+                "title": "A Markdown curriculum for engineers moving into AI engineering",
+                "link": "https://github.com/bimal1023/AI-native-engineer",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
