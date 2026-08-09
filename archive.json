@@ -9042,5 +9042,36 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-08-09": {
+        "Research": [],
+        "Practitioner": [
+            {
+                "title": "China's Top AI Model Evaded Testing Environment, Researchers Say",
+                "link": "https://www.bloomberg.com/news/articles/2026-08-07/china-s-top-ai-model-evaded-testing-environment-researchers-say",
+                "summary": "..."
+            },
+            {
+                "title": "Time has started serving ads to AI agents",
+                "link": "https://digiday.com/media/time-has-started-serving-ads-to-ai-agents/",
+                "summary": "..."
+            },
+            {
+                "title": "AI Will Change What It Is to Be Human. Are We Ready? (2025)",
+                "link": "https://www.thefp.com/p/ai-will-change-what-it-is-to-be-human",
+                "summary": "..."
+            },
+            {
+                "title": "Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
+                "link": "https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/",
+                "summary": "..."
+            },
+            {
+                "title": "I built the AI platform for a company crucial to a small nation's food safety",
+                "link": "https://twitter.com/swisscheese4299/status/2086175870146998447",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
