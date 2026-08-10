@@ -9073,5 +9073,62 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-08-10": {
+        "Research": [
+            {
+                "title": "Towards Multi-Label Graph Foundation Models: from Single-Vector Representation Learning to Multi-Semantic Basis Learning",
+                "link": "https://arxiv.org/abs/2608.06394",
+                "summary": "arXiv:2608.06394v1 Announce Type: new \nAbstract: Multi-label node classification is an important yet challenging task in graph learning, where nodes exhibit multiple semantics simultaneously. Existing..."
+            },
+            {
+                "title": "EntropyMoE: Entropy-Aware Sparse Expert Routing for Tokenizer-Free LLMs",
+                "link": "https://arxiv.org/abs/2608.06398",
+                "summary": "arXiv:2608.06398v1 Announce Type: new \nAbstract: Recent byte-level large language models (LLMs) have made tokenizer-free modeling increasingly competitive by grouping bytes into dynamically sized patc..."
+            },
+            {
+                "title": "Beyond Routing Weights: Faithful Response-Level Interpretation of Mixture-of-Experts Reward Models via Contribution Contrast",
+                "link": "https://arxiv.org/abs/2608.06400",
+                "summary": "arXiv:2608.06400v1 Announce Type: new \nAbstract: Reward models are central to learning from human preferences, yet identifying what drives their predictions remains challenging. Recent sparse Mixture-..."
+            },
+            {
+                "title": "Interpretable Unsupervised Community Detection with LLM-Symbolized Structured Processes",
+                "link": "https://arxiv.org/abs/2608.06402",
+                "summary": "arXiv:2608.06402v1 Announce Type: new \nAbstract: Community detection is a fundamental task in graph analytics that aims to identify cohesive groups of entities with similar behaviors or interests. Cla..."
+            },
+            {
+                "title": "ADIAS: Automated Design of Interactive Agentic Systems",
+                "link": "https://arxiv.org/abs/2608.06410",
+                "summary": "arXiv:2608.06410v1 Announce Type: new \nAbstract: Automated agent design improves agent harnesses through iterative revision, evaluation, and feedback summarization. Existing methods are largely candid..."
+            }
+        ],
+        "Practitioner": [
+            {
+                "title": "The AI Barons Are Ready to Give Away Their Fortunes",
+                "link": "https://www.wired.com/story/ai-billionaires-are-pledging-their-wealth-good-or-bad/",
+                "summary": "..."
+            },
+            {
+                "title": "AI won't kill the PM role. Same job, better tools",
+                "link": "https://www.leadinginproduct.com/p/ai-pm-role-same-job",
+                "summary": "..."
+            },
+            {
+                "title": "How should we evaluate memory for AI agents?",
+                "link": "https://x.com/AgentMemoryL",
+                "summary": "..."
+            },
+            {
+                "title": "Amazon plans gigantic gas power plant for new AI data center",
+                "link": "https://www.heise.de/en/news/Amazon-plans-gigantic-gas-power-plant-for-new-AI-data-center-11404051.html",
+                "summary": "..."
+            },
+            {
+                "title": "My AI story begins in 2018",
+                "link": "https://filtar.web.app",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
