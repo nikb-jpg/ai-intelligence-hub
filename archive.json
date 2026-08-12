@@ -9187,5 +9187,62 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-08-12": {
+        "Research": [
+            {
+                "title": "Closed-Loop LLM Co-Pilots for Digital Agriculture",
+                "link": "https://arxiv.org/abs/2608.09949",
+                "summary": "arXiv:2608.09949v1 Announce Type: new \nAbstract: This study evaluates the application of Large Language Models (LLMs) in complex biological systems, evolving from data analysis to autonomous, AI-guide..."
+            },
+            {
+                "title": "SPOTting the Future: Lookahead Explanations for Deep Reinforcement Learning",
+                "link": "https://arxiv.org/abs/2608.09967",
+                "summary": "arXiv:2608.09967v1 Announce Type: new \nAbstract: Deep reinforcement learning (DRL) agents achieve strong performance in complex environments, yet their decision-making processes remain difficult to in..."
+            },
+            {
+                "title": "MIDAS: Mutual Information Disentanglement with Uncertainty-Aware Fusion for Incomplete Multimodal Sentiment Analysis",
+                "link": "https://arxiv.org/abs/2608.09986",
+                "summary": "arXiv:2608.09986v1 Announce Type: new \nAbstract: Most existing multimodal sentiment analysis approaches assume access to complete multimodal inputs. However, real-world applications frequently encount..."
+            },
+            {
+                "title": "Towards Sustainable Artificial Intelligence: A Comprehensive Review and Comparative Analysis of Deep Learning Models' Carbon Footprint",
+                "link": "https://arxiv.org/abs/2608.09998",
+                "summary": "arXiv:2608.09998v1 Announce Type: new \nAbstract: Artificial Intelligence (AI) and Machine Learning (ML) have become powerful tools for supporting and automating complex human tasks. Despite their bene..."
+            },
+            {
+                "title": "ReCBM: Uncertainty-Gated Relational Reasoning for Concept Bottleneck Models",
+                "link": "https://arxiv.org/abs/2608.10004",
+                "summary": "arXiv:2608.10004v1 Announce Type: new \nAbstract: Concept Bottleneck Models (CBMs) provide an interpretable framework by grounding predictions in human-understandable concepts, enabling semantic inspec..."
+            }
+        ],
+        "Practitioner": [
+            {
+                "title": "When the AI Bubble Bursts, Who Will Be Left Holding the Bag?",
+                "link": "https://cepr.net/publications/when-the-ai-bubble-bursts-who-will-be-left-holding-the-bag/",
+                "summary": "..."
+            },
+            {
+                "title": "A New Label for AI-Generated Artist Identities on Spotify",
+                "link": "https://newsroom.spotify.com/2026-08-11/ai-persona-badges-transparency/",
+                "summary": "..."
+            },
+            {
+                "title": "Do We Need a New Programming Language for the AI Era?",
+                "link": "https://mfallah.com/blog/do-we-need-a-new-programming-language-for-the-ai-era/",
+                "summary": "..."
+            },
+            {
+                "title": "Creating a niche AI Benchmark with token anxiety",
+                "link": "https://thijsbrits.nl/blog/20260804/",
+                "summary": "..."
+            },
+            {
+                "title": "New AI chip mimics the human brain's capacity for split-second motor control",
+                "link": "https://www.livescience.com/technology/electronics/new-ai-chip-mimics-the-human-brains-capacity-for-split-second-motor-control-it-solved-problems-using-10-000-times-fewer-calculations",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
