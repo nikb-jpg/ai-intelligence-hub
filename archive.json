@@ -9358,5 +9358,62 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-08-15": {
+        "Research": [
+            {
+                "title": "Position: Reasoning is a Learnable Rule-Based Process",
+                "link": "https://arxiv.org/abs/2608.12325",
+                "summary": "arXiv:2608.12325v1 Announce Type: new \nAbstract: Autonomous reasoning is among the most scientifically and economically motivating topics in AI today. Historically the purview of symbolic AI, recent a..."
+            },
+            {
+                "title": "Diagnostic Foundation for Evaluating LLMs' Research Integrity as Co-Scientists",
+                "link": "https://arxiv.org/abs/2608.12345",
+                "summary": "arXiv:2608.12345v1 Announce Type: new \nAbstract: Language models are increasingly deployed as co-scientists, yet their ability to uphold research integrity under institutional pressure remains unmeasu..."
+            },
+            {
+                "title": "Position: The Alignment Community is Unintentionally Building a Censor's Toolkit",
+                "link": "https://arxiv.org/abs/2608.12346",
+                "summary": "arXiv:2608.12346v1 Announce Type: new \nAbstract: This position paper argues that modern AI alignment methods - originally designed to prevent harmful output - are dual-use technologies that may easily..."
+            },
+            {
+                "title": "Agreement Is Not Alignment: Divergent Moral Grounds in Human and LLM Ethical Judgments",
+                "link": "https://arxiv.org/abs/2608.12368",
+                "summary": "arXiv:2608.12368v1 Announce Type: new \nAbstract: Agreement with human judgments is a common proxy for evaluating the alignment of large language models (LLMs). Yet agreement in final labels does not s..."
+            },
+            {
+                "title": "Multi-Agent Scheduling with LLM-Assisted Contract Net Negotiation for Stream Processing in Mobile Edge Computing",
+                "link": "https://arxiv.org/abs/2608.12371",
+                "summary": "arXiv:2608.12371v1 Announce Type: new \nAbstract: Stream-processing systems increasingly operate across heterogeneous mobile edge--cloud infrastructures, where workload volatility, resource contention,..."
+            }
+        ],
+        "Practitioner": [
+            {
+                "title": "Show HN: Chemistry AI \u2013 step-by-step chemistry solver",
+                "link": "https://chemistryai.chat",
+                "summary": "..."
+            },
+            {
+                "title": "Show HN: HN without AI stories",
+                "link": "https://hnnoai.readpipe.org/",
+                "summary": "..."
+            },
+            {
+                "title": "Ukraine Finds Nvidia AI Chip in New Russian Missile",
+                "link": "https://www.kyivpost.com/post/82225",
+                "summary": "..."
+            },
+            {
+                "title": "Suspecting court of using AI, man injected prompts in filings to try to win case",
+                "link": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/",
+                "summary": "..."
+            },
+            {
+                "title": "AI agents aren't legally responsible for harm they cause. So who is?",
+                "link": "https://www.theguardian.com/technology/2026/aug/13/ai-agents-arent-legally-responsible-for-any-harm-that-they-cause-experts-say-so-who-is",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
