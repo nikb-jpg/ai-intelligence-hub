@@ -9477,5 +9477,36 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-08-18": {
+        "Research": [
+            {
+                "title": "FLOPs vs Real Work: The Importance of Replication in AI Efficiency Assessment",
+                "link": "https://arxiv.org/abs/2608.14550",
+                "summary": "arXiv:2608.14550v1 Announce Type: new \nAbstract: AI efficiency has recently taken the spotlight in both academy and industry due to massive model scales, high energy demands, and environmental costs. ..."
+            },
+            {
+                "title": "Large Language Models Show Metacognitive Sensitivity in Medical Reasoning",
+                "link": "https://arxiv.org/abs/2608.14552",
+                "summary": "arXiv:2608.14552v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly evaluated and used in medicine, but clinical usefulness depends on answer accuracy and whether confidence..."
+            },
+            {
+                "title": "The Unwritten Benchmark: A New Challenge for Multimodal Machine Learning in Abstract Perceptual Reasoning",
+                "link": "https://arxiv.org/abs/2608.14558",
+                "summary": "arXiv:2608.14558v1 Announce Type: new \nAbstract: Current multimodal models have demonstrated remarkable proficiency in recognizing static visual and auditory content. However, their capacity for abstr..."
+            },
+            {
+                "title": "When to Communicate: Belief Distributions and KL Divergence for Principled Gating in Multi-Agent RL",
+                "link": "https://arxiv.org/abs/2608.14559",
+                "summary": "arXiv:2608.14559v1 Announce Type: new \nAbstract: Effective communication in multi-agent reinforcement learning requires agents to decide not only \\textit{what} to communicate, but when? Existing appro..."
+            },
+            {
+                "title": "Global AI Regulations for FAIR and Ethics in High-Risk Use Cases: A Comparative Review",
+                "link": "https://arxiv.org/abs/2608.14562",
+                "summary": "arXiv:2608.14562v1 Announce Type: new \nAbstract: AI governance is shifting from voluntary ethics to enforceable, risk-based regulation, yet cross-jurisdictional divergence creates compliance uncertain..."
+            }
+        ],
+        "Practitioner": [],
+        "Prompting": []
     }
 }
