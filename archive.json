@@ -9508,5 +9508,36 @@
         ],
         "Practitioner": [],
         "Prompting": []
+    },
+    "2026-08-19": {
+        "Research": [
+            {
+                "title": "GxP-Agent: Process-DAG Topology for Reliable Clinical Trial Programming with LLM Agents",
+                "link": "https://arxiv.org/abs/2608.16890",
+                "summary": "arXiv:2608.16890v1 Announce Type: new \nAbstract: Clinical trial programming -- transforming study protocols into analysis-ready datasets under CDISC standards -- is a bottleneck in regulatory submissi..."
+            },
+            {
+                "title": "Runtime Governance for Agentic AI: Action-Boundary Control with Trusted Provenance and Fail-Closed Execution",
+                "link": "https://arxiv.org/abs/2608.16891",
+                "summary": "arXiv:2608.16891v1 Announce Type: new \nAbstract: Agentic AI systems request tool actions that can modify files, send messages, launch jobs, or change workflow state. This shifts the safety problem fro..."
+            },
+            {
+                "title": "The Price of Thinking: Reasoning Effort as a Model-Specific API Contract",
+                "link": "https://arxiv.org/abs/2608.16956",
+                "summary": "arXiv:2608.16956v1 Announce Type: new \nAbstract: API buyers purchase a dated contract, not a model name alone: the contract includes the requested and served model, reasoning-effort term or its omissi..."
+            },
+            {
+                "title": "FedPref: Federated Preference Learning for Structured Radiology Report Extraction",
+                "link": "https://arxiv.org/abs/2608.16971",
+                "summary": "arXiv:2608.16971v1 Announce Type: new \nAbstract: Radiology reports describe findings and locations in free text, but downstream search and analysis require these relations in a fixed schema. Learning ..."
+            },
+            {
+                "title": "The Problem Is the Problem: Towards Scalable Mathematical Discovery",
+                "link": "https://arxiv.org/abs/2608.16977",
+                "summary": "arXiv:2608.16977v1 Announce Type: new \nAbstract: AI systems are increasingly capable of contributing to mathematical research. In research practice, frontier-model reasoning is a limited resource, and..."
+            }
+        ],
+        "Practitioner": [],
+        "Prompting": []
     }
 }
