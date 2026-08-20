@@ -9539,5 +9539,62 @@
         ],
         "Practitioner": [],
         "Prompting": []
+    },
+    "2026-08-20": {
+        "Research": [
+            {
+                "title": "Position: Collusion Risks Among AI Reasoning Agents Justify Certification Requirements for Making Market Decisions",
+                "link": "https://arxiv.org/abs/2608.18078",
+                "summary": "arXiv:2608.18078v1 Announce Type: new \nAbstract: This position paper argues that AI agents with chain-of-thought reasoning capabilities are predisposed to exhibit collusive behavior and should be requ..."
+            },
+            {
+                "title": "Position: Profiling Game Worlds by Transition Complexity",
+                "link": "https://arxiv.org/abs/2608.18079",
+                "summary": "arXiv:2608.18079v1 Announce Type: new \nAbstract: Game world modeling (GWM) and reinforcement learning (RL) are often confounded because research papers rarely quantify how difficult the underlying tra..."
+            },
+            {
+                "title": "Large Language Models in Mental Health: A Systematic Review of Applications, Innovations, and Ethical Challenges",
+                "link": "https://arxiv.org/abs/2608.18080",
+                "summary": "arXiv:2608.18080v1 Announce Type: new \nAbstract: We present a review on the applications of large language models (LLMs) in health, e.g., social media analysis, clinical conversational agents, therapy..."
+            },
+            {
+                "title": "Position: Behavioral Systems Require Behavioral Tests",
+                "link": "https://arxiv.org/abs/2608.18081",
+                "summary": "arXiv:2608.18081v1 Announce Type: new \nAbstract: Artificial agentic systems increasingly operate as behavioral systems by interacting with dynamic environments, pursuing goals, and adapting over time...."
+            },
+            {
+                "title": "Position: Current Model Cards Are Insufficient for Downstream Governance of Open-Weight Foundation Models",
+                "link": "https://arxiv.org/abs/2608.18086",
+                "summary": "arXiv:2608.18086v1 Announce Type: new \nAbstract: The growth of open-weight foundation models (OWFMs) has prompted the AI community to re-evaluate strategies for effective downstream governance. Althou..."
+            }
+        ],
+        "Practitioner": [
+            {
+                "title": "Don't Paste the AI, please",
+                "link": "https://dontpastetheai.com/",
+                "summary": "..."
+            },
+            {
+                "title": "AI Influence Level (Ail) v1.0",
+                "link": "https://danielmiessler.com/blog/ai-influence-level-ail",
+                "summary": "..."
+            },
+            {
+                "title": "200B Tokens Later: A Month of Letting AI Agents Decompile MW2",
+                "link": "https://momo5502.com/posts/2026-08-17-mw2-decompilation/",
+                "summary": "..."
+            },
+            {
+                "title": "A perfect example of concept entanglement in generative AI",
+                "link": "https://martinanderson.ai/blog/entanglement-in-ai-generation-veronica-carlson-hair.html",
+                "summary": "..."
+            },
+            {
+                "title": "LinkVault \u2013 A local-first archive for online learning",
+                "link": "https://github.com/Howard-Starfield/LinkVault-Linkedin-Learning-Courses-Downloader",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
