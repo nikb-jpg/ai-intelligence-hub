@@ -9627,5 +9627,36 @@
         ],
         "Practitioner": [],
         "Prompting": []
+    },
+    "2026-08-22": {
+        "Research": [],
+        "Practitioner": [
+            {
+                "title": "I turned Unix talk from 1983 into the interface for my AI",
+                "link": "https://en.andros.dev/blog/09a21bdd/i-turned-unix-talk-from-1983-into-the-interface-for-my-ai/",
+                "summary": "..."
+            },
+            {
+                "title": "Show HN: Agile AI Development Lifecycle",
+                "link": "https://valeriavg.dev/agile-ai-development-lifecycle",
+                "summary": "..."
+            },
+            {
+                "title": "Show HN: Learn Leap, an AI tutor that teaches from your own material",
+                "link": "https://learnleap.xyz",
+                "summary": "..."
+            },
+            {
+                "title": "Anthropic's Opus 4.6 is a smut-machine",
+                "link": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
+                "summary": "..."
+            },
+            {
+                "title": "Would a Hiroshima-scale AI disaster make humanity protect itself? I fear not",
+                "link": "https://www.theguardian.com/commentisfree/2026/aug/22/ai-disaster-hiroshima-humankind-silicon-valley-technology",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
