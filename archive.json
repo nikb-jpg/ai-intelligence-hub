@@ -9658,5 +9658,36 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-08-23": {
+        "Research": [],
+        "Practitioner": [
+            {
+                "title": "Orelon \u2013 AI Video Generator for Cinematic Creation",
+                "link": "https://orelon.ai/",
+                "summary": "..."
+            },
+            {
+                "title": "Ksumiyo \u2013 AI music generation with producer-level controls",
+                "link": "https://www.ksumiyo.com",
+                "summary": "..."
+            },
+            {
+                "title": "The Zen of AI",
+                "link": "https://www.dtlarson.com/zen",
+                "summary": "..."
+            },
+            {
+                "title": "A Test for AI Consciousness",
+                "link": "https://gruhn.me/blog/2026-08-16/",
+                "summary": "..."
+            },
+            {
+                "title": "Wild AI-related reliability incidents are coming",
+                "link": "https://surfingcomplexity.blog/2026/08/22/wild-ai-related-reliability-incidents-are-coming/",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
