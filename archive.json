@@ -9803,5 +9803,62 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-08-26": {
+        "Research": [
+            {
+                "title": "RENDER: Controlling Reader-Facing Evidence in LLM Memory Evaluation",
+                "link": "https://arxiv.org/abs/2608.23568",
+                "summary": "arXiv:2608.23568v1 Announce Type: new \nAbstract: Memory and RAG evaluations often treat the answering model's input as an implementation detail, even though systems may render the same history as a me..."
+            },
+            {
+                "title": "ESQ-Bench: A Multi-Tier Enterprise Oracle Benchmark for Evaluating NL2SQL Dialect Generalization and Silent Semantic Divergence",
+                "link": "https://arxiv.org/abs/2608.23569",
+                "summary": "arXiv:2608.23569v1 Announce Type: new \nAbstract: State-of-the-art Natural Language to SQL (NL2SQL) models report execution accuracy exceeding 89 percent on established benchmarks such as Spider and BI..."
+            },
+            {
+                "title": "LLM Agents Perform Controlled Experiments Using Simulation Models",
+                "link": "https://arxiv.org/abs/2608.23622",
+                "summary": "arXiv:2608.23622v1 Announce Type: new \nAbstract: Large language models (LLMs) have shown strong capabilities in reasoning, planning, and tool use, but many scientific and engineering tasks require mor..."
+            },
+            {
+                "title": "A survey detection channel overrides the pixels in an astronomical foundation model, and biases tomographic mean redshifts",
+                "link": "https://arxiv.org/abs/2608.23626",
+                "summary": "arXiv:2608.23626v1 Announce Type: new \nAbstract: Foundation models for astronomy are trained on survey pixels together with the catalogue products derived from those pixels. Those catalogues are incom..."
+            },
+            {
+                "title": "TRACE: Transition-Aware Residual Control for Multi-Objective Materials Discovery",
+                "link": "https://arxiv.org/abs/2608.23631",
+                "summary": "arXiv:2608.23631v1 Announce Type: new \nAbstract: Multi-objective materials discovery with LLM agents is often limited not only by how many candidates can be proposed, but by how effectively each costl..."
+            }
+        ],
+        "Practitioner": [
+            {
+                "title": "SleepJEPA: Learning the latent world of sleep to estimate disease risk",
+                "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13042106/",
+                "summary": "..."
+            },
+            {
+                "title": "'This is crazy. This is insane': Bill Gates has changed his mind about AI,jobs",
+                "link": "https://www.semafor.com/article/08/25/2026/this-is-crazy-this-is-insane-bill-gates-has-changed-his-mind-about-ai-and-jobs",
+                "summary": "..."
+            },
+            {
+                "title": "Veryfront Code, the first full-stack AI framework",
+                "link": "https://github.com/veryfront/veryfront-code",
+                "summary": "..."
+            },
+            {
+                "title": "How We Used AI to Bring MongoDB to DynamoDB",
+                "link": "https://www.mongodb.com/company/blog/technical/how-we-used-ai-bring-mongodb-to-dynamodb",
+                "summary": "..."
+            },
+            {
+                "title": "ByteDance Launches AI Office Product \"Doubao Work\"",
+                "link": "https://www.ithome.com/0/993/865.htm",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
