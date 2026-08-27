@@ -9860,5 +9860,62 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-08-27": {
+        "Research": [
+            {
+                "title": "RENDER: Controlling Reader-Facing Evidence in LLM Memory Evaluation",
+                "link": "https://arxiv.org/abs/2608.23568",
+                "summary": "arXiv:2608.23568v1 Announce Type: new \nAbstract: Memory and RAG evaluations often treat the answering model's input as an implementation detail, even though systems may render the same history as a me..."
+            },
+            {
+                "title": "ESQ-Bench: A Multi-Tier Enterprise Oracle Benchmark for Evaluating NL2SQL Dialect Generalization and Silent Semantic Divergence",
+                "link": "https://arxiv.org/abs/2608.23569",
+                "summary": "arXiv:2608.23569v1 Announce Type: new \nAbstract: State-of-the-art Natural Language to SQL (NL2SQL) models report execution accuracy exceeding 89 percent on established benchmarks such as Spider and BI..."
+            },
+            {
+                "title": "LLM Agents Perform Controlled Experiments Using Simulation Models",
+                "link": "https://arxiv.org/abs/2608.23622",
+                "summary": "arXiv:2608.23622v1 Announce Type: new \nAbstract: Large language models (LLMs) have shown strong capabilities in reasoning, planning, and tool use, but many scientific and engineering tasks require mor..."
+            },
+            {
+                "title": "A survey detection channel overrides the pixels in an astronomical foundation model, and biases tomographic mean redshifts",
+                "link": "https://arxiv.org/abs/2608.23626",
+                "summary": "arXiv:2608.23626v1 Announce Type: new \nAbstract: Foundation models for astronomy are trained on survey pixels together with the catalogue products derived from those pixels. Those catalogues are incom..."
+            },
+            {
+                "title": "TRACE: Transition-Aware Residual Control for Multi-Objective Materials Discovery",
+                "link": "https://arxiv.org/abs/2608.23631",
+                "summary": "arXiv:2608.23631v1 Announce Type: new \nAbstract: Multi-objective materials discovery with LLM agents is often limited not only by how many candidates can be proposed, but by how effectively each costl..."
+            }
+        ],
+        "Practitioner": [
+            {
+                "title": "The AI 'Ghosts' Contaminating Academic Publishing",
+                "link": "https://www.404media.co/the-ai-ghosts-contaminating-academic-publishing/",
+                "summary": "..."
+            },
+            {
+                "title": "AI's hacking capabilities are severely underestimated",
+                "link": "https://www.ft.com/content/3f154376-fd8b-4255-ac5b-538c5e90fc40",
+                "summary": "..."
+            },
+            {
+                "title": "How much of a problem is AI's water use?",
+                "link": "https://arstechnica.com/ai/2026/08/how-much-of-a-problem-is-ais-water-use/",
+                "summary": "..."
+            },
+            {
+                "title": "Ask HN: AI agent acts. Your logs say so. But you wrote the logs",
+                "link": "https://news.ycombinator.com/item?id=49468363",
+                "summary": "..."
+            },
+            {
+                "title": "AMD Jumps from ROCm 7.14 to ROCm 10.0 with Rocm.ai",
+                "link": "https://www.phoronix.com/news/AMD-ROCm-10.0",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
