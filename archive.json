@@ -9917,5 +9917,62 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-08-28": {
+        "Research": [
+            {
+                "title": "EduRiskX: A Neuro-Symbolic Framework with F-Logic Reasoning for Early Academic Risk Prediction",
+                "link": "https://arxiv.org/abs/2608.26107",
+                "summary": "arXiv:2608.26107v1 Announce Type: new \nAbstract: Predicting students' academic risk in online education is crucial for enabling timely interventions that can improve retention and learning outcomes. H..."
+            },
+            {
+                "title": "Standalone LLM and a Pre-specified Agentic Pipeline for Explaining ICU Mortality Predictions: a Feasibility Study on the eICU Demo Dataset",
+                "link": "https://arxiv.org/abs/2608.26109",
+                "summary": "arXiv:2608.26109v1 Announce Type: new \nAbstract: Machine-learning models can predict ICU mortality accurately, but feature-attribution methods alone rarely provide the clinical narrative needed for be..."
+            },
+            {
+                "title": "Large Models for Battery Prognostics and Health Management: A Review and Future Roadmap",
+                "link": "https://arxiv.org/abs/2608.26111",
+                "summary": "arXiv:2608.26111v1 Announce Type: new \nAbstract: Battery Prognostics and Health Management (BPHM) is critical for ensuring the safe, reliable, and cost-effective operation of batteries across electric..."
+            },
+            {
+                "title": "PICasso: An AI-Enabled Design Framework for Autonomous Optimization of Silicon Photonic Devices",
+                "link": "https://arxiv.org/abs/2608.26113",
+                "summary": "arXiv:2608.26113v1 Announce Type: new \nAbstract: We present PICasso, an AI-assisted framework for automated synthesis, verification, and optimization of photonic integrated circuits (PICs) from natura..."
+            },
+            {
+                "title": "CIFQA: A Deterministic Tool-Grounded Multi-Agent LLM Framework for Financial Query Answering",
+                "link": "https://arxiv.org/abs/2608.26114",
+                "summary": "arXiv:2608.26114v1 Announce Type: new \nAbstract: Calculation-intensive financial question answering requires exact reasoning over structured rates, temporal conditions, numerical formulas, and rule-ba..."
+            }
+        ],
+        "Practitioner": [
+            {
+                "title": "Moonshot and Nvidia Talks Show Chinese AI Models Moving into the Enterprise",
+                "link": "https://techstrong.ai/articles/moonshot-and-nvidia-talks-show-chinese-ai-models-moving-into-the-enterprise/",
+                "summary": "..."
+            },
+            {
+                "title": "Show HN: iOS app for learning any song on piano with AI music transcription",
+                "link": "https://apps.apple.com/us/app/anything-piano-learn-any-song/id6761146933",
+                "summary": "..."
+            },
+            {
+                "title": "The Analytical AI Handbook",
+                "link": "https://handbook.sutro.sh",
+                "summary": "..."
+            },
+            {
+                "title": "China's daily AI token usage tops 500T as compute demand grows",
+                "link": "https://technode.com/2026/08/28/chinas-daily-ai-token-usage-tops-500-trillion-as-compute-demand-grows/",
+                "summary": "..."
+            },
+            {
+                "title": "The Uninvited Guest Who Crashed Our Family Vacation: My Mom's AI Chatbot",
+                "link": "https://www.wsj.com/tech/ai/claude-family-ai-chatbot-vacation-boomers-b6b7b25e",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
