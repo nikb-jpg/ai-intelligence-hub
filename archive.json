@@ -9974,5 +9974,36 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-08-29": {
+        "Research": [
+            {
+                "title": "EduRiskX: A Neuro-Symbolic Framework with F-Logic Reasoning for Early Academic Risk Prediction",
+                "link": "https://arxiv.org/abs/2608.26107",
+                "summary": "arXiv:2608.26107v1 Announce Type: new \nAbstract: Predicting students' academic risk in online education is crucial for enabling timely interventions that can improve retention and learning outcomes. H..."
+            },
+            {
+                "title": "Standalone LLM and a Pre-specified Agentic Pipeline for Explaining ICU Mortality Predictions: a Feasibility Study on the eICU Demo Dataset",
+                "link": "https://arxiv.org/abs/2608.26109",
+                "summary": "arXiv:2608.26109v1 Announce Type: new \nAbstract: Machine-learning models can predict ICU mortality accurately, but feature-attribution methods alone rarely provide the clinical narrative needed for be..."
+            },
+            {
+                "title": "Large Models for Battery Prognostics and Health Management: A Review and Future Roadmap",
+                "link": "https://arxiv.org/abs/2608.26111",
+                "summary": "arXiv:2608.26111v1 Announce Type: new \nAbstract: Battery Prognostics and Health Management (BPHM) is critical for ensuring the safe, reliable, and cost-effective operation of batteries across electric..."
+            },
+            {
+                "title": "PICasso: An AI-Enabled Design Framework for Autonomous Optimization of Silicon Photonic Devices",
+                "link": "https://arxiv.org/abs/2608.26113",
+                "summary": "arXiv:2608.26113v1 Announce Type: new \nAbstract: We present PICasso, an AI-assisted framework for automated synthesis, verification, and optimization of photonic integrated circuits (PICs) from natura..."
+            },
+            {
+                "title": "CIFQA: A Deterministic Tool-Grounded Multi-Agent LLM Framework for Financial Query Answering",
+                "link": "https://arxiv.org/abs/2608.26114",
+                "summary": "arXiv:2608.26114v1 Announce Type: new \nAbstract: Calculation-intensive financial question answering requires exact reasoning over structured rates, temporal conditions, numerical formulas, and rule-ba..."
+            }
+        ],
+        "Practitioner": [],
+        "Prompting": []
     }
 }
