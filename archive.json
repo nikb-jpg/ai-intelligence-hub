@@ -10005,5 +10005,36 @@
         ],
         "Practitioner": [],
         "Prompting": []
+    },
+    "2026-08-30": {
+        "Research": [],
+        "Practitioner": [
+            {
+                "title": "Judge rule AI-generated child sex abuse material is protected by First Amendment",
+                "link": "https://reason.com/volokh/2026/08/27/home-possession-of-ai-generated-porn-depicting-fake-children-remains-constitutionally-protected-seventh-circuit-rules/",
+                "summary": "..."
+            },
+            {
+                "title": "90 days of attacks on AI infrastructure",
+                "link": "https://www.wiz.io/blog/ai-infrastructure-honeypot",
+                "summary": "..."
+            },
+            {
+                "title": "No AI Fridays",
+                "link": "https://noaifridays.com/",
+                "summary": "..."
+            },
+            {
+                "title": "Idlen: Ads in the IDE, in AI chats, and a self-serve ads manager",
+                "link": "https://www.idlen.io/",
+                "summary": "..."
+            },
+            {
+                "title": "The turbulent AI era is here. The choices we make now are critical",
+                "link": "https://www.gatesnotes.com/home/home-page-topic/reader/a-turbulent-ai-era-and-critical-choices-to-make",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
