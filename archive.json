@@ -10098,5 +10098,62 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-09-02": {
+        "Research": [
+            {
+                "title": "HyperWorld: Hypergraph-Structured State Serialization Improves Learned Textual World Models",
+                "link": "https://arxiv.org/abs/2609.00002",
+                "summary": "arXiv:2609.00002v1 Announce Type: new \nAbstract: World models enable language-model agents to predict environment dynamics and plan before acting. In text environments, the model must learn symbolic a..."
+            },
+            {
+                "title": "I-CARE: Analysis of interference-related phenomena in a controllable, diverse and representative unlearning setting for text-to-image models",
+                "link": "https://arxiv.org/abs/2609.00003",
+                "summary": "arXiv:2609.00003v1 Announce Type: new \nAbstract: Machine unlearning studies the removal of knowledge from an AI model, making the system forget a concept it previously learned. Despite rapid progress ..."
+            },
+            {
+                "title": "Discrete-Time MDP Modeling for Multi-Item Capacitated Lot Sizing with Stochastic Demand Timing",
+                "link": "https://arxiv.org/abs/2609.00004",
+                "summary": "arXiv:2609.00004v1 Announce Type: new \nAbstract: This paper studies a finite-horizon multi-item capacitated lot-sizing problem in which demand quantities are deterministic, while demand-arrival period..."
+            },
+            {
+                "title": "Incremental Risk Assessment of Progressive Elder Financial Scams via Instruction-Tuned Small Language Models",
+                "link": "https://arxiv.org/abs/2609.00005",
+                "summary": "arXiv:2609.00005v1 Announce Type: new \nAbstract: Financial scams targeting older adults increasingly occur through text and voice channels such as email, SMS, and phone calls, unfolding over multiple ..."
+            },
+            {
+                "title": "Long-Horizon State Tracking in LLMs: Executing MD5 through a Deep Sequence of Dependent Tool Calls",
+                "link": "https://arxiv.org/abs/2609.00012",
+                "summary": "arXiv:2609.00012v1 Announce Type: new \nAbstract: Long-horizon tasks remain uncommon in large language model (LLM) evaluation, and for a reason: when each step depends on the last, per-step accuracy th..."
+            }
+        ],
+        "Practitioner": [
+            {
+                "title": "AI Slop Is Ruining Cute Animals on the Internet",
+                "link": "https://www.wired.com/story/ai-slop-is-ruining-the-internets-cute-animal-economy/",
+                "summary": "..."
+            },
+            {
+                "title": "AI Agent Memory Design: What Works and What Doesn't",
+                "link": "https://machinelearningmastery.com/ai-agent-memory-design-what-works-and-what-doesnt/",
+                "summary": "..."
+            },
+            {
+                "title": "AI goes where the oracle is cheap",
+                "link": "https://dilpreet.co/blog/2026/9/1/ai-goes-where-the-oracle-is-cheap",
+                "summary": "..."
+            },
+            {
+                "title": "Claude Fable 5.1 tops AI index but costs 20% more per task",
+                "link": "https://artificialanalysis.ai/articles/claude-fable-5-1",
+                "summary": "..."
+            },
+            {
+                "title": "Bassfinity for iOS \u2013 AI guide built on solunar data, weather, and bathymetry",
+                "link": "https://www.bassfinity.com/blog/bassfinity-for-ios-the-whole-lake-in-your-pocket",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
