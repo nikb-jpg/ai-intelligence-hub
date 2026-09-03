@@ -10155,5 +10155,62 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-09-03": {
+        "Research": [
+            {
+                "title": "EvalDetectBench: A Benchmark for Measuring Evaluation Awareness in Frontier Language Models",
+                "link": "https://arxiv.org/abs/2609.01611",
+                "summary": "arXiv:2609.01611v1 Announce Type: new \nAbstract: Frontier large language models can often recognize when they are being evaluated, a capability known as evaluation awareness. If models behave differen..."
+            },
+            {
+                "title": "Meta-ethics and AI: exploring the novel meta-ethical questions in the era of AI",
+                "link": "https://arxiv.org/abs/2609.01685",
+                "summary": "arXiv:2609.01685v1 Announce Type: new \nAbstract: With the development of artificial intelligence (AI), the landscape of meta-ethics, which has largely centred on human ethics, faces pressures that may..."
+            },
+            {
+                "title": "When Can a Machine Trust a Statute? A Survival Certificate for Machine-Extracted Legal Logic",
+                "link": "https://arxiv.org/abs/2609.01741",
+                "summary": "arXiv:2609.01741v1 Announce Type: new \nAbstract: Statutes are increasingly parsed by machines before people read them, and the parsers disagree: on Missouri's statutes, two independently written extra..."
+            },
+            {
+                "title": "When Does Information Sharing Improve Decentralized Discovery? Aggregation, Independent Rescue, and Equilibrium Selection",
+                "link": "https://arxiv.org/abs/2609.01814",
+                "summary": "arXiv:2609.01814v1 Announce Type: new \nAbstract: Information sharing can improve a pooled estimate while eliminating independent rescue actions. This paper separates those effects in exact finite disc..."
+            },
+            {
+                "title": "Induction and Inquiry via Probabilistic Reasoning over Language and Code",
+                "link": "https://arxiv.org/abs/2609.01815",
+                "summary": "arXiv:2609.01815v1 Announce Type: new \nAbstract: How humans grow and maintain abstract knowledge from the sparse, streaming noisy data of experience is a longstanding challenge in cognitive science. A..."
+            }
+        ],
+        "Practitioner": [
+            {
+                "title": "Free OpenHelper AI Chatbot v2 Preview is coming with many features",
+                "link": "https://techambient.github.io/HybridAI/v2.html",
+                "summary": "..."
+            },
+            {
+                "title": "Freelancers are getting buried with 'soulless' AI slop cleanup",
+                "link": "https://www.theguardian.com/technology/2026/sep/02/ai-jobs-freelance-cleanup",
+                "summary": "..."
+            },
+            {
+                "title": "Show HN: Oconee Runtime \u2013 Policy enforcement for browser AI and coding agents",
+                "link": "https://www.oconeeruntime.com/news/policy-enforcement-for-browser-ai-and-coding-agents",
+                "summary": "..."
+            },
+            {
+                "title": "We ported 65 OSS projects with AI",
+                "link": "https://akka.io/blog/we-ported-65-oss-projects",
+                "summary": "..."
+            },
+            {
+                "title": "Show HN: StillMade \u2013 Programmable AI video pipeline; Chat to video (now)",
+                "link": "https://www.stillmade.shop",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
