@@ -10274,5 +10274,36 @@
         "Research": [],
         "Practitioner": [],
         "Prompting": []
+    },
+    "2026-09-06": {
+        "Research": [],
+        "Practitioner": [
+            {
+                "title": "TCS commits $7.4B to a one-gigawatt AI campus in Hyderabad",
+                "link": "https://thenextweb.com/news/tcs-hypervault-one-gigawatt-hyderabad-campus-7-4-billion-water-neutral-claim-eu-data-centre-reporting-delegated-regulation-2024-1364",
+                "summary": "..."
+            },
+            {
+                "title": "What does \"good\" AI mean?",
+                "link": "https://thoughts.wyounas.com/p/what-does-good-ai-mean",
+                "summary": "..."
+            },
+            {
+                "title": "Dolly Parton's Sister Slams \"Endless Garbage\": AI, Social Media Misinformation",
+                "link": "https://deadline.com/2026/09/dolly-parton-stella-ai-social-media-1237068956/",
+                "summary": "..."
+            },
+            {
+                "title": "The AI Wait Equation",
+                "link": "https://xendo.bearblog.dev/the-wait-equation/",
+                "summary": "..."
+            },
+            {
+                "title": "Show HN: Wayfinder \u2013 A reference implementation for evaluating AI applications",
+                "link": "https://github.com/DivakarUngatla/wayfinder",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
