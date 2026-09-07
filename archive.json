@@ -10305,5 +10305,62 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-09-07": {
+        "Research": [
+            {
+                "title": "EXAONE Forecast for Finance",
+                "link": "https://arxiv.org/abs/2609.04239",
+                "summary": "arXiv:2609.04239v1 Announce Type: new \nAbstract: This technical report presents EXAONE Forecast for Finance (EXAONE Finance), a financial time series (TS) foundation model (TSFM) tailored to financial..."
+            },
+            {
+                "title": "From Matching Models to Recruiting Agents: A Systematized Narrative Review of AI Recruitment Systems, Evaluation, and Governance",
+                "link": "https://arxiv.org/abs/2609.04286",
+                "summary": "arXiv:2609.04286v1 Announce Type: new \nAbstract: Artificial intelligence in recruitment has shifted the object being automated from profile pairs and ranked lists to multi-stage workflows that retriev..."
+            },
+            {
+                "title": "Harbor Adapters and Harbor-Index: Infrastructure and a Curated Meta-Dataset for Large-Scale Agentic Evaluation",
+                "link": "https://arxiv.org/abs/2609.04298",
+                "summary": "arXiv:2609.04298v1 Announce Type: new \nAbstract: Evaluating agents on the growing number of agentic benchmarks is challenging because they often require complex environments and agent integrations. We..."
+            },
+            {
+                "title": "Data-Optimized Contingency Screening: A Machine Learning Approach to Power System Security",
+                "link": "https://arxiv.org/abs/2609.04300",
+                "summary": "arXiv:2609.04300v1 Announce Type: new \nAbstract: Ensuring the security of the power system is essential for stability and reliability, especially in the event of disruption. Effective classification o..."
+            },
+            {
+                "title": "Iris: Climbing to the Search Frontier",
+                "link": "https://arxiv.org/abs/2609.04304",
+                "summary": "arXiv:2609.04304v1 Announce Type: new \nAbstract: We present Iris-mini and Iris-pro, two search agents trained at the 35B-A3B and 397B-A17B scales, together with the data pipeline and training recipe b..."
+            }
+        ],
+        "Practitioner": [
+            {
+                "title": "AI Backlash Comes to the Classroom",
+                "link": "https://www.axios.com/2026/09/07/ai-schools-backlash-bans-new-york-los-angeles",
+                "summary": "..."
+            },
+            {
+                "title": "AI Agents Aha Moment",
+                "link": "https://k1024.org/posts/2026/2026-09-06-ai-agents-aha/",
+                "summary": "..."
+            },
+            {
+                "title": "Show HN: Neuro, a compiled language for AI that matches Clang -O2",
+                "link": "https://github.com/PanzerPeter/Neuro",
+                "summary": "..."
+            },
+            {
+                "title": "Show HN: A brainstorm canvas with no back end, running on Chrome's on-device AI",
+                "link": "https://idea.xiaohan.dev",
+                "summary": "..."
+            },
+            {
+                "title": "Does this machine make life easier?",
+                "link": "https://www.willpatrick.co.uk/articles/does-this-machine-make-life-easier/",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
