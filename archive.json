@@ -10362,5 +10362,36 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-09-08": {
+        "Research": [],
+        "Practitioner": [
+            {
+                "title": "Getting Out of the Loop: 8 Months Solo-Building with AI",
+                "link": "https://github.com/patforna/writing",
+                "summary": "..."
+            },
+            {
+                "title": "Show HN: A Free AI Plugin for Google Ads, Console and Analytics",
+                "link": "https://unfetch.com/plugin",
+                "summary": "..."
+            },
+            {
+                "title": "Show HN: Stateful AI agent on Cloudflare Workers free tier, with evals",
+                "link": "https://github.com/DomWane/workers-personal-agent",
+                "summary": "..."
+            },
+            {
+                "title": "Show HN: AI Agent for Google Play Submissions [video]",
+                "link": "https://www.youtube.com/watch?v=tSSPdkp0QVI",
+                "summary": "..."
+            },
+            {
+                "title": "Show HN: Fraise: a memory database for AI agents",
+                "link": "https://docs.getfraise.dev",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
