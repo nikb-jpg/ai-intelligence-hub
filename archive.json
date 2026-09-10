@@ -10398,5 +10398,62 @@
         "Research": [],
         "Practitioner": [],
         "Prompting": []
+    },
+    "2026-09-10": {
+        "Research": [
+            {
+                "title": "Beyond Right and Wrong: Evaluating Second-order Social Reasoning in Large Language Models",
+                "link": "https://arxiv.org/abs/2609.05437",
+                "summary": "arXiv:2609.05437v1 Announce Type: new \nAbstract: Previous AI alignment efforts have focused primarily on first-order social norms -- teaching models what is socially acceptable or unacceptable (e.g., ..."
+            },
+            {
+                "title": "CriticGen: Generation-Aware Evaluation as Actionable Feedback",
+                "link": "https://arxiv.org/abs/2609.05439",
+                "summary": "arXiv:2609.05439v1 Announce Type: new \nAbstract: Current evaluation methods for large language models are coarse-grained and decoupled from generation, producing generic explanations that fail to prov..."
+            },
+            {
+                "title": "When Does Memory Help? A Cost-Aware Evaluation of Long-Term Memory in Tool-Using LLM Agents",
+                "link": "https://arxiv.org/abs/2609.05441",
+                "summary": "arXiv:2609.05441v1 Announce Type: new \nAbstract: Long-term memory for LLM agents is evaluated today by conversational recall benchmarks (LoCoMo, LongMemEval), which measure question answering over dia..."
+            },
+            {
+                "title": "AutoFyn Technical Report: Non-Parametric Expert Iteration for Long-Horizon Agents",
+                "link": "https://arxiv.org/abs/2609.05446",
+                "summary": "arXiv:2609.05446v1 Announce Type: new \nAbstract: We introduce AutoFyn, an agent harness inspired by the Expert Iteration algorithm, adapting a frozen model across many rounds by updating persistent st..."
+            },
+            {
+                "title": "Damage-Aware Bandit Pruning for Vision and Language Transformers",
+                "link": "https://arxiv.org/abs/2609.05448",
+                "summary": "arXiv:2609.05448v1 Announce Type: new \nAbstract: Structured post-training pruning of transformers requires selecting complete functional units whose suppression causes limited degradation. We formulat..."
+            }
+        ],
+        "Practitioner": [
+            {
+                "title": "Will AI soon lead to double-digit growth?",
+                "link": "https://aleximas.substack.com/p/will-ai-soon-lead-to-double-digit",
+                "summary": "..."
+            },
+            {
+                "title": "Show HN: Oracle Forms to Java: A Two-Week AI Migration Experiment",
+                "link": "https://vaadin.com/blog/oracle-forms-to-java-a-two-week-ai-migration-experiment",
+                "summary": "..."
+            },
+            {
+                "title": "Show HN: Security Cards \u2013 Reducing insecure AI-generated code by 72%",
+                "link": "https://www.rewarelabs.com/blog/introducing-security-cards/",
+                "summary": "..."
+            },
+            {
+                "title": "Japan can turn AI demand into industrial strength",
+                "link": "https://www.governance.fyi/p/how-japan-can-turn-ai-demand-into",
+                "summary": "..."
+            },
+            {
+                "title": "Most of us are writing with AI, but no one likes reading AI writing",
+                "link": "https://vitaexmachina.substack.com/p/most-of-us-are-writing-with-ai-but",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
