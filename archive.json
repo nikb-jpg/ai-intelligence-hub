@@ -10455,5 +10455,62 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-09-11": {
+        "Research": [
+            {
+                "title": "OpenDiscoveryTrace: Process Traces for Evaluating AI Scientist Workflows",
+                "link": "https://arxiv.org/abs/2609.09203",
+                "summary": "arXiv:2609.09203v1 Announce Type: new \nAbstract: Existing benchmarks for autonomous AI scientists evaluate only final outputs---generated code, hypotheses, or papers---yet discard the reasoning proces..."
+            },
+            {
+                "title": "Adaptive Entangled Game Modules in Artificial General Intelligence",
+                "link": "https://arxiv.org/abs/2609.09226",
+                "summary": "arXiv:2609.09226v1 Announce Type: new \nAbstract: We introduce a probability-wave framework for modeling the collective behavior of interacting adaptive agents, deriving testable eigenmodes through a g..."
+            },
+            {
+                "title": "Subagents vs Agent Skills: Executing Reusable Knowledge for Long-Horizon Agentic Tasks",
+                "link": "https://arxiv.org/abs/2609.09233",
+                "summary": "arXiv:2609.09233v1 Announce Type: new \nAbstract: How can language model agents effectively leverage libraries of reusable knowledge to solve long-horizon tasks? Recent work has increasingly focused on..."
+            },
+            {
+                "title": "Gradland: On Phenomenal Experience, Differentiated Across Many Dimensions",
+                "link": "https://arxiv.org/abs/2609.09306",
+                "summary": "arXiv:2609.09306v1 Announce Type: new \nAbstract: This paper investigates the hypothesis that the first-order structure of physical interactions, i.e. gradients or Jacobians, characterizes the structur..."
+            },
+            {
+                "title": "An Autonomous GeoAI Agent for Arctic Eco-Navigation",
+                "link": "https://arxiv.org/abs/2609.09374",
+                "summary": "arXiv:2609.09374v1 Announce Type: new \nAbstract: Arctic maritime navigation is becoming increasingly important as changing sea-ice conditions expand seasonal accessibility while simultaneously introdu..."
+            }
+        ],
+        "Practitioner": [
+            {
+                "title": "Mozilla pauses it's Bug Bounty Program for 3 months due to AI report volume",
+                "link": "https://hackerone.com/mozilla/updates?type=team",
+                "summary": "..."
+            },
+            {
+                "title": "AI Hysteria Jumps the Shark",
+                "link": "https://www.washingtonpost.com/opinions/2026/09/09/artificial-intelligence-will-not-kill-us-all/",
+                "summary": "..."
+            },
+            {
+                "title": "Pizza Bot: a local-first inbox for long-running AI agents",
+                "link": "https://github.com/pizza-bot-app/pizza-bot",
+                "summary": "..."
+            },
+            {
+                "title": "Culture slop: how AI gave Brazil an American 1980s",
+                "link": "https://albertoescarlate.substack.com/p/culture-slop-how-ai-gave-brazil-an",
+                "summary": "..."
+            },
+            {
+                "title": "Europe's difficult choices on AI \u2013 Mario Draghi",
+                "link": "https://www.ft.com/content/f054f927-b512-452a-b494-ea53f5ac1079",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
