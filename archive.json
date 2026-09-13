@@ -10543,5 +10543,36 @@
         ],
         "Practitioner": [],
         "Prompting": []
+    },
+    "2026-09-13": {
+        "Research": [],
+        "Practitioner": [
+            {
+                "title": "Show HN: I built ThreadShelf to reuse hard-to-export AI chats like OpenRouter",
+                "link": "https://github.com/ChrystianSchutz/ThreadShelf",
+                "summary": "..."
+            },
+            {
+                "title": "Why AI Benchmarks Are Total BS",
+                "link": "https://www.pcmag.com/opinions/why-ai-benchmarks-are-total-bs-and-how-openai-and-anthropic-use-them-to",
+                "summary": "..."
+            },
+            {
+                "title": "Void Linux Maintainer Orphans 100 Packages over AI Policy Dispute",
+                "link": "https://www.phoronix.com/news/Void-Linux-AI-Policy-Orphan",
+                "summary": "..."
+            },
+            {
+                "title": "Ask HN: On the Contest of Meat and Machine",
+                "link": "https://news.ycombinator.com/item?id=49683179",
+                "summary": "..."
+            },
+            {
+                "title": "Post on HN, get flooded with AI sales pitches",
+                "link": "https://textlog.cc/post/1055",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
