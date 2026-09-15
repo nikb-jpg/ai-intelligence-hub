@@ -10579,5 +10579,36 @@
         "Research": [],
         "Practitioner": [],
         "Prompting": []
+    },
+    "2026-09-15": {
+        "Research": [
+            {
+                "title": "ZGCM-1: A Fully Open and Extremely Efficient Foundation Model for Math and Agentic Search",
+                "link": "https://arxiv.org/abs/2609.13356",
+                "summary": "arXiv:2609.13356v1 Announce Type: new \nAbstract: In this work, we present ZGCM-1, a fully open 7B dense foundation model trained from scratch with extreme data, system, and algorithmic efficiency. ZGC..."
+            },
+            {
+                "title": "Converge Then Diversify: Decoupling Convergence and Diversity in Multi-Objective Bayesian Optimisation",
+                "link": "https://arxiv.org/abs/2609.13396",
+                "summary": "arXiv:2609.13396v1 Announce Type: new \nAbstract: Multi-objective Bayesian optimisation (MOBO) is a sample-efficient approach for optimising expensive black-box functions with multiple objectives. In M..."
+            },
+            {
+                "title": "Generalized Agent Iteration: One Formal Framework for Iterative Policy Improvement and Recursive Self-Improvement",
+                "link": "https://arxiv.org/abs/2609.13406",
+                "summary": "arXiv:2609.13406v1 Announce Type: new \nAbstract: When we speak of recursive self-improvement (RSI), are we speaking of a phenomenon, a mechanism, or a prospect? Towards autonomous and evolving intelli..."
+            },
+            {
+                "title": "Vibe Patenting: Evaluating LLM Judges for Professional Patent-Drafting Agents",
+                "link": "https://arxiv.org/abs/2609.13422",
+                "summary": "arXiv:2609.13422v1 Announce Type: new \nAbstract: LLM judges are increasingly used to evaluate and improve AI-generated outputs, yet their reliability for complex professional work remains unclear. We ..."
+            },
+            {
+                "title": "Toward Self-Adaptive Physical AI: Can LLM Agents Manage Long-Horizon Physical Tasks?",
+                "link": "https://arxiv.org/abs/2609.13436",
+                "summary": "arXiv:2609.13436v1 Announce Type: new \nAbstract: Large Language Model (LLM) agents offer a promising path toward autonomously managing long-term physical tasks without human intervention. However, phy..."
+            }
+        ],
+        "Practitioner": [],
+        "Prompting": []
     }
 }
