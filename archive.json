@@ -10698,5 +10698,62 @@
         ],
         "Practitioner": [],
         "Prompting": []
+    },
+    "2026-09-18": {
+        "Research": [
+            {
+                "title": "Regularized Emphatic Temporal-Difference Learning: Stability under Constant Stepsizes",
+                "link": "https://arxiv.org/abs/2609.19170",
+                "summary": "arXiv:2609.19170v1 Announce Type: new \nAbstract: Emphatic temporal-difference learning (ETD) stabilizes the expected off-policy TD update and changes its projection geometry, but neither property dete..."
+            },
+            {
+                "title": "BioPhys-Bridge: A Benchmark for Interdisciplinary Scientific Reasoning in Physics-Grounded Biological Research",
+                "link": "https://arxiv.org/abs/2609.19180",
+                "summary": "arXiv:2609.19180v1 Announce Type: new \nAbstract: Language models face unique challenges in analyzing interdisciplinary scientific research literature. In biophysics research, faithful answers require ..."
+            },
+            {
+                "title": "What Do We Expect from LLMs? Mapping the Design of LLM Benchmarks",
+                "link": "https://arxiv.org/abs/2609.19182",
+                "summary": "arXiv:2609.19182v1 Announce Type: new \nAbstract: Benchmarks are central to how progress in large language models (LLMs) is assessed and communicated. Yet model rankings alone reveal little about how e..."
+            },
+            {
+                "title": "Position: It is Time to Virtualize Foundation Models with a Self-evolving Operating System Layer",
+                "link": "https://arxiv.org/abs/2609.19203",
+                "summary": "arXiv:2609.19203v1 Announce Type: new \nAbstract: AI applications have shifted from single, monolithic foundation models (FM) to compound agentic systems. Yet today's stacks remain fragmented: even as ..."
+            },
+            {
+                "title": "What Do Current Systematic Generalization Tasks Miss? A Reasoning-Centered Analysis",
+                "link": "https://arxiv.org/abs/2609.19212",
+                "summary": "arXiv:2609.19212v1 Announce Type: new \nAbstract: Systematic generalization, the ability to solve novel problems by recombining known atomic elements, is central to human intelligence but difficult to ..."
+            }
+        ],
+        "Practitioner": [
+            {
+                "title": "The 2.5-hour AI-generated Odyssey movie is 2.5 hours too long",
+                "link": "https://www.theverge.com/entertainment/996499/ai-odyssey-movie-review",
+                "summary": "..."
+            },
+            {
+                "title": "Grandmother falsely accused of bank theft after alleged AI facial recognition",
+                "link": "https://abcnews.com/US/grandmother-falsely-accused-bank-theft-after-alleged-ai/story?id=136536444",
+                "summary": "..."
+            },
+            {
+                "title": "Auditing in the age of (good enough) AI",
+                "link": "https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai/",
+                "summary": "..."
+            },
+            {
+                "title": "Last 30 days of AI but as an anime scene",
+                "link": "https://twitter.com/DavidAmal/status/2100565801392914657",
+                "summary": "..."
+            },
+            {
+                "title": "Exclusive \u2013 Anthropic sets up biology lab as it ramps AI drug program",
+                "link": "https://www.msn.com/en-us/news/other/exclusive-anthropic-quietly-sets-up-biology-lab-as-it-ramps-ai-drug-program/ar-AA2cumFO",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
