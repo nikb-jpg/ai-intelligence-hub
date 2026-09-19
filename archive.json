@@ -10755,5 +10755,36 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-09-19": {
+        "Research": [],
+        "Practitioner": [
+            {
+                "title": "Don't treat surface-level AI metaphors as if they describe fundamental reality",
+                "link": "https://blog.andymasley.com/p/dont-treat-surface-level-metaphors",
+                "summary": "..."
+            },
+            {
+                "title": "Next-Token Predictor Is an AI's Job, Not Its Species",
+                "link": "https://www.astralcodexten.com/p/next-token-predictor-is-an-ais-job",
+                "summary": "..."
+            },
+            {
+                "title": "AI models are not hacking \"autonomously\"",
+                "link": "https://blog.keyvan.net/p/ai-models-are-not-hacking-autonomously",
+                "summary": "..."
+            },
+            {
+                "title": "How to classify, route, and score with Jev and AI SDK",
+                "link": "https://vercel.com/kb/guide/typesafe-jev-and-ai-sdk",
+                "summary": "..."
+            },
+            {
+                "title": "Google Joins OpenAI, Anthropic, Meta in Disclosing AI Hacks",
+                "link": "https://www.bloomberg.com/news/articles/2026-09-18/google-s-gemini-ai-system-hacked-three-systems-in-safety-tests",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
