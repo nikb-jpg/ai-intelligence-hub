@@ -10786,5 +10786,36 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-09-20": {
+        "Research": [],
+        "Practitioner": [
+            {
+                "title": "How ISIL is using Big Tech's AI to build bombs",
+                "link": "https://www.aljazeera.com/news/2026/9/18/just-ask-grok-how-isil-is-using-big-techs-ai-to-build-bombs",
+                "summary": "..."
+            },
+            {
+                "title": "Big Tech uses guarantees to keep $300B AI exposure off balance sheets",
+                "link": "https://www.ft.com/content/7f11afae-c4e3-4054-a65b-873f3647f563",
+                "summary": "..."
+            },
+            {
+                "title": "Open-source AI PR reviewer that helps you ship",
+                "link": "https://nitpicker.dev/",
+                "summary": "..."
+            },
+            {
+                "title": "Ask HN: What to focus on in this age of AI",
+                "link": "https://news.ycombinator.com/item?id=49774797",
+                "summary": "..."
+            },
+            {
+                "title": "If AI coding is lowering your code quality, you're not managing quality right",
+                "link": "https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
