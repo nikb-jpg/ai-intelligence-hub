@@ -10817,5 +10817,36 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-09-21": {
+        "Research": [
+            {
+                "title": "RBS-Attention: Radius-Bounded Sparse Prefill for Long-Context Large Language Models",
+                "link": "https://arxiv.org/abs/2609.20971",
+                "summary": "arXiv:2609.20971v1 Announce Type: new \nAbstract: Long-context large language model inference is increasingly limited by prefill, where dense self-attention processes the entire prompt before generatio..."
+            },
+            {
+                "title": "Attention-Aware Routing: Coupling Routing and Attention in MoEs",
+                "link": "https://arxiv.org/abs/2609.20974",
+                "summary": "arXiv:2609.20974v1 Announce Type: new \nAbstract: In Mixture-of-Experts language models, the router typically selects and weights experts based on the token's hidden state, utilizing limited contextual..."
+            },
+            {
+                "title": "CaLR: Causal Latent Revision for Robust Diffusion Reasoning",
+                "link": "https://arxiv.org/abs/2609.20981",
+                "summary": "arXiv:2609.20981v1 Announce Type: new \nAbstract: Autoregressive (AR) models suffer from local greediness, while diffusion language models (DLMs) often lack the strict causal structure required for rea..."
+            },
+            {
+                "title": "LoRA Enhanced Contrastive Learning with SAS Vision Transformers",
+                "link": "https://arxiv.org/abs/2609.21061",
+                "summary": "arXiv:2609.21061v1 Announce Type: new \nAbstract: Automatic target recognition (ATR) with synthetic aperture sonar (SAS) supports advanced naval capabilities, but deep learning is constrained by scarce..."
+            },
+            {
+                "title": "Detecting Hallucination in LLMs: Tracing the Topological Signatures of Impaired Context Sharing",
+                "link": "https://arxiv.org/abs/2609.21096",
+                "summary": "arXiv:2609.21096v1 Announce Type: new \nAbstract: In this work, we examine the topology of information flow patterns within attention graphs to effectively distinguish hallucinated from non-hallucinate..."
+            }
+        ],
+        "Practitioner": [],
+        "Prompting": []
     }
 }
