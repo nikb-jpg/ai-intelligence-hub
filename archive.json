@@ -10905,5 +10905,62 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-09-23": {
+        "Research": [
+            {
+                "title": "Didactic knowledge or Clinical Cases? How Data Types Shape Medical Large Language Models",
+                "link": "https://arxiv.org/abs/2609.22161",
+                "summary": "arXiv:2609.22161v1 Announce Type: new \nAbstract: Medical large language models are commonly trained on mixtures of didactic data (e.g., textbooks) and clinical data (e.g., patient records), yet how th..."
+            },
+            {
+                "title": "An Affordable AI-Integrated Smart Cane for Multimodal Mobility Assistance of Visually Impaired Users",
+                "link": "https://arxiv.org/abs/2609.22277",
+                "summary": "arXiv:2609.22277v1 Announce Type: new \nAbstract: Visual impairment affects over 2.2 billion people worldwide, yet conventional white canes cannot detect elevated hazards or provide semantic environmen..."
+            },
+            {
+                "title": "PAANI : On Device Visual Evidence Fusion and Explainable Guidance for River Robot Simulation",
+                "link": "https://arxiv.org/abs/2609.22353",
+                "summary": "arXiv:2609.22353v1 Announce Type: new \nAbstract: Mobile river monitoring robots must interpret obstacles and water boundaries that geographic waypoints alone cannot describe. On resource constrained p..."
+            },
+            {
+                "title": "Social Influence and the Allocation of Scientific Attention in AI Populations",
+                "link": "https://arxiv.org/abs/2609.22408",
+                "summary": "arXiv:2609.22408v1 Announce Type: new \nAbstract: AI systems are becoming participants in the evaluation and use of scientific research. They encounter citation counts, download statistics and lists of..."
+            },
+            {
+                "title": "Learning 3D biophysical cell properties from 2D images and cell-population statistics",
+                "link": "https://arxiv.org/abs/2609.22410",
+                "summary": "arXiv:2609.22410v1 Announce Type: new \nAbstract: Inferring 3D cellular properties from 2D microscopy is difficult when a reference instrument reports only population statistics rather than labels for ..."
+            }
+        ],
+        "Practitioner": [
+            {
+                "title": "VedicQ AI Astrology Kundli Engine",
+                "link": "https://www.vedicq.com/",
+                "summary": "..."
+            },
+            {
+                "title": "What AI-Native Looks Like",
+                "link": "https://fagnerbrack.com/heres-what-ai-native-with-stable-infra-looks-like-9f17cdb61459",
+                "summary": "..."
+            },
+            {
+                "title": "BannerGen \u2013 AI Social Media Banner Generator (CLI, Open Source)",
+                "link": "https://github.com/astra-intelligence/bannergen-cli",
+                "summary": "..."
+            },
+            {
+                "title": "AI proof of the Erd\u0151s\u2013S\u00f3s conjecture",
+                "link": "https://arxiv.org/abs/2609.17877",
+                "summary": "..."
+            },
+            {
+                "title": "Show HN: RxFilm Studio\u2013Create and edit your product videos with AI agent",
+                "link": "https://filmstudio.rxlab.app",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
