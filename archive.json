@@ -10962,5 +10962,62 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-09-24": {
+        "Research": [
+            {
+                "title": "Silent Failures in Agent-Tool Interaction: An Audit of ToolUniverse",
+                "link": "https://arxiv.org/abs/2609.26836",
+                "summary": "arXiv:2609.26836v1 Announce Type: new \nAbstract: Agentic AI systems are increasingly adopting automated pipelines that integrate multiple tools. While prior research and benchmarks have studied about ..."
+            },
+            {
+                "title": "Harness as a Language: A Minimalist Agent Framework With Maximal Expressivity",
+                "link": "https://arxiv.org/abs/2609.26891",
+                "summary": "arXiv:2609.26891v1 Announce Type: new \nAbstract: Modern language-model agents are built around the \\textit{agent loop}, where the LLM is placed in an environment exposing a set of tools, and the LLM h..."
+            },
+            {
+                "title": "TwinCheck: Evidence-Grounded Negative-Twin Verification for Stateful Tool Agents",
+                "link": "https://arxiv.org/abs/2609.26911",
+                "summary": "arXiv:2609.26911v1 Announce Type: new \nAbstract: A single locally plausible tool call can derail an otherwise successful agent trajectory. Suspicion alone does not justify intervention, because the re..."
+            },
+            {
+                "title": "Building Socio-Affective Artificial Intelligence for Interactive Multi-Agent Simulations",
+                "link": "https://arxiv.org/abs/2609.26927",
+                "summary": "arXiv:2609.26927v1 Announce Type: new \nAbstract: The objective of this article is to provide design principles and a software architecture for enabling interaction between humans and multiple agents i..."
+            },
+            {
+                "title": "Which Objectives Need a Dial? Predicting Objective Conflict and Covering Trade-offs in Steerable Pluralistic Alignment",
+                "link": "https://arxiv.org/abs/2609.26929",
+                "summary": "arXiv:2609.26929v1 Announce Type: new \nAbstract: People hold diverse, sometimes conflicting values, so no single aligned model can satisfy everyone. Pluralistic alignment therefore calls for steerable..."
+            }
+        ],
+        "Practitioner": [
+            {
+                "title": "I Proved AI Could Beat Our Technical Interviews. Then I Had to Fix Them",
+                "link": "https://andrewwegner.com/ai-broke-our-interview-process-i-had-to-fix-it.html",
+                "summary": "..."
+            },
+            {
+                "title": "Changing my mind about AI risk \u2013 Francis Fukuyama [video]",
+                "link": "https://www.youtube.com/watch?v=aqdum6lnhJ8",
+                "summary": "..."
+            },
+            {
+                "title": "Show HN: Keydris checks your AI agent's permissions before it sends email",
+                "link": "https://www.youtube.com/watch?v=De0PQTEL8r0",
+                "summary": "..."
+            },
+            {
+                "title": "Mark Zuckerberg Showcases Muse AI Agent Fused with Smartglasses",
+                "link": "https://www.wsj.com/tech/ai/mark-zuckerberg-lays-out-his-vision-muse-ai-agent-fused-with-smartglasses-18d9c85e",
+                "summary": "..."
+            },
+            {
+                "title": "What China's Vibe-Coding Capital Can Tell Us About The AI Boom",
+                "link": "https://www.newyorker.com/news/the-lede/what-chinas-vibe-coding-capital-can-tell-us-about-the-ai-boom",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
