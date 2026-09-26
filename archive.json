@@ -11050,5 +11050,36 @@
         ],
         "Practitioner": [],
         "Prompting": []
+    },
+    "2026-09-26": {
+        "Research": [],
+        "Practitioner": [
+            {
+                "title": "OpenAI says its AI agents posted user images online in error",
+                "link": "https://techxplore.com/news/2026-09-openai-ai-agents-user-images.html",
+                "summary": "..."
+            },
+            {
+                "title": "Chinese AI models surge in global popularity \u2013 and Washington is worried",
+                "link": "https://www.cnbc.com/2026/09/26/china-ai-global-adoption.html",
+                "summary": "..."
+            },
+            {
+                "title": "Show HN: As\u1ee5s\u1ee5 \u1eccma, a free app for learning Igbo with native-speaker audio",
+                "link": "https://asusuoma.com",
+                "summary": "..."
+            },
+            {
+                "title": "Is the AI Bubble About to Be Tested?",
+                "link": "https://www.youtube.com/watch?v=T-oXyXwD6sE",
+                "summary": "..."
+            },
+            {
+                "title": "Restricting AI Agents When No Human Is Watching",
+                "link": "https://a16y.ai/blog/securing-ai-agents-when-no-human-is-watching",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
