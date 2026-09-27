@@ -11081,5 +11081,36 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-09-27": {
+        "Research": [],
+        "Practitioner": [
+            {
+                "title": "Your AI Agent Forgot Half of What You Told It",
+                "link": "https://www.oreilly.com/radar/your-ai-agent-already-forgot-half-of-what-you-told-it/",
+                "summary": "..."
+            },
+            {
+                "title": "Human-AI partnerships are for alignment, not capability",
+                "link": "https://www.seangoedecke.com/human-ai-partnerships-are-for-alignment-not-capability/",
+                "summary": "..."
+            },
+            {
+                "title": "AI Doesn't Need to Invent a Supervirus to Be Dangerous",
+                "link": "https://liorzi.substack.com/p/ai-doesnt-need-to-invent-a-supervirus",
+                "summary": "..."
+            },
+            {
+                "title": "Show HN: Augur \u2013 Sandboxed macOS VMs with Xcode for AI Coding Agents",
+                "link": "https://github.com/h1d3mun3/augur",
+                "summary": "..."
+            },
+            {
+                "title": "A wall that listens: the local-LLM pipeline behind an AI party in Vilnius",
+                "link": "https://vania-novikau.me/ai-party-wall/",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
