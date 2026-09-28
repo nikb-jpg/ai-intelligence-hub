@@ -11112,5 +11112,36 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-09-28": {
+        "Research": [
+            {
+                "title": "Bringing AI to Autonomous Systems -- From Cognition to Collective Intelligence",
+                "link": "https://arxiv.org/abs/2609.30291",
+                "summary": "arXiv:2609.30291v1 Announce Type: new \nAbstract: The purpose of this article is to highlight the central role of autonomous systems as the ultimate stage in the development of AI, to explain the under..."
+            },
+            {
+                "title": "ScopeBench: Do Agents Preserve Engagement Boundaries Under Goal Pressure?",
+                "link": "https://arxiv.org/abs/2609.30325",
+                "summary": "arXiv:2609.30325v1 Announce Type: new \nAbstract: Agents are increasingly deployed with real autonomy in web application and network penetration testing, where a single out-of-scope action can breach a..."
+            },
+            {
+                "title": "When Is a Multi-Agent Code Judge Actually Grounded? Two Label-Free Measurements, and a Judge That Declines to Guess",
+                "link": "https://arxiv.org/abs/2609.30328",
+                "summary": "arXiv:2609.30328v1 Announce Type: new \nAbstract: When one language model judges whether another's code is correct, it does not report the absence of evidence. It returns a confident verdict with reaso..."
+            },
+            {
+                "title": "Bridging LLM Agents and Data Spaces: An Architectural Mediation Approach using the Model Context Protocol",
+                "link": "https://arxiv.org/abs/2609.30341",
+                "summary": "arXiv:2609.30341v1 Announce Type: new \nAbstract: Data Spaces enable sovereign and governed data sharing across organizational boundaries, but their integration with AI agents remains challenging due t..."
+            },
+            {
+                "title": "Stealth Apart, Harm Together: Skill Cascading Attacks on Skill-Based Agent Systems",
+                "link": "https://arxiv.org/abs/2609.30383",
+                "summary": "arXiv:2609.30383v1 Announce Type: new \nAbstract: A skill is a modular package of natural-language instructions, executable scripts, and reference resources that an agent can load at runtime to extend ..."
+            }
+        ],
+        "Practitioner": [],
+        "Prompting": []
     }
 }
