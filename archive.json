@@ -11143,5 +11143,62 @@
         ],
         "Practitioner": [],
         "Prompting": []
+    },
+    "2026-09-29": {
+        "Research": [
+            {
+                "title": "Bringing AI to Autonomous Systems -- From Cognition to Collective Intelligence",
+                "link": "https://arxiv.org/abs/2609.30291",
+                "summary": "arXiv:2609.30291v1 Announce Type: new \nAbstract: The purpose of this article is to highlight the central role of autonomous systems as the ultimate stage in the development of AI, to explain the under..."
+            },
+            {
+                "title": "ScopeBench: Do Agents Preserve Engagement Boundaries Under Goal Pressure?",
+                "link": "https://arxiv.org/abs/2609.30325",
+                "summary": "arXiv:2609.30325v1 Announce Type: new \nAbstract: Agents are increasingly deployed with real autonomy in web application and network penetration testing, where a single out-of-scope action can breach a..."
+            },
+            {
+                "title": "When Is a Multi-Agent Code Judge Actually Grounded? Two Label-Free Measurements, and a Judge That Declines to Guess",
+                "link": "https://arxiv.org/abs/2609.30328",
+                "summary": "arXiv:2609.30328v1 Announce Type: new \nAbstract: When one language model judges whether another's code is correct, it does not report the absence of evidence. It returns a confident verdict with reaso..."
+            },
+            {
+                "title": "Bridging LLM Agents and Data Spaces: An Architectural Mediation Approach using the Model Context Protocol",
+                "link": "https://arxiv.org/abs/2609.30341",
+                "summary": "arXiv:2609.30341v1 Announce Type: new \nAbstract: Data Spaces enable sovereign and governed data sharing across organizational boundaries, but their integration with AI agents remains challenging due t..."
+            },
+            {
+                "title": "Stealth Apart, Harm Together: Skill Cascading Attacks on Skill-Based Agent Systems",
+                "link": "https://arxiv.org/abs/2609.30383",
+                "summary": "arXiv:2609.30383v1 Announce Type: new \nAbstract: A skill is a modular package of natural-language instructions, executable scripts, and reference resources that an agent can load at runtime to extend ..."
+            }
+        ],
+        "Practitioner": [
+            {
+                "title": "What's the Future for Pure Math Research in the Age of AI?",
+                "link": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai/",
+                "summary": "..."
+            },
+            {
+                "title": "Why Secret Collaboration Is an AI Agent Security Risk",
+                "link": "https://spectrum.ieee.org/ai-agent-security",
+                "summary": "..."
+            },
+            {
+                "title": "Shopify adds WebMCP checkout for browser-based AI agents",
+                "link": "https://shopify.dev/docs/agents/carts-and-checkout/checkout-webmcp",
+                "summary": "..."
+            },
+            {
+                "title": "Unsurprisingly, Meta's new Muse AI agent blatantly ignores users permissions",
+                "link": "https://appleinsider.com/articles/26/09/28/metas-new-ai-agent-blatantly-ignores-users-permissions",
+                "summary": "..."
+            },
+            {
+                "title": "AI coding models state their assumptions only 46% of the time",
+                "link": "https://bito.ai/benchmarks/ai-coding-model-cost/",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
