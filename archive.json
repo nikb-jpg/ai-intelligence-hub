@@ -11200,5 +11200,36 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-09-30": {
+        "Research": [
+            {
+                "title": "OpenAI-HuggingFace: A Reproduction & Lessons for Alignment Testing",
+                "link": "https://arxiv.org/abs/2609.35799",
+                "summary": "arXiv:2609.35799v1 Announce Type: new \nAbstract: In July 2026, OpenAI's agents coordinated over channels outside their intended environment to breach Hugging Face's secured infrastructure. Could exist..."
+            },
+            {
+                "title": "Neurosymbolic Routing for Reliable Reasoning on Resource-Constrained Edge Devices",
+                "link": "https://arxiv.org/abs/2609.35833",
+                "summary": "arXiv:2609.35833v1 Announce Type: new \nAbstract: Running a language model on edge hardware provides private and low-latency reasoning without a network connection, and yet the small models that fit on..."
+            },
+            {
+                "title": "Is Human-Readable Text Necessary for Effective LLM Fine-Tuning?",
+                "link": "https://arxiv.org/abs/2609.35868",
+                "summary": "arXiv:2609.35868v1 Announce Type: new \nAbstract: Is human readability necessary for effective fine-tuning of large language models? We investigate whether model-conditioned training representations ca..."
+            },
+            {
+                "title": "The Price of Token Boundaries: Compression Certificates and Prediction",
+                "link": "https://arxiv.org/abs/2609.35869",
+                "summary": "arXiv:2609.35869v1 Announce Type: new \nAbstract: Pre-tokenisation restricts which text fragments can become prediction units, but its compression cost is obscured when tokenisers are compared only und..."
+            },
+            {
+                "title": "More Programs or More Rolls? Separating Coverage from Specialization in LLM Harnesses",
+                "link": "https://arxiv.org/abs/2609.35873",
+                "summary": "arXiv:2609.35873v1 Announce Type: new \nAbstract: Automated generation of LLM harnesses promises to improve inference through task specialization. Yet additional answer coverage can arise from repeated..."
+            }
+        ],
+        "Practitioner": [],
+        "Prompting": []
     }
 }
