@@ -11262,5 +11262,62 @@
         ],
         "Practitioner": [],
         "Prompting": []
+    },
+    "2026-10-02": {
+        "Research": [
+            {
+                "title": "Heavy-Tailed Memory Traces in Long-Horizon Language Agents",
+                "link": "https://arxiv.org/abs/2610.00010",
+                "summary": "arXiv:2610.00010v1 Announce Type: new \nAbstract: Long-horizon language agents increasingly rely on external memory as a frozen world model, yet current memory systems are usually judged only by task s..."
+            },
+            {
+                "title": "When Do Causal World Models Help Modular LLM Agents",
+                "link": "https://arxiv.org/abs/2610.00012",
+                "summary": "arXiv:2610.00012v1 Announce Type: new \nAbstract: LLM agents increasingly act through modular systems, such as order, payment, inventory, and shipment services, where actions in one module change which..."
+            },
+            {
+                "title": "From Proposal to Verified Effect: Praxa, an Evidence-Bound Harness for Governed AI Agent Execution",
+                "link": "https://arxiv.org/abs/2610.00015",
+                "summary": "arXiv:2610.00015v1 Announce Type: new \nAbstract: Large-language-model agents can propose and execute actions, but proposal, authority, dispatch, verified external effect, and serving promotion are dif..."
+            },
+            {
+                "title": "What Do Rationales Communicate? A Message-Intervention Study in Role-Specialized QA",
+                "link": "https://arxiv.org/abs/2610.00018",
+                "summary": "arXiv:2610.00018v1 Announce Type: new \nAbstract: Role-specialized QA pipelines increasingly pass rationales from a reasoner to a verifier, but it is unclear what this message actually buys: better ans..."
+            },
+            {
+                "title": "Measuring the Microtask Eligibility Gap: When Is an Off-the-Shelf SLM Enough for an Agent Harness?",
+                "link": "https://arxiv.org/abs/2610.00025",
+                "summary": "arXiv:2610.00025v1 Announce Type: new \nAbstract: Agent harnesses increasingly want to run small language models (SLMs) on the microtasks around a frontier large language model (LLM) planner: auto-appr..."
+            }
+        ],
+        "Practitioner": [
+            {
+                "title": "Ask HN: I think the AI terminology needs a reset",
+                "link": "https://news.ycombinator.com/item?id=49933750",
+                "summary": "..."
+            },
+            {
+                "title": "AI Agents Need an Undo Button",
+                "link": "https://cacm.acm.org/blogcacm/ai-agents-need-an-undo-button/",
+                "summary": "..."
+            },
+            {
+                "title": "With most information hidden, the game Stratego had stumped AI\u2013until now",
+                "link": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
+                "summary": "..."
+            },
+            {
+                "title": "Reddit to sunset RSS access because of AI bots",
+                "link": "https://www.theverge.com/tech/1002788/old-reddit-ai-scraping",
+                "summary": "..."
+            },
+            {
+                "title": "AI Pace Accelerating, Career Traps for Smart People \u2013 Food for Agile Thought 564",
+                "link": "https://age-of-product.com/food-agile-thought-564-ai-pace-accelerating/",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
