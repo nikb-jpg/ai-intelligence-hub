@@ -11319,5 +11319,36 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-10-03": {
+        "Research": [],
+        "Practitioner": [
+            {
+                "title": "OpenAI Fires Researchers for Allegedly Sharing Information with AI Safety Group",
+                "link": "https://www.wsj.com/tech/ai/openai-parts-ways-with-researchers-who-allegedly-shared-confidential-information-aebac528",
+                "summary": "..."
+            },
+            {
+                "title": "Anthropic claims popular Chinese AI model has Mythos-class hacking abilities",
+                "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-claims-popular-chinese-ai-model-has-mythos-class-hacking-abilities-frontier-red-teaming-report-details-weak-safeguards-on-open-weight-ai",
+                "summary": "..."
+            },
+            {
+                "title": "Developers Delete Unit Test Lines with AI Shift",
+                "link": "https://x.com/i/trending/2106211685782483337",
+                "summary": "..."
+            },
+            {
+                "title": "Show HN: Germany's new sovereign AI model Kolibri",
+                "link": "https://tej.as/blog/aleph-alpha-kolibri",
+                "summary": "..."
+            },
+            {
+                "title": "Defensibility in AI Data: Lessons from Ads",
+                "link": "https://twitter.com/gokulr/status/2105838034646077890",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
