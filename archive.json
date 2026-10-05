@@ -11355,5 +11355,36 @@
         "Research": [],
         "Practitioner": [],
         "Prompting": []
+    },
+    "2026-10-05": {
+        "Research": [
+            {
+                "title": "MintFlow: Minimal Trajectory Intervention for Constrained Flow Matching",
+                "link": "https://arxiv.org/abs/2610.02260",
+                "summary": "arXiv:2610.02260v1 Announce Type: new \nAbstract: Flow matching models excel at generative modeling, and many downstream applications require their samples to satisfy prescribed constraints, such as ob..."
+            },
+            {
+                "title": "Fast Models, Slow Evidence: A Paired and Self-Audited Evaluation of System-1 Decision Models for LLM Agent Harnesses",
+                "link": "https://arxiv.org/abs/2610.02267",
+                "summary": "arXiv:2610.02267v1 Announce Type: new \nAbstract: Agent harnesses make many small, typed decisions per task: which model to call, which tool to use, whether retrieved text is relevant, whether an input..."
+            },
+            {
+                "title": "The AI Risk Observatory: What Can We Learn from AI Disclosures in Annual Reports About Societal Resilience?",
+                "link": "https://arxiv.org/abs/2610.02281",
+                "summary": "arXiv:2610.02281v1 Announce Type: new \nAbstract: Societal resilience research relies on access to useful and actionable data, which motivates our main research question: Can annual reports, processed ..."
+            },
+            {
+                "title": "Keep It CALM: Analyzing the Limits of Global Unsafety in Text-to-Image Generation",
+                "link": "https://arxiv.org/abs/2610.02300",
+                "summary": "arXiv:2610.02300v1 Announce Type: new \nAbstract: Training-free safeguards for text-to-image generation often rely on a reusable safety signal, such as an unsafe direction or global toxic subspace, app..."
+            },
+            {
+                "title": "Choosing Before Acting: Comparative Value Estimation for Long-Horizon Tool-Use Agents",
+                "link": "https://arxiv.org/abs/2610.02330",
+                "summary": "arXiv:2610.02330v1 Announce Type: new \nAbstract: Large language models (LLMs) rely on long-horizon tool invocation sequences for complex tasks, where each invocation can alter the task state and condi..."
+            }
+        ],
+        "Practitioner": [],
+        "Prompting": []
     }
 }
