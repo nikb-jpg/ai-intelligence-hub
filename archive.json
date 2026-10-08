@@ -11422,5 +11422,36 @@
         ],
         "Practitioner": [],
         "Prompting": []
+    },
+    "2026-10-08": {
+        "Research": [
+            {
+                "title": "GAMEGO: Training Game-Dev Agents with Synthetic Trajectories Anchored in Real-World Assets",
+                "link": "https://arxiv.org/abs/2610.06910",
+                "summary": "arXiv:2610.06910v1 Announce Type: new \nAbstract: Recent advances in Large Language Models (LLMs) have demonstrated remarkable capabilities in web front-end execution, with browser-based game generatio..."
+            },
+            {
+                "title": "Text2Dashboard: A Governed Agent Architecture for Natural-Language Dashboard Generation over Enterprise DataBrain",
+                "link": "https://arxiv.org/abs/2610.06914",
+                "summary": "arXiv:2610.06914v1 Announce Type: new \nAbstract: Text2Dashboard is a DataBrain-specific prototype that turns natural-language analytic requests into inspectable dashboards. An installable Codex plugin..."
+            },
+            {
+                "title": "FluidPD: In-Place Elasticity for SLO-Aware Prefill-Decode Disaggregated LLM Serving",
+                "link": "https://arxiv.org/abs/2610.06917",
+                "summary": "arXiv:2610.06917v1 Announce Type: new \nAbstract: Prefill-decode disaggregation is becoming a common architecture for LLM serving because it separates two phases with distinct execution patterns and SL..."
+            },
+            {
+                "title": "Anchor Divergence for Semantic Geometry in Contrastive Learning",
+                "link": "https://arxiv.org/abs/2610.06919",
+                "summary": "arXiv:2610.06919v1 Announce Type: new \nAbstract: This paper concerns how semantic context determines geometry in learned vector representations. Similarity is typically measured using cosine similarit..."
+            },
+            {
+                "title": "RadOnc-Agent: An LLM-Orchestrated Framework for AI Workflows Across the Radiotherapy Care Pathway",
+                "link": "https://arxiv.org/abs/2610.06923",
+                "summary": "arXiv:2610.06923v1 Announce Type: new \nAbstract: Artificial intelligence has advanced individual radiotherapy tasks, yet these capabilities remain separated across clinical stages, software environmen..."
+            }
+        ],
+        "Practitioner": [],
+        "Prompting": []
     }
 }
