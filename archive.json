@@ -11453,5 +11453,36 @@
         ],
         "Practitioner": [],
         "Prompting": []
+    },
+    "2026-10-09": {
+        "Research": [
+            {
+                "title": "An Explainable Header-Centric Framework for Large-Scale Semantic Table Interpretation and Data Quality Assessment",
+                "link": "https://arxiv.org/abs/2610.10541",
+                "summary": "arXiv:2610.10541v1 Announce Type: new \nAbstract: Knowledge Graph (KG) quality depends not only on downstream graph validation, but also on the quality of tabular metadata used before integration. In m..."
+            },
+            {
+                "title": "Synthesis Through Simulation: Generating Coherent Enterprise Data via Scalable Agent-System Interaction",
+                "link": "https://arxiv.org/abs/2610.10549",
+                "summary": "arXiv:2610.10549v1 Announce Type: new \nAbstract: Tool-calling agents have become central to enterprise AI, yet training and evaluating them at scale remains severely constrained due to business and le..."
+            },
+            {
+                "title": "Agent-Controlled Forgetting for Tool-Using Agents: Reversible Context Curation in Practice",
+                "link": "https://arxiv.org/abs/2610.10590",
+                "summary": "arXiv:2610.10590v1 Announce Type: new \nAbstract: Tool-using agents repeatedly carry observations whose useful content can be much smaller than their original payload. We study agent-controlled forgett..."
+            },
+            {
+                "title": "Verification and Self-Improvement in Agentic AI: Foundations and Limits",
+                "link": "https://arxiv.org/abs/2610.10611",
+                "summary": "arXiv:2610.10611v1 Announce Type: new \nAbstract: Agentic AI systems can improve by searching longer, receiving additional support, or modifying how they propose and verify outputs. A performance score..."
+            },
+            {
+                "title": "The Harness as the Only Mutable Surface: Compliance-Bounded Self-Evolution of LLM Agents in Credit Pipelines, with a Measured Admission Gate",
+                "link": "https://arxiv.org/abs/2610.10629",
+                "summary": "arXiv:2610.10629v1 Announce Type: new \nAbstract: Self-improving LLM agents can adapt a credit pipeline to a changed rule, but an agent that rewrites itself destroys the artefact a supervisor reviews: ..."
+            }
+        ],
+        "Practitioner": [],
+        "Prompting": []
     }
 }
