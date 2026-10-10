@@ -11484,5 +11484,36 @@
         ],
         "Practitioner": [],
         "Prompting": []
+    },
+    "2026-10-10": {
+        "Research": [],
+        "Practitioner": [
+            {
+                "title": "Side Projects in the AI Era: The Ponzi Potato Story",
+                "link": "https://blog.stophe.com/side-projects-in-the-ai-era-the-ponzi-potato-story",
+                "summary": "..."
+            },
+            {
+                "title": "AI found solutions to problems in 22 scientific fields hiding in plain sight",
+                "link": "https://www.science.org/content/article/problems-22-scientific-fields-had-solutions-hiding-plain-sight-ai-has-found-them?referrer=https%3A%2F%2Fnews.google.com%2F",
+                "summary": "..."
+            },
+            {
+                "title": "Ask HN: How will socio-economic mobility look like in an AI future?",
+                "link": "https://news.ycombinator.com/item?id=50032742",
+                "summary": "..."
+            },
+            {
+                "title": "Show HN: ShipOrNah \u2013 Free security scan for AI-generated apps",
+                "link": "https://shipornah.com",
+                "summary": "..."
+            },
+            {
+                "title": "Jensen Huang Doing Michale Jackson Dance (AI)",
+                "link": "https://www.instagram.com/reel/DeRdcT5iGjW/",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
