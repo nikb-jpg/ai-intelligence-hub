@@ -11520,5 +11520,36 @@
         "Research": [],
         "Practitioner": [],
         "Prompting": []
+    },
+    "2026-10-12": {
+        "Research": [
+            {
+                "title": "Faithfulness Without Anchors: A Position Paper on the Structural Misalignments of Explainable AI Faithfulness Metrics for Feature Importance",
+                "link": "https://arxiv.org/abs/2610.12493",
+                "summary": "arXiv:2610.12493v1 Announce Type: new \nAbstract: Explainable Artificial Intelligence (XAI) tools have often been presented as methods to increase trust in machine learning models by making aspects of ..."
+            },
+            {
+                "title": "EliteTable: Self-Improving Program Search for Executable Control Policies",
+                "link": "https://arxiv.org/abs/2610.12536",
+                "summary": "arXiv:2610.12536v1 Announce Type: new \nAbstract: EliteTable is a self-improving program-search algorithm guided by large language models (LLMs) that uses a fixed-capacity table of high-scoring solutio..."
+            },
+            {
+                "title": "Equal-Budget Monte Carlo Tree Search versus Randomized-Restart List Scheduling for DAG Workflows: A Controlled Equal-Budget Computational Study",
+                "link": "https://arxiv.org/abs/2610.12542",
+                "summary": "arXiv:2610.12542v1 Announce Type: new \nAbstract: Monte Carlo Tree Search (MCTS) is often proposed for scheduling directed-acyclic-graph (DAG) workflows, yet most studies never run the comparison that ..."
+            },
+            {
+                "title": "Know What You Don't Know: Agentic Data Synthesis by Evolving Generation Space for Closed-Loop Learning",
+                "link": "https://arxiv.org/abs/2610.12593",
+                "summary": "arXiv:2610.12593v1 Announce Type: new \nAbstract: The continued improvement of large language models increasingly depends on synthetic experience, yet effective data synthesis for interactive agents re..."
+            },
+            {
+                "title": "SpireBench: Evaluating Long-Horizon Strategic Play of Agentic Models with Slay the Spire",
+                "link": "https://arxiv.org/abs/2610.12596",
+                "summary": "arXiv:2610.12596v1 Announce Type: new \nAbstract: Agentic large language models now tackle complex tasks, yet strategic reasoning over long horizons is under-studied: most agentic benchmarks are short ..."
+            }
+        ],
+        "Practitioner": [],
+        "Prompting": []
     }
 }
