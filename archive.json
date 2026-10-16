@@ -11618,5 +11618,62 @@
         ],
         "Practitioner": [],
         "Prompting": []
+    },
+    "2026-10-16": {
+        "Research": [
+            {
+                "title": "The World Won't Wait: Evaluating and Teaching Agents Under a Live Clock",
+                "link": "https://arxiv.org/abs/2610.20665",
+                "summary": "arXiv:2610.20665v1 Announce Type: new \nAbstract: Large language model (LLM) agents can solve complex interactive tasks, yet reasoning and tool calls take time. In continuously changing environments, a..."
+            },
+            {
+                "title": "Evaluating Model Capabilities After Benchmark Saturation",
+                "link": "https://arxiv.org/abs/2610.20667",
+                "summary": "arXiv:2610.20667v1 Announce Type: new \nAbstract: Rapid advances in AI capabilities are causing benchmarks to saturate. Once several models approach perfect scores, a benchmark loses its power to diffe..."
+            },
+            {
+                "title": "Value-Informed Schedule Trimming for Accelerated Sequential Monte Carlo Guidance in Discrete Diffusion",
+                "link": "https://arxiv.org/abs/2610.20669",
+                "summary": "arXiv:2610.20669v1 Announce Type: new \nAbstract: Reward-guided discrete diffusion enables test-time alignment with downstream objectives, but applying Sequential Monte Carlo (SMC) guidance at every de..."
+            },
+            {
+                "title": "AlphaDiana: A Measurement System for Agents in Verifiable Reasoning Tasks",
+                "link": "https://arxiv.org/abs/2610.20675",
+                "summary": "arXiv:2610.20675v1 Announce Type: new \nAbstract: Agents pair reasoning models with harnesses that organize model calls, execute tools, load skill instructions, and retain history in memory. Understand..."
+            },
+            {
+                "title": "When Correctness Feedback Erases Evidence: Phase-Separated Completeness Auditing in Verus",
+                "link": "https://arxiv.org/abs/2610.20676",
+                "summary": "arXiv:2610.20676v1 Announce Type: new \nAbstract: Correctness feedback suppresses the very evidence that specification-completeness auditing is designed to uncover: programs that satisfy a written cont..."
+            }
+        ],
+        "Practitioner": [
+            {
+                "title": "Show HN: Cr34te.it \u2013 a website anyone can rewrite one turn at a time with AI",
+                "link": "https://cr34te.it/",
+                "summary": "..."
+            },
+            {
+                "title": "Belgrade AI Conference: Safety, Federated Learning and Hiring Bias",
+                "link": "https://irishtechnews.ie/belgrade-ai-conference-safety-learning/",
+                "summary": "..."
+            },
+            {
+                "title": "The AI Bill Is the Cheap Part",
+                "link": "https://avivbenyosef.com/the-ai-bill-is-the-cheap-part/",
+                "summary": "..."
+            },
+            {
+                "title": "Will the AI Boom End Like the Railroad Crash of 1873? [video]",
+                "link": "https://www.youtube.com/watch?v=dlkE5cFPj4w",
+                "summary": "..."
+            },
+            {
+                "title": "Show HN: Deterministic AI Agents Guardrail",
+                "link": "https://github.com/aws-safebox/aws-safebox",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
