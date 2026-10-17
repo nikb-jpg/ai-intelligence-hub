@@ -11675,5 +11675,36 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-10-17": {
+        "Research": [],
+        "Practitioner": [
+            {
+                "title": "As AI triggers a tsunami, computer science conferences impose caps",
+                "link": "https://www.science.org/content/article/ai-triggers-tsunami-submissions-computer-science-conferences-impose-caps",
+                "summary": "..."
+            },
+            {
+                "title": "AI Engineering Fluency Extension for VS Code / JetBrains / Visual Studio, NPM",
+                "link": "https://github.com/rajbos/ai-engineering-fluency",
+                "summary": "..."
+            },
+            {
+                "title": "The AI Expectations Gap",
+                "link": "https://www.anthropic.com/research/ai-expectations-gap",
+                "summary": "..."
+            },
+            {
+                "title": "Roundtables: A Conversation with the Creator of AI-Designed Viruses",
+                "link": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+                "summary": "..."
+            },
+            {
+                "title": "Amazon devices chief sees a future where AI devices replace the need to use apps",
+                "link": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
