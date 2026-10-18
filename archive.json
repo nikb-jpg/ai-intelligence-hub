@@ -11706,5 +11706,36 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-10-18": {
+        "Research": [],
+        "Practitioner": [
+            {
+                "title": "I've been using an AI agent for a month, and I'm both impressed and terrified",
+                "link": "https://www.androidauthority.com/using-ai-agent-instinct-one-month-later-impressions-3720825/",
+                "summary": "..."
+            },
+            {
+                "title": "Show HN: Shipback \u2013 SFTP deploys your AI agent can undo",
+                "link": "https://github.com/aldohushi1-stack/shipback-sftp",
+                "summary": "..."
+            },
+            {
+                "title": "Doctors and Lawyers Are Joining AI's $400-an-Hour Gig Economy",
+                "link": "https://news.bloomberglaw.com/esg/doctors-and-lawyers-are-joining-ais-400-an-hour-gig-economy",
+                "summary": "..."
+            },
+            {
+                "title": "Show HN: Flying Car AI \u2013 make your car or your product fly from one photo",
+                "link": "https://flyingcar-ai.org",
+                "summary": "..."
+            },
+            {
+                "title": "Basal-Omni: An open-weight 31B model for AI decision-making (nr 1 on JevBench)",
+                "link": "https://huggingface.co/Remek/basal-omni-1.0-ultra",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
