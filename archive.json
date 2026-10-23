@@ -11835,5 +11835,62 @@
         ],
         "Practitioner": [],
         "Prompting": []
+    },
+    "2026-10-23": {
+        "Research": [
+            {
+                "title": "A Small Model Asks Better: Fine-Tuning Query Clarification for Retrieval-Augmented Generation",
+                "link": "https://arxiv.org/abs/2610.28686",
+                "summary": "arXiv:2610.28686v1 Announce Type: new \nAbstract: Query clarification is essential for retrieval-augmented generation (RAG) systems that face ambiguous user queries. We consider multi-turn grounded con..."
+            },
+            {
+                "title": "Scaling in Games: Continued Pre-Training For Embodied Agents In Diverse Virtual Worlds",
+                "link": "https://arxiv.org/abs/2610.28698",
+                "summary": "arXiv:2610.28698v1 Announce Type: new \nAbstract: Scaling data, diversity and model capacity has improved embodied learning in physical environments, where diverse experiences remain grounded in shared..."
+            },
+            {
+                "title": "SpecEvo: Speculative Evolution with Large Language Models for Cost-Efficient Scientific Discovery",
+                "link": "https://arxiv.org/abs/2610.28706",
+                "summary": "arXiv:2610.28706v1 Announce Type: new \nAbstract: LLM-driven evolutionary search is a promising paradigm for scientific discovery, but existing methods remain costly and slow, often applying expensive ..."
+            },
+            {
+                "title": "Automating ML for Science: Can Frontier Agents Climb Scientific Hills in the Wild?",
+                "link": "https://arxiv.org/abs/2610.28763",
+                "summary": "arXiv:2610.28763v1 Announce Type: new \nAbstract: Frontier coding agents are increasingly framed as end-to-end automated researchers, and ML for science offers a demanding test of that promise: improvi..."
+            },
+            {
+                "title": "Forging More Tasks into Better Harnesses: Agentic Harness Evolution via Successive Scale Racing",
+                "link": "https://arxiv.org/abs/2610.28815",
+                "summary": "arXiv:2610.28815v1 Announce Type: new \nAbstract: Agentic harness evolution optimizes an agent's instructions, tools, and control flow by using its task execution experiences as evolving evidence. Whil..."
+            }
+        ],
+        "Practitioner": [
+            {
+                "title": "Crusoe to deploy AI cloud in Paraguay powered by the Itaipu dam",
+                "link": "https://www.crusoe.ai/resources/newsroom/crusoe-araico-hydroelectric-ai-infrastructure-partnership",
+                "summary": "..."
+            },
+            {
+                "title": "How DevRel Is Leading AI Adoption",
+                "link": "https://angiejones.tech/how-devrel-is-leading-ai-adoption/",
+                "summary": "..."
+            },
+            {
+                "title": "Microsoft develops AI tool that can diagnose 'sequentially' like a doctor",
+                "link": "https://www.reuters.com/business/healthcare-pharmaceuticals/microsoft-develops-ai-tool-that-can-diagnose-sequentially-like-doctor-2026-10-23/",
+                "summary": "..."
+            },
+            {
+                "title": "AI Identity Management System",
+                "link": "https://datatracker.ietf.org/doc/draft-ietf-wimse-aims/00/",
+                "summary": "..."
+            },
+            {
+                "title": "Only 13% of companies see real returns from AI, survey finds",
+                "link": "https://www.gartner.com/en/newsroom/press-releases/2026-10-19-gartner-survey-finds-only-13-percent-of-cios-say-their-enterprise-has-realized-significant-or-transformational-value-from-ai",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
