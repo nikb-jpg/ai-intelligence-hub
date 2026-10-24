@@ -11892,5 +11892,36 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-10-24": {
+        "Research": [],
+        "Practitioner": [
+            {
+                "title": "Minimum lot sizes, Boeing's next 737 MAX, Fervo short sellers, Figure AI's data",
+                "link": "https://www.construction-physics.com/p/reading-list-102426",
+                "summary": "..."
+            },
+            {
+                "title": "Shigeru Miyamoto on Gen AI",
+                "link": "https://www.ndw.jp/nintendo-interview-261023/",
+                "summary": "..."
+            },
+            {
+                "title": "Draggy: A Windows desktop app for local and cloud AI chat and coding",
+                "link": "https://github.com/Lucki74/draggy",
+                "summary": "..."
+            },
+            {
+                "title": "Show HN: AI text detector that never sees your text (runs 100% in-browser)",
+                "link": "https://kouh.me/ai-text-detector",
+                "summary": "..."
+            },
+            {
+                "title": "Is This Machine Playing?",
+                "link": "https://machineplaying.org/",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
