@@ -11928,5 +11928,36 @@
         "Research": [],
         "Practitioner": [],
         "Prompting": []
+    },
+    "2026-10-26": {
+        "Research": [
+            {
+                "title": "Tradeoff-Aware Territory Design: A Multi-Objective Decision System for Enterprise Customer-to-Seller Allocation",
+                "link": "https://arxiv.org/abs/2610.31701",
+                "summary": "arXiv:2610.31701v1 Announce Type: new \nAbstract: Enterprise customer journeys are shaped not only by product experiences and marketing, but also by recurring resource-allocation decisions. In B2B go-t..."
+            },
+            {
+                "title": "Phronix: The Capability-Centric Learning Paradigm for Agents",
+                "link": "https://arxiv.org/abs/2610.31789",
+                "summary": "arXiv:2610.31789v1 Announce Type: new \nAbstract: Scientific computing increasingly relies on large language model-based agents for performance engineering tasks such as instrumentation, analysis, and ..."
+            },
+            {
+                "title": "Patronizing and Condescending Language Detection in English and Mandarin",
+                "link": "https://arxiv.org/abs/2610.31808",
+                "summary": "arXiv:2610.31808v1 Announce Type: new \nAbstract: Patronizing and condescending language (PCL) is a form of harmful language that belittles and assumes pity for vulnerable groups, reinforcing negative ..."
+            },
+            {
+                "title": "PaperFormalizer: Author-in-the-Loop Autoformalization of Research Papers in Lean",
+                "link": "https://arxiv.org/abs/2610.31810",
+                "summary": "arXiv:2610.31810v1 Announce Type: new \nAbstract: Even a carefully proofread paper can leave small gaps in its proofs or its stated assumptions. We introduce PaperFormalizer, a Lean-based agentic pipel..."
+            },
+            {
+                "title": "Don't Forget What You Just Learned: Self-Directed Repair Turns Agent Mistakes Into Lasting Lessons",
+                "link": "https://arxiv.org/abs/2610.31846",
+                "summary": "arXiv:2610.31846v1 Announce Type: new \nAbstract: Intelligent agents should learn from their mistakes so that experience leads to continuous improvement. Yet today's agents recover from a mistake only ..."
+            }
+        ],
+        "Practitioner": [],
+        "Prompting": []
     }
 }
