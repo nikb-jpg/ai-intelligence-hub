@@ -12047,5 +12047,36 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-10-29": {
+        "Research": [],
+        "Practitioner": [
+            {
+                "title": "Show HN: Kin \u2013 Make your AI apps answer to you (allow, ask or block each action)",
+                "link": "https://kinlab.ai",
+                "summary": "..."
+            },
+            {
+                "title": "A JSON Schema is not an AI governance layer",
+                "link": "https://stackoverflow.blog/2026/10/28/a-json-schema-is-not-an-ai-governance-layer/",
+                "summary": "..."
+            },
+            {
+                "title": "Manifestos, Fear, and 'Loser Thinking': Inside Proton's AI Reckoning",
+                "link": "https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/",
+                "summary": "..."
+            },
+            {
+                "title": "Show HN: SpaceApp \u2013 Run several AI coding CLIs side by side, self-hosted",
+                "link": "https://github.com/oll4com/spaceapp",
+                "summary": "..."
+            },
+            {
+                "title": "Show HN: ROAL \u2013 AI phone host for restaurants that builds itself from your site",
+                "link": "https://tryroal.com",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
