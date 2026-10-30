@@ -12078,5 +12078,36 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-10-30": {
+        "Research": [],
+        "Practitioner": [
+            {
+                "title": "Show HN: Beolis \u2013 Manage your coding AI agents",
+                "link": "https://beolis.com",
+                "summary": "..."
+            },
+            {
+                "title": "Neal Stephenson on AI and What Comes Next [video]",
+                "link": "https://www.youtube.com/watch?v=Ii-aeW5pHPQ",
+                "summary": "..."
+            },
+            {
+                "title": "Cisco gives engineer unlimited AI tokens to rewrite 98% of the company's code",
+                "link": "https://www.tomshardware.com/tech-industry/big-tech/cisco-gives-27-year-old-engineer-unlimited-ai-tokens-to-rewrite-98-percent-of-the-companys-legacy-code-in-24-months-president-plucks-former-startup-founder-telling-him-to-go-nuts",
+                "summary": "..."
+            },
+            {
+                "title": "AI Panic Rhymes with Mercantilism, AI Payoff Anywhere? Food 4 Agile Thought 568",
+                "link": "https://age-of-product.com/food-agile-thought-568-ai-panic/",
+                "summary": "..."
+            },
+            {
+                "title": "Making Failure Diagnosis Reliable with Pensive AI",
+                "link": "https://netflixtechblog.com/making-failure-diagnosis-reliable-with-pensive-ai-6b0811a1c015",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
