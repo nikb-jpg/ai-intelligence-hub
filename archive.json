@@ -12176,5 +12176,36 @@
         "Research": [],
         "Practitioner": [],
         "Prompting": []
+    },
+    "2026-11-03": {
+        "Research": [
+            {
+                "title": "More Rules, Longer Lists? Benchmarking Self-Evolving Agents on a Hidden-Rule Curriculum",
+                "link": "https://arxiv.org/abs/2610.40758",
+                "summary": "arXiv:2610.40758v1 Announce Type: new \nAbstract: Self-evolving agents rewrite a persistent state from feedback, but it is largely untested whether this lets them learn a rule nobody told them. An agen..."
+            },
+            {
+                "title": "Beyond Plausible Prediction: Safety Sufficiency in Web World Models",
+                "link": "https://arxiv.org/abs/2610.40798",
+                "summary": "arXiv:2610.40798v1 Announce Type: new \nAbstract: Web world models increasingly predict the consequences of candidate actions before agents act, yet a plausible predicted future does not necessarily su..."
+            },
+            {
+                "title": "Circumventing the Computational Hardness of Computational Arbitrage",
+                "link": "https://arxiv.org/abs/2610.40831",
+                "summary": "arXiv:2610.40831v1 Announce Type: new \nAbstract: AI model marketplaces host providers with heterogeneous costs and capabilities. These differences create an opportunity for computational arbitrage (Ol..."
+            },
+            {
+                "title": "Incongruence-Aware Evaluation of Multimodal Speech Emotion Recognition in Audio Large Language Models",
+                "link": "https://arxiv.org/abs/2610.40883",
+                "summary": "arXiv:2610.40883v1 Announce Type: new \nAbstract: Voice-interactive large language models process both what a speaker says and how they say it, yet the two channels do not always agree. We ask whether ..."
+            },
+            {
+                "title": "ChatGPT as a Surveillance Assistant? An Exploratory Case Study of AI-Assisted Surveillance Risks",
+                "link": "https://arxiv.org/abs/2610.40890",
+                "summary": "arXiv:2610.40890v1 Announce Type: new \nAbstract: Large language models (LLMs) can generate detailed guidance, functional code, and persuasive text at scale. As one of the most widely used consumer lan..."
+            }
+        ],
+        "Practitioner": [],
+        "Prompting": []
     }
 }
