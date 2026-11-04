@@ -12207,5 +12207,36 @@
         ],
         "Practitioner": [],
         "Prompting": []
+    },
+    "2026-11-04": {
+        "Research": [],
+        "Practitioner": [
+            {
+                "title": "Show HN: RapAvatar \u2013 Turn any photo into a lip-synced rap video with AI",
+                "link": "https://rapavatar.com/",
+                "summary": "..."
+            },
+            {
+                "title": "AI data centers comprehensively defeated at US midterm elections",
+                "link": "https://www.tomshardware.com/tech-industry/data-centers/ai-data-centers-comprehensively-defeated-at-us-midterm-elections-45-measures-put-on-the-ballot-as-americans-overwhelmingly-vote-against-developments",
+                "summary": "..."
+            },
+            {
+                "title": "Reviewing AI-Generated Code",
+                "link": "https://naildrivin5.com/blog/2026/11/03/why-review-ai-generated-code.html",
+                "summary": "..."
+            },
+            {
+                "title": "YC's Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+                "link": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+                "summary": "..."
+            },
+            {
+                "title": "Chatrove \u2013 Organize AI prompts and chats into folders",
+                "link": "https://chromewebstore.google.com/detail/chatrove-\u2013-ai-chat-folder/kmekdnchikkmlpgeahpkhkpjgkijankm",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
