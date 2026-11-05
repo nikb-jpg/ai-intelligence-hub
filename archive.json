@@ -12238,5 +12238,62 @@
             }
         ],
         "Prompting": []
+    },
+    "2026-11-05": {
+        "Research": [
+            {
+                "title": "Who May Overrule the Agent? Evidence-Gated Authority in LLM Review Institutions",
+                "link": "https://arxiv.org/abs/2611.05390",
+                "summary": "arXiv:2611.05390v1 Announce Type: new \nAbstract: Multi-agent language-model systems often add a reviewer to improve an upstream agent's decision. Yet a reviewer can both repair errors and replace deci..."
+            },
+            {
+                "title": "Agent Harness Awareness: Turning Verified Telemetry into Operational Control for Tool-Using Agents",
+                "link": "https://arxiv.org/abs/2611.05391",
+                "summary": "arXiv:2611.05391v1 Announce Type: new \nAbstract: Tool descriptions tell an agent what an action can do, but they do not necessarily reveal whether that action is healthy or suitable at the moment of u..."
+            },
+            {
+                "title": "Uncertainty-Aware Resource Orchestration for Agentic AI Systems",
+                "link": "https://arxiv.org/abs/2611.05392",
+                "summary": "arXiv:2611.05392v1 Announce Type: new \nAbstract: Agentic artificial intelligence (AI) systems powered by large language models (LLMs) execute as autonomous multi-step pipelines that dynamically invoke..."
+            },
+            {
+                "title": "Challenge-Aware Knowledge Recruitment with Meta-Agent Supervision for Medical Multi-Agent Reasoning",
+                "link": "https://arxiv.org/abs/2611.05393",
+                "summary": "arXiv:2611.05393v1 Announce Type: new \nAbstract: Large language models perform strongly on standard medical QA but degrade on harder reasoning tasks, where multi-agent debate often fails to beat stron..."
+            },
+            {
+                "title": "A Feasibility Condition for Confidence-Gated Tiered LLM Inference",
+                "link": "https://arxiv.org/abs/2611.05394",
+                "summary": "arXiv:2611.05394v1 Announce Type: new \nAbstract: Tiered inference distributes large language model computation across a hierarchy of devices, from on-device and edge hardware to the datacenter, and is..."
+            }
+        ],
+        "Practitioner": [
+            {
+                "title": "Mercedes Gives Its Cars an AI Upgrade",
+                "link": "https://www.wsj.com/cio-journal/mercedes-gives-its-cars-an-ai-upgrade-607daae2",
+                "summary": "..."
+            },
+            {
+                "title": "Northmeadow \u2013 encrypted shared memory for local AI agents and people",
+                "link": "https://github.com/bavarian-studio/northmeadow/releases/tag/v0.1.0-alpha.1",
+                "summary": "..."
+            },
+            {
+                "title": "The Beginner's Guide to AI Governance",
+                "link": "https://www.karlsnotes.com/the-beginners-guide-to-ai-governance/",
+                "summary": "..."
+            },
+            {
+                "title": "An updated Model Spec for more capable and beneficial AI",
+                "link": "https://openai.com/index/updated-model-spec/",
+                "summary": "..."
+            },
+            {
+                "title": "Ask HN: In a world with AI agents how has software task estimation changed?",
+                "link": "https://news.ycombinator.com/item?id=50380196",
+                "summary": "..."
+            }
+        ],
+        "Prompting": []
     }
 }
